@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /files/
+Sitemap: http://www.iaeste.or.jp/sitemap.xml

@@ -1,0 +1,45 @@
+steps:
+  - name: "gcr.io/cloud-builders/curl"
+    id: "fetch-firebase-binary"
+    args:
+      - "--silent"
+      - "--location"
+      - "--output"
+      - "firebase"
+      - "https://firebase.tools/bin/linux/latest"
+  - name: "gcr.io/cloud-builders/curl"
+    id: "fetch-hugo-binary"
+    args:
+      - "--silent"
+      - "--location"
+      - "--output"
+      - "hugo.tar.gz"
+      - "https://github.com/gohugoio/hugo/releases/download/v${_HUGO_VERSION}/hugo_extended_${_HUGO_VERSION}_Linux-64bit.tar.gz"
+    waitFor: ["-"]
+  - name: "golang:1-bullseye"
+    env:
+    - "PROJECT_ID=$PROJECT_ID"
+    - "BUILD_ID=$BUILD_ID"
+    script: |
+      #!/usr/bin/env bash
+
+      mkdir -p /tmp
+      mv firebase /tmp
+      chmod 755 /tmp/firebase
+      mv hugo.tar.gz /tmp
+      tar -C /tmp -xzf /tmp/hugo.tar.gz
+
+      cd /workspace/public/
+      files=$(ls)
+      if [[ ! -z "$files" ]]; then
+        rm -r *
+      fi
+
+      cd /workspace/hugo
+      HUGO_ENV=${_HUGO_ENV} /tmp/hugo
+      cd /workspace/
+      mv functions/web/* public/
+      /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
+substitutions:
+  _HUGO_VERSION: 0.111.3
+  _HUGO_ENV: production
