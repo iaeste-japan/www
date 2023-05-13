@@ -67,3 +67,6 @@ node_modules/
 
 # publish directory
 public/
+
+# Hugo cache
+hugo/resources
