@@ -41,5 +41,5 @@ steps:
       mv functions/web/* public/
       /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
 substitutions:
-  _HUGO_VERSION: 0.111.3
+  _HUGO_VERSION: 0.112.3
   _HUGO_ENV: production
