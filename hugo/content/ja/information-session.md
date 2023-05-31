@@ -1,5 +1,5 @@
 ---
-title: "IAESTEインターンシップ説明会に参加しよう！"
+title: "IAESTEインターンシップ説明会"
 url: "internship/information-session"
 aliases: ["students/information-session", "information-session", "説明会"]
 featured_image: ""
