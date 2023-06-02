@@ -25,11 +25,15 @@ IAESTEでは、世界各国の学生に向けて理工学系のインターン�
 
 日時：6月3日（土）10:00-12:00 
 
-開催形式　zoom
+場所：~東京大学本郷キャンパス工学部1号館1階14号室~
+
+*雨天のためzoomのみインターシップ説明会を開催します。
 
 Date: Saturday, June 3, 10:00-12:00 
 
-form zoom
+Place: ~Room 14, 1st floor, Engineering Bldg. 1, Hongo Campus, The University of Tokyo~
+
+* We will held information sessions only on zoom due to rain
 
 ### 説明会の対象者
 
