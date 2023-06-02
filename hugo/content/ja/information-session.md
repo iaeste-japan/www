@@ -27,6 +27,10 @@ IAESTEでは、世界各国の学生に向けて理工学系のインターン�
 
 場所：東京大学本郷キャンパス工学部1号館1階14号室（ハイブリッド方式）
 
+Date: Saturday, June 3, 10:00-12:00 Registration starts at 9:45
+
+Place: Room 14, 1st floor, Engineering Bldg. 1, Hongo Campus, The University of Tokyo (hybrid system)
+
 ### 説明会の対象者
 
 学部2年生以上の学部生、大学院生ですが、興味のある学部1年生もお気軽にご参加ください。また、国籍は問はず、留学生の方も対象です。
