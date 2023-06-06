@@ -1,5 +1,5 @@
 publishDir = "../public"
-baseURL = "http://www.iaeste.or.jp/"
+baseURL = "https://www.iaeste.or.jp/"
 languageCode = "ja"
 title = "IAESTE Japan"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
