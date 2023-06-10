@@ -5,9 +5,15 @@ aliases: ["about/members", "about/members2"]
 featured_image: ""
 ---
 
+<div align="right">
+  令和5年 (2023年) 5月28日現在
+</div>
+
 ## 正会員
 
 正会員には、総会での議決権行使により当協会の意思決定に参画いただくとともに、当協会運営及び運営資金のご支援をいただいています。
+
+正会員には大学会員と個人会員があります。
 
 ### 大学会員
 
@@ -15,7 +21,7 @@ featured_image: ""
 
 ### 個人会員
 
-115名
+107名
 
 ## 事業協力会員
 
@@ -37,3 +43,7 @@ featured_image: ""
 |---|---|---|
 |[株式会社アルメックVPI](https://www.almec.co.jp/index.html)|[株式会社NTTデータウェーブ](https://www.nttd-wave.com/)|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|
 |[株式会社寺岡精工](https://www.haseman.co.jp/)|[株式会社長谷萬](https://www.teraokaseiko.com/jp/)|本田 大作|
+
+## 名誉会員
+
+- 太田 勝敏
