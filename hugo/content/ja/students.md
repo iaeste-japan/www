@@ -59,13 +59,13 @@ featured_image: ""
 
 <div align="center">
 
-| 専門分野     | 派遣国             | 研修報告書                                                          |
-| ----------  | ------------- | --------------------------------------------------------------------- |
-| 情報科学     | ドイツ連邦共和国  | [report-fy2021-01.pdf](/files/internship/reports/report-fy2021-1.pdf) |
-| 応用科学     | ドイツ連邦共和国  | [report-fy2021-02.pdf](/files/internship/reports/report-fy2021-2.pdf) |
-| 生化学       | ドイツ連邦共和国  | [report-fy2021-03.pdf](/files/internship/reports/report-fy2021-3.pdf) |
-| 量子反応工学  | オーストリア共和国 | [report-fy2021-04.pdf](/files/internship/reports/report-fy2021-4.pdf) |
-| 分子生物学    | マルタ共和国    | [report-fy2021-05.pdf](/files/internship/reports/report-fy2021-5.pdf) |
+| 年度   | 専門分野      | 派遣国           | 研修報告書 |
+| ------ | ----------- | --------------- | -------- |
+| FY2021 | 情報科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf) |
+| FY2021 | 応用科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-nishihara.pdf) |
+| FY2021 | 生化学       | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-anonymous.pdf) |
+| FY2021 | 量子反応工学  | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2021-at-anonymous.pdf) |
+| FY2021 | 分子生物学    | マルタ共和国      | [PDF](/files/internship/reports/training-report-fy2021-mt-anonymous.pdf) |
 
 </div>
 
