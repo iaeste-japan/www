@@ -46,7 +46,7 @@ If you have found a suitable COBE (*2) or FCFS (*3) offer on the Exchange Platfo
 | [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSdO6-HHW3G9rJYS2iweHsTidvdFs9IPtsPqyyTbE97s0381BA/viewform) | Google Forms | 2022/08/16 |
 | [Application Guidelines](/files/internship/required-docs/application-guidelines-fy2023-en-v20220816.pdf) | pdf  | 2022/08/16 |
 | [Additional Application Guidelines](/files/internship/required-docs/application-guidelines-fy2023-add-recruitment-en-v20230411.pdf) | pdf | 2023/04/11 |
-| [Intern Guidance](/files/internship/required-docs/internship-dispatch-guidance-fy2023-en-v20220816.pdf)  | pdf  | 2022/08/16 |
+| [Internship Program Dispatch Guidance](/files/internship/required-docs/internship-dispatch-guidance-fy2023-en-v20220816.pdf)  | pdf  | 2022/08/16 |
 | [Application Form](/files/internship/required-docs/application-form-fy2023-v20220816.xlsx)               | xlsx | 2022/08/16 |
 | [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx)              | docx | 2023/04/07 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)                                       | docx | 2022/08/16 |
