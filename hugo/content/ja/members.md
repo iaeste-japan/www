@@ -13,6 +13,8 @@ featured_image: ""
 
 正会員には、総会での議決権行使により当協会の意思決定に参画いただくとともに、当協会運営及び運営資金のご支援をいただいています。
 
+正会員には大学会員と個人会員があります。
+
 ### 大学会員
 
 [大阪大学](https://www.osaka-u.ac.jp/ja)、[岡山大学](https://www.okayama-u.ac.jp/)、[九州大学](https://www.kyushu-u.ac.jp/ja/)、[京都大学](https://www.kyoto-u.ac.jp/ja)、[慶応義塾大学](https://www.keio.ac.jp/ja/)、[東京大学](https://www.u-tokyo.ac.jp/ja/index.html)、[東京工業大学](https://www.titech.ac.jp/)、[東京都市大学](https://www.tcu.ac.jp/)、[東京都立大学](https://www.tmu.ac.jp/)、[東京農工大学](https://www.tuat.ac.jp/)、[東京理科大学](https://www.tus.ac.jp/)、[同志社大学](https://www.doshisha.ac.jp/)、[東北大学](https://www.tohoku.ac.jp/japanese/)、[室蘭工業大学](https://muroran-it.ac.jp/)、[横浜国立大学](https://www.ynu.ac.jp/)、[立命館大学](http://www.ritsumei.ac.jp/)、[早稲田大学](https://www.waseda.jp/top/)
