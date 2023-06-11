@@ -21,20 +21,40 @@ featured_image: ""
 [説明会について](/internship/information-session)
 
 <div align="center">
-<table>
-  <tr>
-    <td style="text-align: center;"><img src="/images/countries.png" alt=""></td>
-    <td style="text-align: center;"><img src="/images/internship.png" alt=""></td>
-    <td style="text-align: center;"><img src="/images/companies.png" alt=""></td>
-    <td style="text-align: center;"><img src="/images/volunteers.png" alt=""></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">80+ <br> IAESTE Countries <br> *to experience an internship in*</td>
-    <td style="text-align: center;">368,000 <br> Internships <br> *and counting*</td>
-    <td style="text-align: center;">3,000+ <br> Companies <br> *that host interns*</td>
-    <td style="text-align: center;">2,500+ <br> Volunteers <br> *that help make IAESTE great*</td>
-  </tr>
-</table>
+  <div style="display: flex;">
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/countries.png" alt="">
+      <strong>
+        <font size="+3">80+</font>
+      </strong>
+      <span>IAESTE Countries</span>
+      <font size="2">to experience an internship in</font>
+    </div>
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/internship.png" alt="">
+      <strong>
+        <font size="+3">368,000</font>
+      </strong>
+      <span>Internships</span>
+      <font size="2">and counting</font>
+    </div>
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/companies.png" alt="">
+      <strong>
+        <font size="+3">3,000+</font>
+      </strong>
+      <span>Companies</span>
+      <font size="2">that host interns</font>
+    </div>
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/volunteers.png" alt="">
+      <strong>
+        <font size="+3">2,500+</font>
+      </strong>
+      <span>Volunteers</span>
+      <font size="2">that help make IAESTE great</font>
+    </div>
+  </div>
 </div>
 
 ## イアエステ研修の特長
@@ -78,13 +98,13 @@ featured_image: ""
 
 <div align="center">
 
-| 年度   | 専門分野      | 派遣国           | 研修報告書 |
-| ------ | ----------- | --------------- | -------- |
-| FY2021 | 情報科学     | ドイツ連邦共和国    | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf) |
-| FY2021 | 応用科学     | ドイツ連邦共和国    | [PDF](/files/internship/reports/training-report-fy2021-de-nishihara.pdf) |
+| 年度   | 専門分野     | 派遣国             | 研修報告書                                                               |
+| ------ | ------------ | ------------------ | ------------------------------------------------------------------------ |
+| FY2021 | 情報科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf)      |
+| FY2021 | 応用科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-nishihara.pdf) |
 | FY2021 | 生化学       | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-anonymous.pdf) |
-| FY2021 | 量子反応工学  | オーストリア共和国  | [PDF](/files/internship/reports/training-report-fy2021-at-anonymous.pdf) |
-| FY2021 | 分子生物学    | マルタ共和国      | [PDF](/files/internship/reports/training-report-fy2021-mt-anonymous.pdf) |
+| FY2021 | 量子反応工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2021-at-anonymous.pdf) |
+| FY2021 | 分子生物学   | マルタ共和国       | [PDF](/files/internship/reports/training-report-fy2021-mt-anonymous.pdf) |
 
 </div>
 
