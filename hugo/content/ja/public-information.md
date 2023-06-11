@@ -5,9 +5,9 @@ aliases: ["about/public-information/", "about/business-report/"]
 featured_image: ""
 ---
 
-### 公式メディア
+## 公式メディア
 
-|             |                                         |
+| Media       | Value                                   |
 | ----------- | --------------------------------------- |
 | Domain Name | `iaeste.or.jp`, `iaestetlsc.tokyo.jp`   |
 | Twitter     | https://twitter.com/iaestejp_tokyo/     |
@@ -15,15 +15,15 @@ featured_image: ""
 | Facebook    | https://www.facebook.com/iaeste.japan/  |
 | GitHub      | https://github.com/iaeste-japan/        |
 
-### 定款/役員名簿
+## 定款/役員名簿
 
 - [定款](/files/org/ArticlesOfOrg_20210530.pdf) （令和3年 (2021年) 5月30日現在）
 
 - [役員名簿](/files/org/BoardMembers_20230528.pdf) （令和5年 (2023年) 5月28日現在）
 
-### 事業報告・計算書類等
+## 事業報告・計算書類等
 
-|        |         |                                          |
+| 年度（西暦） | 年度（年号） | ドキュメント |
 | ------ | ------- | ---------------------------------------- |
 | FY2023 | 令和5年度 | [事業計画書](/files/org/D01_Plan_FY2023_R05.pdf) / [収支予算書](/files/org/D02_Budget_FY2023_R05.pdf) |
 | FY2022 | 令和4年度 | [事業計画書](/files/org/D01_Plan_FY2022_R04.pdf) / [収支予算書](/files/org/D02_Budget_FY2022_R04.pdf) / [事業報告](/files/org/D03_Report_FY2022_R04.pdf) / [貸借対照表](/files/org/D04_BS_FY2022_R04.pdf) / [正味財産増減計算書](/files/org/D05_NetAssets_FY2022_R04.pdf) / [財産目録](/files/org/D06_Inventory_FY2022_R04.pdf) / [監査報告書](/files/org/D07_Audit_FY2022_R04.pdf) |
