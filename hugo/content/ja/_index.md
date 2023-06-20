@@ -13,13 +13,20 @@ IAESTEは、The International Association for Exchange of Students for Technical
 1948年の設立以来、累計37万人以上の学生に、Science, Technology, Engineering, Mathematics (STEM) などの分野でインターンシップの機会を提供し、人財育成・国際理解・国際親善に貢献しています。
 
 <div align="center">
-
-|                    |            |
-| ------------------ | ---------- |
-| インターンシップ受入国   | 80カ国以上  |
-| インターンシップ受入機関 | 3,000以上   |
-| インターンシップ参加学生 | 3,500人以上 |
-
+<table>
+  <tr>
+    <td>インターンシップ受入国</td>
+    <td>80カ国以上</td>
+  </tr>
+  <tr>
+    <td>インターンシップ受入機関</td>
+    <td>3,000以上</td>
+  </tr>
+  <tr>
+    <td>インターンシップ参加学生</td>
+    <td>3,500人以上</td>
+  </tr>
+</table>
 </div>
 
 <div style="text-align: right;">
