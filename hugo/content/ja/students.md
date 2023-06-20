@@ -5,13 +5,13 @@ url: "students"
 featured_image: ""
 ---
 
-### 説明会
+## 説明会
 
 6月から9月にオンラインや大学会場などで説明会を開催しています。海外で働くことに興味のある方、自分の専門分野を活かす仕事をしたい方は是非ご参加ください。
 
 **学部3年以上**が研修実施時の条件ですが、説明会はどなたも参加できます。
 
-#### 説明内容
+### 説明内容
 
 - IAESTEインターンシップの説明
 - 申し込みから研修終了後までの流れについて
@@ -21,26 +21,65 @@ featured_image: ""
 [説明会について](/internship/information-session)
 
 <div align="center">
-
-|          |         |         |         |
-| -------- | ------- | ------- | ------- |
-| ![](/images/countries.png) | ![](/images/internship.png) | ![](/images/companies.png) | ![](/images/volunteers.png) |
-| 80+ <br> IAESTE Countries <br> *to experience an internship in* | 368,000 <br> Internships <br> *and counting* | 3,000+ <br> Companies <br> *that host interns* | 2,500+ <br> Volunteers <br> *that help make IAESTE great* |
-
+  <div style="display: flex;">
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/countries.png" alt="">
+      <strong>
+        <font size="+3">80+</font>
+      </strong>
+      <span>IAESTE Countries</span>
+      <font size="2">to experience an internship in</font>
+    </div>
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/internship.png" alt="">
+      <strong>
+        <font size="+3">368,000</font>
+      </strong>
+      <span>Internships</span>
+      <font size="2">and counting</font>
+    </div>
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/companies.png" alt="">
+      <strong>
+        <font size="+3">3,000+</font>
+      </strong>
+      <span>Companies</span>
+      <font size="2">that host interns</font>
+    </div>
+    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+      <img src="/images/volunteers.png" alt="">
+      <strong>
+        <font size="+3">2,500+</font>
+      </strong>
+      <span>Volunteers</span>
+      <font size="2">that help make IAESTE great</font>
+    </div>
+  </div>
 </div>
 
-### イアエステ研修の特長
+## イアエステ研修の特長
 
-各国の受入機関からは、毎年、多種多様なオファー（インターンシップ機会の提供）が出されます。これらの中から獲得したオファーの内容に沿って研修を行います。
+各国の受入機関からは、毎年、多種多様なオファー (インターンシップ機会の提供) が出されます。これらの中から獲得したオファーの内容に沿って研修を行います。
 
 <div align="center">
-
-| 研修期間 | 8\~52週間。8\~12週間のオファーが最多 |
-| -------- | ----------------------------------------- |
-| 学年     | 研修実施時に学部3年生以上                 |
-| 専門分野 | ITを含む理工学系全般から、ビジネス、マーケティングなど |
-| 研修タイプ | 通常の現地での研修の他、オンライン研修あり |
-
+<table>
+  <tr>
+    <td>研修期間</td>
+    <td>8~52週間。8~12週間のオファーが最多</td>
+  </tr>
+  <tr>
+    <td>学年</td>
+    <td>研修実施時に学部3年生以上</td>
+  </tr>
+  <tr>
+    <td>専門分野</td>
+    <td>ITを含む理工学系全般から、ビジネス、マーケティングなど</td>
+  </tr>
+  <tr>
+    <td>研修タイプ</td>
+    <td>通常の現地での研修の他、オンライン研修あり</td>
+  </tr>
+</table>
 </div>
 
 - 自分の持つスキル・知識を活用し、受入先の従業員のひとりとして現実の仕事に従事します。
@@ -53,19 +92,19 @@ featured_image: ""
 
 [詳細と申し込みについて](/internship/how-it-works)
 
-### 研修経験者の声（研修報告）
+## 研修経験者の声（研修報告）
 
 研修経験者の生の声や、後に続く方々へのアドバイスをご覧ください。
 
 <div align="center">
 
-| 年度   | 専門分野      | 派遣国           | 研修報告書 |
-| ------ | ----------- | --------------- | -------- |
-| FY2021 | 情報科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf) |
+| 年度   | 専門分野     | 派遣国             | 研修報告書                                                               |
+| ------ | ------------ | ------------------ | ------------------------------------------------------------------------ |
+| FY2021 | 情報科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf)      |
 | FY2021 | 応用科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-nishihara.pdf) |
 | FY2021 | 生化学       | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-anonymous.pdf) |
-| FY2021 | 量子反応工学  | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2021-at-anonymous.pdf) |
-| FY2021 | 分子生物学    | マルタ共和国      | [PDF](/files/internship/reports/training-report-fy2021-mt-anonymous.pdf) |
+| FY2021 | 量子反応工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2021-at-anonymous.pdf) |
+| FY2021 | 分子生物学   | マルタ共和国       | [PDF](/files/internship/reports/training-report-fy2021-mt-anonymous.pdf) |
 
 </div>
 
