@@ -1,7 +1,41 @@
 table {
+  border-spacing: 0;
   border-collapse: collapse;
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow: auto;
 }
-td, th {
-  border: 1px solid #333;
-  padding: 0 .2em;
+
+td,
+th {
+  padding: 0;
+}
+
+table th,
+table td {
+  padding: 6px 13px;
+  border: 1px solid #d0d7de;
+}
+
+table tr {
+  background-color: #ffffff;
+  border-top: 1px solid hsla(210, 18%, 87%, 1);
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+table img {
+  background-color: transparent;
+}
+
+code {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  white-space: break-spaces;
+  background-color: rgba(175, 184, 193, 0.2);
+  border-radius: 6px;
 }
