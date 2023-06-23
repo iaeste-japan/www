@@ -38,7 +38,7 @@ IAESTEでは、世界各国の学生に向けて理工学系のインターン�
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明での資料ですので、詳細につてはお問い合わせください。
 
--[説明会資料2023](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-2/hugo/static/files/internship/information-session/briefing-slides-2023.pdf)
+-　[説明会資料2023](https://github.com/iaeste-japan/www/blob/e61e90bab1227ec1b46e5fdd61eba5e57f562c15/hugo/static/files/internship/information-session/briefing-slides-2023.pdf)
 
 ### 参加方法
 
