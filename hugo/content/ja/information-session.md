@@ -42,12 +42,5 @@ IAESTEでは、世界各国の学生に向けて理工学系のインターン�
 
 ### 参加方法
 
-参加を希望される方は、以下のリンクから申込フォームにアクセスし、必要事項を記入してください。
-
-| No. | 申込フォーム                     |
-| --- | ----------------------------- |
-| 1   |  [2023年度第1回IAESTE海外インターンシップ全体説明会申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfleIJcxuH2vicwvK4mitQHkQBB6bUQ4v0wNIYhbEtJa2heww/viewform)   |
-| 2   | 準備中                         |
-| 3   | 準備中                         |
-
-後日、ご登録いただいたメールアドレスに会場の詳細や当日参加用zoomのURL、及びプログラムのご案内をお送りいたします。
+Twitterから参加申し込みを行ってください。  
+[IAESTE JAPAN（イアエステ）(@IAESTEJP_TOKYO) / Twitter](https://twitter.com/Iaeste_Tohoku/status/1667085662015684608)
