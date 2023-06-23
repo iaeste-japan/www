@@ -38,7 +38,7 @@ IAESTEでは、世界各国の学生に向けて理工学系のインターン�
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明での資料ですので、詳細につてはお問い合わせください。
 
--[説明会資料2023](https://drive.google.com/file/d/1GiMh_HvqA92ID06xKcFeVbmmnPOq1XIG/view?usp=drive_link)
+-[説明会資料2023]()
 
 ### 参加方法
 
