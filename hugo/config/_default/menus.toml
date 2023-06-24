@@ -1,0 +1,28 @@
+[[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 10
+[[main]]
+  name = "About IAESTE"
+  pageRef = "about"
+  weight = 20
+[[main]]
+  name = "Students"
+  pageRef = "students"
+  weight = 30
+[[main]]
+  name = "Companies / Universities"
+  pageRef = "employers"
+  weight = 40
+[[main]]
+  name = "Internship"
+  pageRef = "internship"
+  weight = 50
+[[main]]
+  name = "Organization"
+  pageRef = "org"
+  weight = 60
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 100
