@@ -4,15 +4,15 @@ url: "internship/information-session"
 aliases: ["students/information-session", "information-session", "説明会"]
 featured_image: ""
 ---
-2022年度は各大学内での開催が困難なため、全てオンライン説明会とします。
+2023年度の説明会詳細は準備中です。しばらくお待ちください。
 
 <div align="center">
 
 | No. |  日時                          | 会場 |
 | --- | ----------------------------- | ---- |
-| 1   | 2022年06月04日(土) 14:00-16:00 | Zoom |
-| 2   | 2022年07月02日(土) 14:00-16:00 | Zoom |
-| 3   | 2022年09月03日(土) 14:00-16:00 | Zoom |
+| 1   | 未定 | 未定 |
+| 2   | 未定 | 未定 |
+| 3   | 未定 | 未定 |
 
 </div>
 
@@ -31,12 +31,10 @@ featured_image: ""
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明の資料ですので、詳細についてはお問い合わせください。
 
-- [説明会資料2022](/files/internship/information-session/briefing-slides-2022.pptx)
+- 説明会資料2023 は準備中
+- 参考
+  - [説明会資料2022](/files/internship/information-session/briefing-slides-2022.pptx)
 
 ### 参加方法
 
-QRコードから申込んでください。
-
-![QRコード](/files/internship/information-session/apply_qr.jpg)
-
-説明会開催前日までにご登録いただいたメールアドレスに当日参加用URLをお送りします。
+準備中
