@@ -21,7 +21,6 @@ Please scroll down for English.
 | ------------- | ------ | ------------------------ |
 | [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdO6-HHW3G9rJYS2iweHsTidvdFs9IPtsPqyyTbE97s0381BA/viewform) | Google Forms | 2022/08/16 |
 | [募集要項](/files/internship/required-docs/application-guidelines-fy2023-ja-v20220816.pdf)    | pdf | 2022/08/16 |
-| [追加募集要項](/files/internship/required-docs/application-guidelines-fy2023-add-recruitment-ja-v20230411.pdf) | pdf | 2023/04/11 |
 | [研修の手引き](/files/internship/required-docs/internship-dispatch-guidance-fy2023-ja-v20220816.pdf) | pdf | 2022/08/16 |
 | [申請書](/files/internship/required-docs/application-form-fy2023-v20220816.xlsx)             | xlsx | 2022/08/16 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | docx | 2023/04/07 |
