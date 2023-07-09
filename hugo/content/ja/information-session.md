@@ -37,4 +37,3 @@ featured_image: ""
 ### 参加方法
 
 Twitterから参加申し込みを行ってください。
-<br> [IAESTE JAPAN(イアエステ)(@IAESTEJP TOKYO) / Twitter)](https://twitter.com/Iaeste_Tohoku/status/1667085662015684608)
