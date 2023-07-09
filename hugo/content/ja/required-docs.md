@@ -43,9 +43,9 @@ If you have found a suitable COBE (*2) or FCFS (*3) offer on the Exchange Platfo
 
 | Document name | Format | Update Date (yy/MM/dd) |
 |---------------|--------|-----------------------|
-| [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSdO6-HHW3G9rJYS2iweHsTidvdFs9IPtsPqyyTbE97s0381BA/viewform) | Google Forms | 2022/08/16 |
-| [Application Guidelines](/files/internship/required-docs/application-guidelines-fy2023-en-v20220816.pdf) | pdf  | 2022/08/16 |
-| [Internship Program Dispatch Guidance](/files/internship/required-docs/internship-dispatch-guidance-fy2023-en-v20220816.pdf)  | pdf  | 2022/08/16 |
-| [Application Form](/files/internship/required-docs/application-form-fy2023-v20220816.xlsx)               | xlsx | 2022/08/16 |
-| [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx)              | docx | 2023/04/07 |
-| [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)                                       | docx | 2022/08/16 |
+| [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSdO6-HHW3G9rJYS2iweHsTidvdFs9IPtsPqyyTbE97s0381BA/viewform) | Google Forms | 2022/8/16 |
+| [Application Guidelines](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/required-docs/application-guidelines-fy2024-en-v20230720.pdf) | pdf  | 2023/7/20 |
+| [Internship Program Guidance](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/required-docs/internship-program-guidance-fy2024-en-v20230720.pdf)  | pdf  | 2023/7/20 |
+| [Application Form](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/required-docs/application-form-fy2024-en-v20230720.xlsx)  | xlsx | 2023/7/20 |
+| [Statement of Purpose](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/required-docs/statement-of-purpose-v20230407.docx) | docx | 2023/4/7 |
+| [Pledge](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/required-docs/pledge-en-v20220816.docx)         | docx | 2023/4/7 |
