@@ -31,10 +31,10 @@ featured_image: ""
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明の資料ですので、詳細についてはお問い合わせください。
 
-- 説明会資料2023 は準備中
-- 参考
-  - [説明会資料2022](/files/internship/information-session/briefing-slides-2022.pptx)
+
+- [説明会資料2023](/files/internship/information-session/briefing-slides-2022.pptx)
 
 ### 参加方法
 
-準備中
+Twitterから参加申し込みを行ってください。
+[IAESTE JAPAN(イアエステ)(@IAESTEJP TOKYO)/Twitter)]
