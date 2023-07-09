@@ -32,9 +32,9 @@ featured_image: ""
 説明会で使用する資料は以下からご参照ください。但し、口頭説明の資料ですので、詳細についてはお問い合わせください。
 
 
-- [説明会資料2023](/files/internship/information-session/briefing-slides-2022.pptx)
+- [説明会資料2023](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/information-session/briefing-slides-2023%20(1).pdf)
 
 ### 参加方法
 
 Twitterから参加申し込みを行ってください。
-[IAESTE JAPAN(イアエステ)(@IAESTEJP TOKYO)/Twitter)]
+<br> [IAESTE JAPAN(イアエステ)(@IAESTEJP TOKYO) / Twitter)](https://twitter.com/Iaeste_Tohoku/status/1667085662015684608)
