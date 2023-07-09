@@ -33,6 +33,14 @@ IAESTE Japan全体での研修生交換実績です。
 
 | 年度   | 専門分野      | 派遣国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
+| FY2022 | 生命機能科学 | ポルトガル共和国 | [PDF](/files/internship/reports/training-report-fy2022-pt-nishijima.pdf) |
+| FY2022 | 構造生物学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2022-pl-anonymous.pdf) |
+| FY2022 | バイオエンジニアリング | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2022-pl-azuma.pdf) |
+| FY2022 | 船舶海洋工学 | チュニジア共和国 | [PDF](/files/internship/reports/training-report-fy2022-tn-genda.pdf) |
+| FY2022 | 土木工学 | セルビア共和国 | [PDF](/files/internship/reports/training-report-fy2022-rs-anonymous.pdf) |
+| FY2022 | 建築意匠 | スイス連邦 | [PDF](/files/internship/reports/training-report-fy2022-ch-oonuma.pdf) |
+| FY2022 | 建築意匠 | スイス連邦 | [PDF](/files/internship/reports/training-report-fy2022-ch-yoshizawa.pdf) |
+| FY2022 | 金属工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2022-at-akiyama.pdf) |
 | FY2021 | 情報科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf) |
 | FY2021 | 応用科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-nishihara.pdf) |
 | FY2021 | 生化学       | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-anonymous.pdf) |
