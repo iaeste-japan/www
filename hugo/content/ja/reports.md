@@ -37,7 +37,7 @@ IAESTE Japan全体での研修生交換実績です。
 | FY2022 | 構造生物学 | ポーランド | [PDF](files/internship/reports/${training-report-fy2022-po-anonymous.pdf}) |
 | FY2022 | バイオエンジニアリング | ポーランド | [PDF](files/internship/reports/${training-report-fy2022-po-azuma.pdf}) |
 | FY2022 | 船舶海洋工学 | チュニジア | [PDF](files/internship/reports/${training-report-fy2022-tn-genda.pdf}) |
-| FY2022 | 土木工学 | セルビア | [PDF](https://github.com/iaeste-japan/www/blob/Miwashotaro-patch-1/hugo/static/files/internship/reports/training-report-fy2022-rs-anonymous.pdf) |
+| FY2022 | 土木工学 | セルビア | [PDF](files/internship/reports/${training-report-fy2022-rs-anonymous.pdf}) |
 | FY2022 | 建築意匠 | スイス | [PDF](files/internship/reports/${training-report-fy2022-ch-oonuma.pdf}) |
 | FY2022 | 建築意匠 | スイス | [PDF](files/internship/reports/${training-report-fy2022-ch-yoshizawa.pdf}) |
 | FY2022 | 金属工学 | オーストリア | [PDF](files/internship/reports/${training-report-fy2022-at-akiyama.pdf}) |
