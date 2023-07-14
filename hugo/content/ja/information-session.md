@@ -11,8 +11,8 @@ featured_image: ""
 | No. |  日時                          | 会場 |
 | --- | ----------------------------- | ---- |
 | 1   | 2023年06月03日(土) 10:00-12:00 | 東京大学本郷キャンパス &  Zoom Meetings (同時開催)|
-| 2   | 2023年07月01日(土) 14:00-16:00 | 東京大学本郷キャンパス &  Zoom Meetings (同時開催) |
-| 3   | 2023年09月02日(土) 14:00-16:00 | 東京大学本郷キャンパス &  Zoom Meetings (同時開催) |
+| 2   | 2023年07月01日(土) 14:00-16:00 | 東京大学本郷キャンパス &  Zoom Meetings (同時開催)|
+| 3   | 2023年09月02日(土) 14:00-16:00 | 東京大学本郷キャンパス &  Zoom Meetings (同時開催)|
 
 </div>
 
@@ -31,9 +31,10 @@ featured_image: ""
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明の資料ですので、詳細についてはお問い合わせください。
 
-
 - [説明会資料2023](/files/internship/information-session/briefing-slides-2023-v20230712.pdf)
 
 ### 参加方法
 
-Twitterから参加申し込みを行ってください。<br>[IAESTE JAPAN（イアエステ）(@IAESTEJP_TOKYO) / Twitter](https://twitter.com/IAESTEJp_tokyo)
+以下のTwitterアカウントから参加申し込みを行ってください。
+
+[IAESTE JAPAN（イアエステ）(@IAESTEJP_TOKYO) / Twitter](https://twitter.com/IAESTEJp_tokyo)
