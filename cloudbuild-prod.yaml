@@ -16,7 +16,7 @@ steps:
       - "hugo.tar.gz"
       - "https://github.com/gohugoio/hugo/releases/download/v${_HUGO_VERSION}/hugo_extended_${_HUGO_VERSION}_Linux-64bit.tar.gz"
     waitFor: ["-"]
-  - name: "golang:1-bullseye"
+  - name: "golang:1"
     env:
     - "PROJECT_ID=$PROJECT_ID"
     - "BUILD_ID=$BUILD_ID"
@@ -41,5 +41,5 @@ steps:
       mv functions/web/* public/
       /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
 substitutions:
-  _HUGO_VERSION: 0.115.0
+  _HUGO_VERSION: 0.115.3
   _HUGO_ENV: production
