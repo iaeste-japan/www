@@ -1,5 +1,5 @@
 steps:
-  - name: "gcr.io/cloud-builders/curl"
+  - name: "gcr.io/cloud-builders/curl:latest"
     id: "fetch-firebase-binary"
     args:
       - "--silent"
@@ -7,7 +7,7 @@ steps:
       - "--output"
       - "firebase"
       - "https://firebase.tools/bin/linux/latest"
-  - name: "gcr.io/cloud-builders/curl"
+  - name: "gcr.io/cloud-builders/curl:latest"
     id: "fetch-hugo-binary"
     args:
       - "--silent"
