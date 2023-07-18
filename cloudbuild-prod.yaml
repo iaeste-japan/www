@@ -20,6 +20,7 @@ steps:
     env:
     - "PROJECT_ID=$PROJECT_ID"
     - "BUILD_ID=$BUILD_ID"
+    - "_HUGO_ENV=$_HUGO_ENV"
     script: |
       #!/usr/bin/env bash
 
@@ -36,10 +37,9 @@ steps:
       fi
 
       cd /workspace/hugo
-      HUGO_ENV=${_HUGO_ENV} /tmp/hugo
+      /tmp/hugo --environment ${_HUGO_ENV}
       cd /workspace/
-      mv functions/web/* public/
       /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
 substitutions:
-  _HUGO_VERSION: 0.115.3
   _HUGO_ENV: production
+  _HUGO_VERSION: 0.115.3
