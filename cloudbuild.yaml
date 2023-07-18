@@ -20,9 +20,9 @@ steps:
     env:
     - "PROJECT_ID=$PROJECT_ID"
     - "BUILD_ID=$BUILD_ID"
-    - "_HUGO_ENV=$_HUGO_ENV"
-    - "_PREVIEW_CHANNEL_NAME=$_PREVIEW_CHANNEL_NAME"
-    - "_EXPIRE_TIME=$_EXPIRE_TIME"
+    - "HUGO_ENV=$_HUGO_ENV"
+    - "PREVIEW_CHANNEL_NAME=$_PREVIEW_CHANNEL_NAME"
+    - "EXPIRE_TIME=$_EXPIRE_TIME"
     script: |
       #!/usr/bin/env bash
 
@@ -39,9 +39,9 @@ steps:
       fi
 
       cd /workspace/hugo
-      /tmp/hugo --environment ${_HUGO_ENV} --buildFuture 
+      /tmp/hugo --environment ${HUGO_ENV} --buildFuture 
       cd /workspace/
-      /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${_PREVIEW_CHANNEL_NAME} --expires ${_EXPIRE_TIME}
+      /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${PREVIEW_CHANNEL_NAME} --expires ${EXPIRE_TIME}
 substitutions:
   _HUGO_ENV: development
   _HUGO_VERSION: 0.115.3
