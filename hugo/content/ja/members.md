@@ -1,7 +1,7 @@
 ---
 title: "会員情報"
 url: "org/members"
-aliases: ["about/members", "about/members2", "partnership/members"]
+aliases: ["/about/members", "/about/members2", "/partnership/members"]
 featured_image: ""
 ---
 

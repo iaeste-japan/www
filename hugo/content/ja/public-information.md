@@ -1,7 +1,7 @@
 ---
 title: "公開情報"
 url: "org/public-information"
-aliases: ["about/public-information/", "about/business-report/"]
+aliases: ["/about/directors", "/about/articles-of-incorporation", "/about/business-report"]
 featured_image: ""
 ---
 

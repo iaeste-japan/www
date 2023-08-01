@@ -1,7 +1,7 @@
 ---
 title: "研修を始めるまで"
 url: "internship/how-it-works"
-aliases: ["students/how-it-works"]
+aliases: ["/students/from_jp/exam"]
 featured_image: ""
 ---
 

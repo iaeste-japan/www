@@ -1,6 +1,7 @@
 ---
 title: "企業・大学の皆様へ"
-aliases: ["/partnership/"]
+url: "employers"
+aliases: ["/partnership", "/partnership/internship-support", "/partnership/financial-support", "/partnership/project_cooperation"]
 featured_image: ""
 ---
 ## インターンシップ生の受入れ
