@@ -2,6 +2,7 @@
 title: "研修について知りたい方へ"
 description: "IAESTEを利用して海外インターンシップを検討しませんか?"
 url: "students"
+aliases: ["/students/from_jp"]
 featured_image: ""
 ---
 
