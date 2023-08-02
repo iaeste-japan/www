@@ -17,7 +17,7 @@ featured_image: ""
 
 ## 定款/役員名簿
 
-- [定款](/files/org/ArticlesOfOrg_20210530.pdf) （令和3年 (2021年) 5月30日現在）
+- [定款](/files/org/ArticlesOfOrg_20230528.pdf) （令和5年 (2023年) 5月28日現在）
 
 - [役員名簿](/files/org/BoardMembers_20230528.pdf) （令和5年 (2023年) 5月28日現在）
 
