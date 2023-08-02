@@ -1,7 +1,7 @@
 ---
 title: "インターンシップ説明会"
 url: "internship/information-session"
-aliases: ["students/information-session", "information-session", "説明会"]
+aliases: ["/students/from_jp/info_meeting/"]
 featured_image: ""
 ---
 2023年度の説明会詳細は準備中です。しばらくお待ちください。
