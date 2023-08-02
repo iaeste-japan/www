@@ -1,7 +1,7 @@
 ---
 title: "IAESTE Japanについて"
 url: "org"
-aliases: ["about/org/"]
+aliases: ["/about/organization"]
 featured_image: ""
 draft: false
 ---
