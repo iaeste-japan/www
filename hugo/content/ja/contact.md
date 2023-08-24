@@ -7,18 +7,12 @@ featured_image: ""
 
 |  項目 / Item  |  内容 / Content |
 | ---- | ---- |
-| email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp)|
-| tel (*2) | 03-6267-4550|
-| fax | 03-6267-4555|
+| email address | [office@iaeste.or.jp](mailto:office@iaeste.or.jp) |
 | 受付時間 / Reception time | 10:00 – 17:00（土・日・祝日・年末年始・夏期休暇等の休日を除く）<br>10:00 - 17:00 (except Saturdays, Sundays, public holidays, New Year holidays and summer holidays) |
-
-1.IAESTEは総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、IAESTEの総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のアドレスにお問い合わせをお願いいたします。
-  - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
-2.原則として、お問い合わせはメールにてお願いいたします。
 
 ### 郵送について
 
-郵便物などの送付先: `〒100-0003 東京都千代田区一ツ橋1-1-1 パレスサイトビル(株)毎日学術フォーラム内一般社団法人日本国際学生技術研修協会事務局`
+郵便物などの送付先: `〒170-0005 東京都豊島区南大塚1-31-17 マイスターSY301`
 
 ### 関東地区学生委員会 (TLSC = Tokyo Local Students’ Committee)
 
