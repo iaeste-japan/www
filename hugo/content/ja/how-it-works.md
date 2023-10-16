@@ -18,11 +18,10 @@ featured_image: ""
 | オファー             | 受入機関が提供する研修の内容や条件をフォーマットに記入したもの                    |
 | マッチング           | 海外受入機関のオファーを研修候補学生に割り当てること                            |
 | Exchange Platform  | IAESTE A.s.b.l（IAESTEの国際的な統括組織）が運営するオファー公開・応募システム |
-| ACオファー           | 国際会議で交換され、研修可能期間は6月\~12月                                |
-| COBEオファー         | 年間を通じて複数のオファーに応募可能。オンライン研修はCOBEオファーとして提供         |
-| FCFSオファー         | 年間を通して応募可能。ただし応募は先着順                                    |
+| Exchange Internship |  他国と1対１の原則で交換したオファーに対し、派遣国が１学生をマッチングして行うInternship |
+| Global Internship   |  複数の国が1オファーに最大2学生を推薦し、その中から受入国・受入機関が学生を選定するやり方でのInternship |
 
-### 1. ACオファーの場合
+### 1. Exchange Internshipの場合
 
 | 期間     | 内容                                |
 | -------- | ---------------------------------- |
@@ -32,11 +31,11 @@ featured_image: ""
 | ３月     | Nomination Documents を提出<br>↓ 受入機関による審査<br>↓ 審査結果通知を受け取る<br>↓ 派遣準備会などに出席、VISAなどの手続き |
 | 5月以降  | 研修実施                              |
 
-### 2. COBE/FCFSオファーの場合
+### 2. Global Internshipの場合
 
 Exchange Platformに随時引受機関のオファーが掲載されます。希望するオファーをIAESTE Japanに連絡することで、アサインされます。
 
-Nomination Documentsを提出したあとの流れはACオファーと同様です。
+Nomination Documentsを提出したあとの流れはExchange Internshipと同様です。
 
 ## 各種費用
 
