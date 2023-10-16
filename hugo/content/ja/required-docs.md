@@ -19,7 +19,7 @@ Please scroll down for English.
 | Document name | Format | Update Date (yyyy/MM/dd) |
 | ------------- | ------ | ------------------------ |
 | [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform) | Google Forms | 2023/10/5 |
-| [募集要項](/files/internship/required-docs/application-guidelines-fy2024-ja-v20230828.pdf) | pdf | 2023/9/11 |
+| [募集要項](/files/internship/required-docs/application-guidelines-fy2024-ja-v20231017.pdf) | pdf | 2023/10/17 |
 | [研修の手引き](/files/internship/required-docs/internship-dispatch-guidance-fy2024-ja-v20230828.pdf) | pdf | 2023/9/11 |
 | [申請書](/files/internship/required-docs/application-form-fy2024-ja-v20230828.xlsx)          | xlsx | 2023/9/11 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | docx | 2023/4/7 |

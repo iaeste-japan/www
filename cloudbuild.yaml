@@ -44,4 +44,4 @@ steps:
       /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${PREVIEW_CHANNEL_NAME} --expires ${EXPIRE_TIME}
 substitutions:
   _HUGO_ENV: development
-  _HUGO_VERSION: 0.117.0
+  _HUGO_VERSION: 0.119.0
