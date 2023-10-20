@@ -11,7 +11,7 @@ Please scroll down for English.
 申し込み手続きなどについては、まず募集要項と研修の手引きを見てください。  
 次に、エントリーフォーム (*1) のページを開き、ご記入ください。
 
-1. Exchange Platform上のCOBEオファーやFCFSオファーを見て、IAESTE Japanからアサインを受けたい方は、エントリーフォームにご自分の登録が必要です。
+1. Exchange Platform上の Global Internship のオファーを見て、IAESTE Japanからアサインを受けたい方は、エントリーフォームにご自分の登録が必要です。
 
 申し込みに当たっては、 必要書類をダウンロードし、記入後、PDFファイルをメールに添付して事務局までお送りください。  
 書類の郵送は不要です。申請書添付の英語能力証明書は後日送付も可能です。書類送付時に入手予定日を明記してください。
@@ -35,10 +35,7 @@ To apply, download the required documents, fill them out, and send the compiled 
 
 The certificate of English proficiency to be attached to the application form can be sent at a later date. Please indicate the expected date of receipt when you send the documents.
 
-If you have found a suitable COBE (*2) or FCFS (*3) offer on the Exchange Platform and would like to receive an assignment from IAESTE Japan, you are required to register yourself on the Entry Form.
-
-2. COBE offer: Continuous Online Based Exchange offer  
-3. FCFS offer: First Come First Serve offer
+If you have found a suitable Global Internship offer on the Exchange Platform and would like to receive an assignment from IAESTE Japan, you are required to register yourself on the Entry Form.
 
 | Document name | Format | Update Date (yy/MM/dd) |
 |---------------|--------|-----------------------|
