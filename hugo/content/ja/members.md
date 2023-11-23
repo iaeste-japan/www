@@ -41,7 +41,7 @@ featured_image: ""
 
 |   |   |   |
 |---|---|---|
-|[株式会社アルメックVPI](https://www.almec.co.jp/index.html)|[株式会社NTTデータウェーブ](https://www.nttd-wave.com/)|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|
+|[株式会社アルメックVPI](https://www.almec.co.jp/)|[株式会社NTTデータウェーブ](https://www.nttd-wave.com/)|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|
 |[株式会社寺岡精工](https://www.haseman.co.jp/)|[株式会社長谷萬](https://www.teraokaseiko.com/jp/)|本田 大作|
 
 ## 名誉会員
