@@ -2,7 +2,7 @@
 title: "IAESTE とは"
 description: "IAESTEは1948年の設立以来、累計37万人以上の学生に、Science, Technology, Engineering, Mathematics (STEM)等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。"
 url: "about"
-aliases: ["/about/history"]
+aliases: ["/about/history/"]
 featured_image: ""
 ---
 IAESTEは、The International Association for the Exchange of Students for Technical Experience, Association sans but lucratifを正式名称とする非営利法人です。（通称IAESTE A.s.b.l.）
@@ -62,8 +62,8 @@ IAESTEは、The International Association for the Exchange of Students for Techn
 
 IAESTE研修経験者の声は以下からご覧ください。
 
-- [IAESTE Japan研修報告書](/internship/reports)
-- [IAESTE intern stories [IAESTE A.s.b.l.]](https://iaeste.org/student-testimonials)
+- [IAESTE Japan研修報告書](/internship/reports/)
+- [IAESTE intern stories [IAESTE A.s.b.l.]](https://iaeste.org/student-testimonials/)
 
 公開中のインターンシップ情報は以下からご覧ください。
 
@@ -73,10 +73,10 @@ IAESTE研修経験者の声は以下からご覧ください。
 
 当協会の運営にご支援をいただいている会員（正会員・事業協力会員・賛助会員）については、以下をご覧ください。
 
-- [IAESTE Japan会員情報](/org/members)
+- [IAESTE Japan会員情報](/org/members/)
 
 ## 公開情報
 
 事業報告・計算書類等の公開情報は、以下をご覧ください。
  
-- [IAESTE Japan公開情報](/org/public-information)
+- [IAESTE Japan公開情報](/org/public-information/)

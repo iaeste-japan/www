@@ -1,8 +1,8 @@
 ---
 title: "研修について知りたい方へ"
 description: "IAESTEを利用して海外インターンシップを検討しませんか?"
-url: "students"
-aliases: ["/students/from_jp"]
+url: "students/"
+aliases: ["/students/from_jp/"]
 featured_image: ""
 ---
 
@@ -19,7 +19,7 @@ featured_image: ""
 - 質疑応答
 - 本プログラム経験者による体験談
 
-[説明会について](/internship/information-session)
+[説明会について](/internship/information-session/)
 
 <div align="center">
   <div style="display: flex;">
@@ -91,7 +91,7 @@ featured_image: ""
 - 旅行では得られない、現地での生活を通じての深く幅広い異文化体験が可能です。
 - 現地の学生、世界各国からの参加学生と交流する機会があります。
 
-[詳細と申し込みについて](/internship/how-it-works)
+[詳細と申し込みについて](/internship/how-it-works/)
 
 ## 研修経験者の声（研修報告）
 
@@ -111,10 +111,10 @@ featured_image: ""
 
 より多くの研修報告を見るには、以下をご参照ください。
 
-- [研修実績](/internship/reports)
+- [研修実績](/internship/reports/)
 
 また、IAESTE A.s.b.l (*1) のサイトにはより多くの、世界各国の学生の経験談が掲載されています。併せてご参照ください。
 
-⇒ [IAESTE intern stories](https://iaeste.org/student-testimonials)
+⇒ [IAESTE intern stories](https://iaeste.org/student-testimonials/)
 
 1. IAESTE A.s.b.l.: IAESTEの国際的な統括組織。A.s.b.lは `associacion sans but lucrat` の略です。

@@ -1,7 +1,7 @@
 ---
 title: "企業・大学の皆様へ"
-url: "employers"
-aliases: ["/partnership", "/partnership/internship-support", "/partnership/financial-support", "/partnership/project_cooperation"]
+url: "employers/"
+aliases: ["/partnership/", "/partnership/internship-support/", "/partnership/financial-support/", "/partnership/project_cooperation/"]
 featured_image: ""
 ---
 ## インターンシップ生の受入れ
@@ -23,7 +23,7 @@ featured_image: ""
 現在、世界80カ国以上がIAESTEに加盟しており、各国にそれぞれ委員会があります。  
 IAESTE全体で1年に3,500名以上の学生を相互に交換しており、この豊富なネットワークにより、優秀な理工系学生をご紹介することが可能です。
 
-[`IAESTE A.s.b.l`](https://iaeste.org/employers-page) とは
+[`IAESTE A.s.b.l`](https://iaeste.org/employers-page/) とは
 - ルクセンブルグに非営利団体として登録されているIAESTEの国際統括組織です。
 - A.s.b.lは、 `associacion sans but lucratif` の略です。
 
@@ -50,7 +50,7 @@ IAESTEを通じて外国人学生を受け入れることで、日本の将来�
 
 1964年の加盟以来、IAESTEは海外でのインターンシップに豊富な経験を培ってきました。このようなインターンシップ事業にご協力頂いている引受機関を「`事業協力会員`」と呼んでおります。事業協力会員一覧は以下をご覧ください。
 
-- [会員情報](/org/members)
+- [会員情報](/org/members/)
 
 ## ご協賛のお願い（賛助会員・正会員）
 
@@ -59,4 +59,4 @@ IAESTE Japanの活動は、その趣旨に賛同する企業や大学、個人�
 つきましては、活動における一層の充実を図るためご協賛いただきたく、宜しくお願い申し上げます。  
 賛助、及び寄附については、以下をご参照ください。
 
-- [当協会活動へのご協賛やご参加について](/org/join)
+- [当協会活動へのご協賛やご参加について](/org/join/)

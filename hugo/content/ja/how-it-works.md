@@ -1,7 +1,7 @@
 ---
 title: "研修を始めるまで"
-url: "internship/how-it-works"
-aliases: ["/students/from_jp/exam"]
+url: "internship/how-it-works/"
+aliases: ["/students/from_jp/exam/"]
 featured_image: ""
 ---
 
@@ -47,7 +47,7 @@ Nomination Documentsを提出したあとの流れはExchange Internshipと同�
 | 非会員校生        | 10,000 JPY | 100,000 JPY      |
 
 1. 大学会員は以下をご参照ください。
-    - [会員情報](/org/members)
+    - [会員情報](/org/members/)
 2. 過去にIAESTEの研修を行った方については、プログラム参加料が半分の金額となります。
     また、オンライン研修を行った場合、プログラム参加料の半額が返金されます。
 
@@ -68,7 +68,7 @@ Nomination Documentsを提出したあとの流れはExchange Internshipと同�
 
 以下のページをご参照のうえ、募集要項と必要書類をダウンロードしてください。
 
-[募集要項・必要書類](/internship/required-docs)
+[募集要項・必要書類](/internship/required-docs/)
 
 ## 公開中のオファー
 
@@ -79,7 +79,7 @@ IAESTE A.b.s.lのwebサイトには各国委員会が公開するオファーが
 ご興味のある方は、是非覗いてみてください。  
 *時期によって公開されるオファーの数や内容に偏りがあります。
 
-[IAESTEA.b.s.l / Internships](https://iaeste.org/internships)
+[IAESTEA.b.s.l / Internships](https://iaeste.org/internships/)
 
 ### Exchange Platform (EP)
 
@@ -89,6 +89,6 @@ IAESTE A.b.s.lのwebサイトには各国委員会が公開するオファーが
 
 入力された情報をIAESTE Japanが確認することであなたのアカウントが作成されます。
 
-なお、この確認のために[エントリーフォーム](/internship/required-docs)への入力を併せてお願いします。
+なお、この確認のために[エントリーフォーム](/internship/required-docs/)への入力を併せてお願いします。
 
 EPにアカウントが登録された後は、EPサイト掲載の学生用ガイドをご参照ください。
