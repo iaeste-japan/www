@@ -1,7 +1,7 @@
 ---
 title: "FAQs"
-url: "internship/faqs"
-aliases: ["students/faqs"]
+url: "internship/faqs/"
+aliases: ["students/faqs/"]
 featured_image: ""
 ---
 

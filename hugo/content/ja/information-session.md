@@ -1,6 +1,6 @@
 ---
 title: "インターンシップ説明会"
-url: "internship/information-session"
+url: "internship/information-session/"
 aliases: ["/students/from_jp/info_meeting/"]
 featured_image: ""
 ---
@@ -35,6 +35,6 @@ featured_image: ""
 
 ### 参加方法
 
-以下のTwitterアカウントから参加申し込みを行ってください。
+以下のX(旧Twitter)アカウントから参加申し込みを行ってください。
 
-[IAESTE JAPAN（イアエステ）(@IAESTEJP_TOKYO) / Twitter](https://twitter.com/IAESTEJp_tokyo)
+[IAESTE JAPAN（イアエステ）(@IAESTEJP_TOKYO) / X](https://x.com/IAESTEJP_TOKYO)
