@@ -1,6 +1,6 @@
 ---
 title: "お問い合わせ・連絡先"
-url: "contact"
+url: "contact/"
 featured_image: ""
 ---
 ### メールでのお問い合わせ
@@ -32,10 +32,10 @@ IAESTEオンブズパーソンは、インターン生やプログラムへの�
 
 The Ombudsperson receives, investigates, and handles complaints from interns and applicants to the program, and acts as a mediator in disputes.
 
-- [IAESTEオンブズパーソンへの連絡先 / Contact IAESTE Ombudsperson](https://iaeste.org/feedback-and-complaints)
+- [IAESTEオンブズパーソンへの連絡先 / Contact IAESTE Ombudsperson](https://iaeste.org/feedback-and-complaints/)
 
 ### IAESTE Japan Alumni
 
 派遣研修生・IAESTE Japan学生委員のOB, OG（IAESTE Japan Alumniメンバー）がFacebookのページからIAESTEの今を感じる情報を発信しています。
 
-- [Facebook - IAESTE Japan Alumni](https://www.facebook.com/groups/iaestejapan.alumni)
+- [Facebook - IAESTE Japan Alumni](https://www.facebook.com/groups/iaestejapan.alumni/)

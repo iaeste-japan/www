@@ -1,19 +1,19 @@
 ---
 title: "公開情報"
-url: "org/public-information"
-aliases: ["/about/directors", "/about/articles-of-incorporation", "/about/business-report"]
+url: "org/public-information/"
+aliases: ["/about/directors/", "/about/articles-of-incorporation/", "/about/business-report/"]
 featured_image: ""
 ---
 
 ## 公式メディア
 
-| Media       | Value                                   |
-| ----------- | --------------------------------------- |
-| Domain Name | `iaeste.or.jp`, `iaestetlsc.tokyo.jp`   |
-| Twitter     | https://twitter.com/iaestejp_tokyo/     |
-| Instagram   | https://www.instagram.com/iaeste_japan/ |
-| Facebook    | https://www.facebook.com/iaeste.japan/  |
-| GitHub      | https://github.com/iaeste-japan/        |
+| Media                | Value                                   |
+| -------------------- | --------------------------------------- |
+| Domain Name          | `iaeste.or.jp`, `iaestetlsc.tokyo.jp`   |
+| X (Formerly Twitter) | https://x.com/IAESTEJP_TOKYO            |
+| Instagram            | https://www.instagram.com/iaeste_japan/ |
+| Facebook             | https://www.facebook.com/iaeste.japan/  |
+| GitHub               | https://github.com/iaeste-japan/        |
 
 ## 定款/役員名簿
 

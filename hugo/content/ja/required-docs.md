@@ -1,6 +1,6 @@
 ---
 title: "海外インターンシップ募集要項・必要書類 / Application Guidelines and Required Documents for Overseas Internships"
-url: "internship/required-docs"
+url: "internship/required-docs/"
 featured_image: ""
 ---
 
