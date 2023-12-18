@@ -95,26 +95,12 @@ featured_image: ""
 
 ## 研修経験者の声（研修報告）
 
-研修経験者の生の声や、後に続く方々へのアドバイスをご覧ください。
-
-<div align="center">
-
-| 年度   | 専門分野     | 派遣国             | 研修報告書                                                               |
-| ------ | ------------ | ------------------ | ------------------------------------------------------------------------ |
-| FY2021 | 情報科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-kaku.pdf)      |
-| FY2021 | 応用科学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-nishihara.pdf) |
-| FY2021 | 生化学       | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2021-de-anonymous.pdf) |
-| FY2021 | 量子反応工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2021-at-anonymous.pdf) |
-| FY2021 | 分子生物学   | マルタ共和国       | [PDF](/files/internship/reports/training-report-fy2021-mt-anonymous.pdf) |
-
-</div>
-
-より多くの研修報告を見るには、以下をご参照ください。
+現地での仕事・生活について、研修経験者の生の声をご覧ください。
 
 - [研修実績](/internship/reports/)
 
-また、IAESTE A.s.b.l (*1) のサイトにはより多くの、世界各国の学生の経験談が掲載されています。併せてご参照ください。
+世界各国の学生の経験談も併せてご参照ください。IAESTE A.s.b.l. (IAESTEの国際的な統括組織) のサイトへ遷移します。<br>
+A.s.b.l.は `Associacion sans but lucrat` の略です。
 
 ⇒ [IAESTE intern stories](https://iaeste.org/student-testimonials/)
 
-1. IAESTE A.s.b.l.: IAESTEの国際的な統括組織。A.s.b.lは `associacion sans but lucrat` の略です。
