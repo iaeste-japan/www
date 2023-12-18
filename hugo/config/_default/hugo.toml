@@ -5,12 +5,15 @@ DefaultContentLanguage = "ja"
 languageCode           = "ja"
 Paginate               = 10
 timeZone               = "Asia/Tokyo"
-googleAnalytics        = ""
 enableRobotsTXT        = false
 publishDir             = "../public"
 contentDir             = "content/ja"
 title                  = "IAESTE Japan"
 theme                  = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+[services]
+  [services.googleAnalytics]
+    ID = ""
 
 [markup]
   [markup.goldmark]

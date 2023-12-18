@@ -20,7 +20,7 @@ steps:
     env:
     - "PROJECT_ID=$PROJECT_ID"
     - "BUILD_ID=$BUILD_ID"
-    - "RELEASE_CHANNEL_NAME=$_RELEASE_CHANNEL_NAME"
+    - "RELEASE_CHANNEL=$_RELEASE_CHANNEL"
     - "EXPIRE_TIME=$_EXPIRE_TIME"
     script: |
       #!/usr/bin/env bash
@@ -38,14 +38,15 @@ steps:
       fi
 
       cd /workspace/hugo
-      if [[ "${RELEASE_CHANNEL_NAME}" == "production" ]]; then
-        /tmp/hugo --environment production --minify
+      if [[ "${RELEASE_CHANNEL}" == "production" ]]; then
+        HUGO_ENV="production" \
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment production
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
-        /tmp/hugo --environment development --minify --buildFuture
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --buildFuture 
         cd /workspace/
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${RELEASE_CHANNEL_NAME} --expires ${EXPIRE_TIME}
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${RELEASE_CHANNEL} --expires ${EXPIRE_TIME}
       fi
 substitutions:
   _HUGO_VERSION: 0.121.1
