@@ -5,7 +5,6 @@ DefaultContentLanguage = "ja"
 languageCode           = "ja"
 Paginate               = 10
 timeZone               = "Asia/Tokyo"
-date_format = "2006年 January 2日"
 enableRobotsTXT        = false
 publishDir             = "../public"
 contentDir             = "content/ja"
@@ -31,6 +30,7 @@ category = "categories"
   filename = "sitemap.xml"
 
 [params]
+  date_format = "2006年January2日"
   text_color = ""
   author = ""
   favicon = "favicon.ico"
