@@ -46,7 +46,7 @@ steps:
       else
         /tmp/hugo --cleanDestinationDir --gc --minify --environment development --buildFuture 
         cd /workspace/
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${PREVIEW_CHANNEL_NAME} --expires ${EXPIRE_TIME}
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${RELEASE_CHANNEL} --expires ${EXPIRE_TIME}
       fi
 substitutions:
   _HUGO_VERSION: 0.121.1
