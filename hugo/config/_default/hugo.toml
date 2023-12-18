@@ -5,6 +5,7 @@ DefaultContentLanguage = "ja"
 languageCode           = "ja"
 Paginate               = 10
 timeZone               = "Asia/Tokyo"
+date_format = "2006年 January 2日"
 enableRobotsTXT        = false
 publishDir             = "../public"
 contentDir             = "content/ja"
