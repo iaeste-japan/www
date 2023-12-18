@@ -1,2 +1,4 @@
-googleAnalytics = "G-16VJ0X1ZQ7"
 enableRobotsTXT = true
+[services]
+  [services.googleAnalytics]
+    ID = "G-16VJ0X1ZQ7"
