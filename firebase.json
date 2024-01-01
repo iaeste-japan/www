@@ -23,7 +23,7 @@
         },
         {
           "key" : "X-Download-Options",
-          "value": "noopennoopen"
+          "value": "noopen"
         },
         {
           "key" : "X-Frame-Options",
