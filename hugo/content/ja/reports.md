@@ -11,17 +11,14 @@ IAESTE Japan全体での研修生交換実績です。
 | 年度 | 実績 |
 | --- | ---- |
 | FY2022 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
+| FY2021 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2021.pdf) |
+| FY2020 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2020.pdf) |
+| FY2019 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2019.pdf) |
 | FY2017 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2017.pdf) |
 | FY2016 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2016.pdf) |
 | FY2015 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2015.pdf) |
 | FY2014 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2014.pdf) |
 | FY2013 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2013.pdf) |
-| FY2011 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2011.pdf) |
-| FY2010 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2010.pdf) |
-| FY2009 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2009.pdf) |
-| FY2008 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2008.pdf) |
-| FY2007 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2007.pdf) |
-| FY2006 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2006.pdf) |
 
 ---
 
