@@ -11,17 +11,13 @@ IAESTE Japan全体での研修生交換実績です。
 | 年度 | 実績 |
 | --- | ---- |
 | FY2022 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
+| FY2020 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2020.pdf) |
+| FY2019 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2019.pdf) |
 | FY2017 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2017.pdf) |
 | FY2016 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2016.pdf) |
 | FY2015 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2015.pdf) |
 | FY2014 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2014.pdf) |
 | FY2013 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2013.pdf) |
-| FY2011 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2011.pdf) |
-| FY2010 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2010.pdf) |
-| FY2009 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2009.pdf) |
-| FY2008 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2008.pdf) |
-| FY2007 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2007.pdf) |
-| FY2006 | [派遣実績のみ掲載](/files/internship/reports/trainee-dispatch-results-fy2006.pdf) |
 
 ---
 
@@ -29,7 +25,7 @@ IAESTE Japan全体での研修生交換実績です。
 
 ### 研修報告書 (個人毎)
 
-海外で研修を行ってきた方々の研修報告書です。
+海外で研修を行ってきた方々の研修報告書です。研修内容や研修先での生活全般について、また事後の感想や研修を行う上での助言等がまとめられています。
 
 | 年度   | 専門分野      | 派遣国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
@@ -49,7 +45,7 @@ IAESTE Japan全体での研修生交換実績です。
 | FY2018 | 微生物工学    | 英国             | [PDF](/files/internship/reports/training-report-fy2018-uk-funatsu.pdf) |
 | FY2018 | 原子力工学    | セルビア共和国    | [PDF](/files/internship/reports/training-report-fy2018-rs-sasaki.pdf) |
 | FY2018 | 神経薬理学    | ポーランド共和国  | [PDF](/files/internship/reports/training-report-fy2018-pl-igarashi.pdf) |
-| FY2018 | -           | ポーランド共和国  | [PDF](/files/internship/reports/training-report-fy2018-pl-arimoto.pdf) |
+| FY2018 | 化学         | ポーランド共和国  | [PDF](/files/internship/reports/training-report-fy2018-pl-arimoto.pdf) |
 | FY2018 | 無機材料・ナノ粒子・磁性 | オマーン国 | [PDF](/files/internship/reports/training-report-fy2018-om-harada.pdf) |
 | FY2018 | 海洋資源化学  | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2018-de-nyunoya.pdf) |
 | FY2018 | 土木工学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2018-de-kishida.pdf) |
