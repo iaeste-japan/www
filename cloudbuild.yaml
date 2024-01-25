@@ -33,18 +33,18 @@ steps:
       fi
 
       cd /workspace/hugo
-      if [[ "${_CHANNEL_ID}" == "production" ]]; then
+      if [[ "$_CHANNEL_ID" == "production" ]]; then
         HUGO_ENV="production" \
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
-        /tmp/firebase --project ${PROJECT_ID} hosting:channel:create ${_CHANNEL_ID}
-        CHANNEL_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open ${_CHANNEL_ID} | grep "https://" | awk '{print $3}')
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${CHANNEL_URL}/ --buildFuture 
+        /tmp/firebase --project ${PROJECT_ID} hosting:channel:create $_CHANNEL_ID
+        CHANNEL_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open $_CHANNEL_ID | grep "https://" | awk '{print $3}')
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL $CHANNEL_URL/ --buildFuture 
         cd /workspace/
-        echo "/tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${_CHANNEL_ID} --expires ${_EXPIRE_TIME}"
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${_CHANNEL_ID} --expires ${_EXPIRE_TIME}
+        echo "/tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME"
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME
       fi
 substitutions:
   _HUGO_VERSION: 0.121.1
