@@ -47,4 +47,3 @@ steps:
       fi
 substitutions:
   _HUGO_VERSION: 0.121.1
-  _EXPIRE_TIME: 3h
