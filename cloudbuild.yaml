@@ -17,7 +17,7 @@ steps:
       - "https://github.com/gohugoio/hugo/releases/download/v${_HUGO_VERSION}/hugo_extended_${_HUGO_VERSION}_Linux-64bit.tar.gz"
     waitFor: ["-"]
   - name: "golang:1"
-      env:
+    env:
     - "PROJECT_ID=$PROJECT_ID"
     - "BUILD_ID=$BUILD_ID"
     - "_CHANNEL_ID=$_CHANNEL_ID"
