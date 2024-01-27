@@ -48,7 +48,7 @@ steps:
         CHANNEL_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open $_CHANNEL_ID | grep "https://" | awk '{print $3}')
         /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL $CHANNEL_URL/ --buildFuture 
         cd /workspace/
-        echo "/tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME"
+        echo "CHANNEL_URL = $CHANNEL_URL"
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME
       fi
 substitutions:
