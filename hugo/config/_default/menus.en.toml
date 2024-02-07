@@ -1,0 +1,4 @@
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 100
