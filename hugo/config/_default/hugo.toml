@@ -12,6 +12,14 @@ contentDir             = "content/ja"
 title                  = "IAESTE Japan"
 theme                  = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
+[languages]
+  [languages.ja]
+    weight = 1
+    contentDir = "content/ja"
+  [languages.en]
+    weight = 2
+    contentDir = "content/en"
+
 [services]
   [services.googleAnalytics]
     ID = ""
