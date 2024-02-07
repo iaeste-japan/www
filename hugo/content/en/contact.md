@@ -6,10 +6,10 @@ featured_image: ""
 
 ### Contact via Email
 
-|  Item  |  Content |
-| ---- | ---- |
-| Email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp)|
-| Reception time | 10:00 AM – 5:00 PM (JST)<br>(excluding Saturdays, Sundays, public holidays, New Year holidays, and summer holidays) |
+| Item | Content |
+| ---- | ------- |
+| Email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp) |
+| Reception time     | 10:00 AM – 5:00 PM (JST)<br>(excluding Saturdays, Sundays, public holidays, New Year holidays, and summer holidays) |
 
 1. IAESTE Japan Secretariat has entered into a subcontracting agreement with Mainichi Academic Form Inc. for general and accounting affairs.<br>Please contact the following address for general and accounting matters of IAESTE Japan.
     - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
