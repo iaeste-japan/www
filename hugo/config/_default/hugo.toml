@@ -3,9 +3,10 @@
 baseURL                = "https://www.iaeste.or.jp/"
 DefaultContentLanguage = "ja"
 languageCode           = "ja"
-Paginate               = 10
+Paginate               = 9
 timeZone               = "Asia/Tokyo"
 enableRobotsTXT        = false
+hasCJKLanguage         = true
 publishDir             = "../public"
 contentDir             = "content/ja"
 title                  = "IAESTE Japan"
