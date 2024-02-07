@@ -5,17 +5,17 @@ featured_image: ""
 ---
 ### メールでのお問い合わせ
 
-|  項目 / Item  |  内容 / Content |
+| 項目 | 内容 |
 | ---- | ---- |
 | email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp)|
-| tel (*2) | 03-6267-4550|
-| fax | 03-6267-4555|
-| 受付時間 / Reception time | 10:00 – 17:00（土・日・祝日・年末年始・夏期休暇等の休日を除く）<br>10:00 - 17:00 (except Saturdays, Sundays, public holidays, New Year holidays and summer holidays) |
+| TEL. (*2) | 03-6267-4550|
+| FAX. | 03-6267-4555|
+| 受付時間 | 10:00 – 17:00<br>（土・日・祝日・年末年始・夏期休暇等の休日を除く）|
 
-1.IAESTE Japan 事務局は総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、IAESTE Japanの総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のアドレスにお問い合わせをお願いいたします。
+1. IAESTE Japan 事務局は総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、 IAESTE Japan の総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のアドレスにお問い合わせをお願いいたします。
   - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
     
-2.原則として、お問い合わせはメールにてお願いいたします。
+2. 原則として、お問い合わせはメールにてお願いいたします。
 
 ### 郵送について
 
@@ -23,19 +23,15 @@ featured_image: ""
 
 ### 関東地区学生委員会 (TLSC = Tokyo Local Students’ Committee)
 
-関東地区学生委員の活動については、 IAESTE TLSC (Tokyo Local Students’ Committee) のwebサイトをご参照ください。
+関東地区学生委員の活動については、 IAESTE TLSC (Tokyo Local Students’ Committee) の web サイトをご参照ください。
 - https://www.iaestetlsc.tokyo.jp/
 
-### IAESTEオンブズパーソン / IAESTE Ombudsperson
+### IAESTE オンブズパーソン
 
-IAESTEオンブズパーソンは、インターン生やプログラムへの応募者からの苦情を受け付け、調査・処理し、紛争の調停役を務めます。
-
-The Ombudsperson receives, investigates, and handles complaints from interns and applicants to the program, and acts as a mediator in disputes.
-
-- [IAESTEオンブズパーソンへの連絡先 / Contact IAESTE Ombudsperson](https://iaeste.org/feedback-and-complaints/)
+IAESTE オンブズパーソンは、インターン生やプログラムへの応募者からの苦情を受け付け、調査・処理し、紛争の調停役を務めます。
+- [IAESTE オンブズパーソンへの連絡先 / Contact IAESTE Ombudsperson](https://iaeste.org/feedback-and-complaints/)
 
 ### IAESTE Japan Alumni
 
-派遣研修生・IAESTE Japan学生委員のOB, OG（IAESTE Japan Alumniメンバー）がFacebookのページからIAESTEの今を感じる情報を発信しています。
-
+派遣研修生・ IAESTE Japan 学生委員の OB, OG (IAESTE Japan Alumni メンバー) が Facebook のページから IAESTE の今を感じる情報を発信しています。
 - [Facebook - IAESTE Japan Alumni](https://www.facebook.com/groups/iaestejapan.alumni/)
