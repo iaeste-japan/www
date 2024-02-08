@@ -1,48 +1,26 @@
 ---
-title: "海外インターンシップ募集要項・必要書類 / Application Guidelines and Required Documents for Overseas Internships"
+title: "海外インターンシップ募集要項・必要書類"
 url: "internship/required-docs/"
 featured_image: ""
 ---
-
-Please scroll down for English.
 
 ## エントリーフォーム
 
 申し込み手続きなどについては、まず募集要項と研修の手引きを見てください。  
 次に、エントリーフォーム (*1) のページを開き、ご記入ください。
 
-1. Exchange Platform上の Global Internship のオファーを見て、IAESTE Japanからアサインを受けたい方は、エントリーフォームにご自分の登録が必要です。
+1. Exchange Platform 上の Global Internship のオファーを見て、 IAESTE Japan からアサインを受けたい方は、エントリーフォームにご自分の登録が必要です。
 
 申し込みに当たっては、 必要書類をダウンロードし、記入後、PDFファイルをメールに添付して事務局までお送りください。  
 書類の郵送は不要です。申請書添付の英語能力証明書は後日送付も可能です。書類送付時に入手予定日を明記してください。
 
-| Document name | Format | Update Date (yyyy/MM/dd) |
-| ------------- | ------ | ------------------------ |
-| [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform) | Google Forms | 2023/10/5 |
-| [募集要項](/files/internship/required-docs/application-guidelines-fy2024-ja-v20231017.pdf) | pdf | 2023/10/17 |
-| [研修の手引き](/files/internship/required-docs/internship-dispatch-guidance-fy2024-ja-v20230828.pdf) | pdf | 2023/9/11 |
-| [申請書](/files/internship/required-docs/application-form-fy2024-ja-v20230828.xlsx)          | xlsx | 2023/9/11 |
-| [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | docx | 2023/4/7 |
-| [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | docx | 2022/8/16 |
-| [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | docx | 2023/9/11 |
-| [派遣辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)              | docx | 2023/7/20 |
-
-## Entry Form
-
-For application procedures and other information, please first review the Application Guidelines and the Intern Guidance. Next, go to the Entry Form* page and fill it out.
-
-To apply, download the required documents, fill them out, and send the compiled PDF file as an e-mail attachment to our office. You do not need to send the documents by postal mail.
-
-The certificate of English proficiency to be attached to the application form can be sent at a later date. Please indicate the expected date of receipt when you send the documents.
-
-If you have found a suitable Global Internship offer on the Exchange Platform and would like to receive an assignment from IAESTE Japan, you are required to register yourself on the Entry Form.
-
-| Document name | Format | Update Date (yy/MM/dd) |
-|---------------|--------|-----------------------|
-| [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform) | Google Forms | 2023/10/5 |
-| [Application Guidelines](/files/internship/required-docs/application-guidelines-fy2024-en-v20230828.pdf) | pdf  | 2023/9/11 |
-| [Internship Program Dispatch Guidance](/files/internship/required-docs/internship-dispatch-guidance-fy2024-en-v20230828.pdf)  | pdf  | 2023/9/11 |
-| [Internship Program Guidance](/files/internship/required-docs/internship-program-guidance-fy2024-en-v20230720.pdf)  | pdf  | 2023/7/20 |
-| [Application Form](/files/internship/required-docs/application-form-fy2024-en-v20230828.xlsx)  | xlsx | 2023/9/11 |
-| [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx) | docx | 2023/4/7 |
-| [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)  | docx | 2022/8/16 |
+| ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
+| --------- | -------- | ------------------ |
+| [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform) | Google Forms | 2023-10-05 |
+| [募集要項](/files/internship/required-docs/application-guidelines-fy2024-ja-v20231017.pdf) | pdf | 2023-10-17 |
+| [研修の手引き](/files/internship/required-docs/internship-dispatch-guidance-fy2024-ja-v20230828.pdf) | pdf | 2023-09-11 |
+| [申請書](/files/internship/required-docs/application-form-fy2024-ja-v20230828.xlsx)          | xlsx | 2023-09-11 |
+| [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | docx | 2023-04-07 |
+| [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | docx | 2022-08-16 |
+| [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | docx | 2023-09-11 |
+| [派遣辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)              | docx | 2023-07-20 |
