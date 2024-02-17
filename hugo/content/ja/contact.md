@@ -13,7 +13,7 @@ featured_image: ""
 | 受付時間 | 10:00 – 17:00<br>（土・日・祝日・年末年始・夏期休暇等の休日を除く）|
 
 1. IAESTE Japan 事務局は総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、 IAESTE Japan の総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のアドレスにお問い合わせをお願いいたします。
-  - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
+    - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
     
 2. 原則として、お問い合わせはメールにてお願いいたします。
 
