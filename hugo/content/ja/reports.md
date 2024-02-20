@@ -6,7 +6,7 @@ featured_image: ""
 
 ## 研修生交換実績
 
-IAESTE Japan全体での研修生交換実績です。
+IAESTE Japan 全体での研修生交換実績です。
 
 | 年度 | 実績 |
 | --- | ---- |
