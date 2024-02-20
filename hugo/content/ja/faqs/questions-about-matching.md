@@ -11,7 +11,7 @@ weight: 30
 オファーの交換は毎年の候補生の要望を基に行います。そのため、受入機関は毎年変わるため、過去の研修先実績はあまり参考になりません。
 
 過去の研修に関しては、 以下からご覧ください。
-- [IAESTE Japan 研修報告書](/internship/reports/)
+- [IAESTE Japan 研修報告書](reports.md)
 - [IAESTE intern stories [IAESTE A.s.b.l.]](https://iaeste.org/student-testimonials/)
 
 ## 研修国は選ぶことができますか？

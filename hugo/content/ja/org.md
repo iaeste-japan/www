@@ -6,6 +6,6 @@ featured_image: ""
 draft: false
 ---
 
-- [公開情報](/org/public-information/)
-- [会員情報](/org/members/)
-- [当協会活動へのご協賛やご参加について](/org/join/)
+- [公開情報](public-information.md)
+- [会員情報](members.md)
+- [当協会活動へのご協賛やご参加について](join.md)
