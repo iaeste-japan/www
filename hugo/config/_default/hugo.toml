@@ -39,7 +39,7 @@ category = "categories"
   filename = "sitemap.xml"
 
 [params]
-  date_format = "2006年January2日"
+  date_format = "2006-01-02"
   text_color = ""
   author = ""
   favicon = "favicon.ico"
