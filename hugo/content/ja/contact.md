@@ -1,5 +1,5 @@
 ---
-title: "お問い合わせ・連絡先"
+title: "お問い合わせ / 連絡先"
 url: "contact/"
 featured_image: ""
 ---
