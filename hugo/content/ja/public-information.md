@@ -7,7 +7,7 @@ featured_image: ""
 
 ## 公式メディア
 
-| Media                | Value                                   |
+| Item                | Value                                   |
 | -------------------- | --------------------------------------- |
 | Domain Name          | `iaeste.or.jp`, `iaestetlsc.tokyo.jp`   |
 | X (Formerly Twitter) | https://x.com/IAESTEJP_TOKYO            |
@@ -15,13 +15,13 @@ featured_image: ""
 | Facebook             | https://www.facebook.com/iaeste.japan/  |
 | GitHub               | https://github.com/iaeste-japan/        |
 
-## 定款/役員名簿
+## 定款 / 役員名簿
 
 - [定款](/files/org/ArticlesOfOrg_20230528.pdf) (令和5年 (2023年) 5月28日現在)
 
 - [役員名簿](/files/org/BoardMembers_20230528.pdf) (令和5年 (2023年) 5月28日現在)
 
-## 事業報告・計算書類等
+## 事業報告 / 計算書類等
 
 | 年度 (西暦) | 年度 (年号) | ドキュメント |
 | ------ | ------- | ---------------------------------------- |

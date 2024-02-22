@@ -1,13 +1,13 @@
 ---
 title: "IAESTE とは"
-description: "IAESTE は1948年の設立以来、累計37万人以上の学生に、 Science, Technology, Engineering, Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。"
+description: "IAESTE は1948年の設立以来、累計 37 万人以上の学生に、 Science, Technology, Engineering, Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。"
 url: "about"
 aliases: ["/about/history/"]
 featured_image: ""
 ---
 IAESTE は、 The International Association for the Exchange of Students for Technical Experience, Association sans but lucratif を正式名称とする非営利法人です。 (通称 IAESTE A.s.b.l.)
 
-1948年の設立以来、累計37万人以上の学生に Science, Technology, Engineering, Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。
+1948年の設立以来、累計 37 万人以上の学生に Science, Technology, Engineering, Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。
 
 <div align="center">
 
@@ -52,8 +52,8 @@ IAESTE は、 The International Association for the Exchange of Students for Tec
 
 ## IAESTE インターンシップの特長
 
-- 自分の持つスキル・知識を活用し、受入先の従業員のひとりとして現実の仕事に従事します。その期間は内容に応じて8週〜1年の幅があります。
-- 世界80ヵ国で実施される、主に STEM (Science, Technology, Engineering, Mathematics) を中心とした分から選択でき、リモート形式も含む新しい働き方も選択できます。
+- 自分の持つスキル・知識を活用し、受入先の従業員のひとりとして現実の仕事に従事します。その期間は内容に応じて 8 週 ~ 1 年の幅があります。
+- 世界 80 ヵ国で実施される、主に STEM (Science, Technology, Engineering, Mathematics) を中心とした分から選択でき、リモート形式も含む新しい働き方も選択できます。
 - 将来のキャリア充実に結び付く就業体験になります。
 - 現地での滞在費 (宿泊費、食費等) が支給されます。
 - 旅行では得られない、現地での生活を通じての深く幅広い異文化体験が可能です。
