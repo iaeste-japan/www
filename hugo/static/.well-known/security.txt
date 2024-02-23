@@ -1,4 +1,4 @@
 Contact: mailto:webmaster@iaeste.or.jp
 Contact: https://www.iaeste.or.jp/contact/
-Preferred-Languages: en, jp
+Preferred-Languages: en, ja
 Canonical: https://www.iaeste.or.jp/.well-known/security.txt
