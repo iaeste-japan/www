@@ -44,7 +44,7 @@ steps:
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
-        /tmp/firebase --project ${PROJECT_ID} hosting:channel:delete $_CHANNEL_ID
+        /tmp/firebase --project ${PROJECT_ID} hosting:channel:delete $_CHANNEL_ID --force
         /tmp/firebase --project ${PROJECT_ID} hosting:channel:create $_CHANNEL_ID
         _CHANNEL_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open $_CHANNEL_ID | grep "https://" | awk '{print $3}')
         echo "_CHANNEL_URL = $_CHANNEL_URL"
