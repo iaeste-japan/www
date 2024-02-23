@@ -23,20 +23,8 @@
             "value": "deny"
           },
           {
-            "key": "X-XSS-Protection",
-            "value": "1; mode=block"
-          },
-          {
             "key": "X-Content-Type-Options",
             "value": "nosniff"
-          },
-          {
-            "key": "X-Permitted-Cross-Domain-Policies",
-            "value": "none"
-          },
-          {
-            "key": "X-Download-Options",
-            "value": "noopen"
           },
           {
             "key": "Referrer-Policy",
