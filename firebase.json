@@ -16,11 +16,7 @@
           },
           {
             "key": "Content-Security-Policy",
-            "value": "frame-ancestors 'none';"
-          },
-          {
-            "key": "Content-Security-Policy",
-            "value": "default-src 'self'; script-src 'self' https://*.googletagmanager.com 'sha256-dkOtSzvFrLxTqUWJ56gAiNHAPClZnm8nRrXm5szMZVw='; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; style-src 'self' 'unsafe-inline'; object-src 'none';"
+            "value": "default-src 'none'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; script-src 'self' https://*.googletagmanager.com 'sha256-dkOtSzvFrLxTqUWJ56gAiNHAPClZnm8nRrXm5szMZVw='; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; style-src 'self' 'unsafe-inline'; form-action 'self'; form-action 'self';"
           },
           {
             "key": "X-Frame-Options",
