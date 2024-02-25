@@ -49,3 +49,18 @@ table tr th:empty {
 .right-align {
     text-align: right;
 }
+
+/* Mainly used in students.md */
+.centered-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* Mainly used in students.md */
+.centered-column-container {
+    text-align: center;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
