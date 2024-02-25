@@ -44,3 +44,8 @@ code {
 table tr th:empty {
   display: none;
 }
+
+/* Right-align text */
+.right-align {
+    text-align: right;
+}
