@@ -58,6 +58,10 @@ featured_image: ""
   </div>
 </div>
 
+<div class="center-align">
+  IAESTE Global Internships
+</div>
+
 ## IAESTE 研修の特長
 
 各国の受入機関からは、毎年、多種多様なオファー (インターンシップ機会の提供) が出されます。これらの中から獲得したオファーの内容に沿って研修を行います。
