@@ -45,18 +45,28 @@ table tr th:empty {
   display: none;
 }
 
-/* Right-align text */
+/* right-align text */
 .right-align {
     text-align: right;
 }
 
-/* Mainly used in students.md */
+/* left-align text */
+.left-align {
+    text-align: left;
+}
+
+/* center-align text */
+.center-align {
+    text-align: center;
+}
+
+/* centered container */
 .centered-container {
     display: flex;
     justify-content: center;
 }
 
-/* Mainly used in students.md */
+/* centered column container */
 .centered-column-container {
     text-align: center;
     width: 25%;
