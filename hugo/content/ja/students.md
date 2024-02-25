@@ -22,8 +22,8 @@ featured_image: ""
 [説明会について](information-session.md)
 
 <div align="center">
-  <div style="display: flex;">
-    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+  <div class="centered-container">
+    <div class="centered-column-container">
       <img src="/images/countries.png" alt="">
       <strong>
         <font size="+3">80+</font>
@@ -31,7 +31,7 @@ featured_image: ""
       <span>IAESTE Countries</span>
       <font size="2">to experience an internship in</font>
     </div>
-    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+    <div class="centered-column-container">
       <img src="/images/internship.png" alt="">
       <strong>
         <font size="+3">368,000</font>
@@ -39,7 +39,7 @@ featured_image: ""
       <span>Internships</span>
       <font size="2">and counting</font>
     </div>
-    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+    <div class="centered-column-container">
       <img src="/images/companies.png" alt="">
       <strong>
         <font size="+3">3,000+</font>
@@ -47,7 +47,7 @@ featured_image: ""
       <span>Companies</span>
       <font size="2">that host interns</font>
     </div>
-    <div style="text-align: center; width: 25%; display: flex; flex-direction: column; align-items: center;">
+    <div class="centered-column-container">
       <img src="/images/volunteers.png" alt="">
       <strong>
         <font size="+3">2,500+</font>
@@ -63,24 +63,14 @@ featured_image: ""
 各国の受入機関からは、毎年、多種多様なオファー (インターンシップ機会の提供) が出されます。これらの中から獲得したオファーの内容に沿って研修を行います。
 
 <div align="center">
-<table>
-  <tr>
-    <td>研修期間</td>
-    <td>8~52 週間。 8~12 週間のオファーが最多</td>
-  </tr>
-  <tr>
-    <td>学年</td>
-    <td>研修実施時に学部 3 年生以上</td>
-  </tr>
-  <tr>
-    <td>専門分野</td>
-    <td>IT を含む理工学系全般から、ビジネス、マーケティングなど</td>
-  </tr>
-  <tr>
-    <td>研修タイプ</td>
-    <td>通常の現地での研修の他、オンライン研修あり</td>
-  </tr>
-</table>
+
+|           |                                            |
+| --------- |------------------------------------------- |
+| 研修期間   | 8\~52 週間。 8\~12 週間のオファーが最多            |
+| 学年      | 研修実施時に学部 3 年生以上                    |
+| 専門分野  | IT を含む理工学系全般から、ビジネス、マーケティングなど |
+| 研修タイプ | 通常の現地での研修の他、オンライン研修あり          |
+
 </div>
 
 - 自分の持つスキル・知識を活用し、受入先の従業員のひとりとして現実の仕事に従事します。
