@@ -39,3 +39,8 @@ code {
   background-color: rgba(175, 184, 193, 0.2);
   border-radius: 6px;
 }
+
+/* table without a header */
+table tr th:empty {
+  display: none;
+}
