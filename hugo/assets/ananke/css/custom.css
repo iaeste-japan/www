@@ -39,3 +39,38 @@ code {
   background-color: rgba(175, 184, 193, 0.2);
   border-radius: 6px;
 }
+
+/* table without a header */
+table tr th:empty {
+  display: none;
+}
+
+/* right-align text */
+.right-align {
+    text-align: right;
+}
+
+/* left-align text */
+.left-align {
+    text-align: left;
+}
+
+/* center-align text */
+.center-align {
+    text-align: center;
+}
+
+/* centered container */
+.centered-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* centered column container */
+.centered-column-container {
+    text-align: center;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
