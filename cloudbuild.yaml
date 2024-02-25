@@ -39,7 +39,7 @@ steps:
 
       cd /workspace/hugo
       if [[ "$_CHANNEL_ID" == "production" ]]; then
-        HUGO_ENV="production" \
+        export HUGO_ENV="production"
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
@@ -48,9 +48,9 @@ steps:
         /tmp/firebase --project ${PROJECT_ID} hosting:channel:create $_CHANNEL_ID
         _CHANNEL_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open $_CHANNEL_ID | grep "https://" | awk '{print $3}')
         echo "_CHANNEL_URL = $_CHANNEL_URL"
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL $_CHANNEL_URL/ --buildFuture 
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL $_CHANNEL_URL/ --buildFuture
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME
       fi
 substitutions:
-  _HUGO_VERSION: 0.123.2
+  _HUGO_VERSION: 0.123.3
