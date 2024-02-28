@@ -53,4 +53,4 @@ steps:
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME
       fi
 substitutions:
-  _HUGO_VERSION: 0.123.3
+  _HUGO_VERSION: 0.123.4
