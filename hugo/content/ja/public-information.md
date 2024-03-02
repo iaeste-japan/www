@@ -7,9 +7,9 @@ featured_image: ""
 
 ## 公式メディア
 
-| Item                | Value                                   |
+| Item                 | Value                                   |
 | -------------------- | --------------------------------------- |
-| Domain Name          | `iaeste.or.jp`, `iaestetlsc.tokyo.jp`   |
+| Domain Name          | `iaeste.or.jp`                          |
 | X (Formerly Twitter) | https://x.com/IAESTEJP_TOKYO            |
 | Instagram            | https://www.instagram.com/iaeste_japan/ |
 | Facebook             | https://www.facebook.com/iaeste.japan/  |
