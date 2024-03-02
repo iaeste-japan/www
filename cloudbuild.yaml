@@ -28,7 +28,7 @@ steps:
       mkdir -p /tmp
       mv firebase /tmp
       chmod 755 /tmp/firebase
-      echo "Firebase CLI version: $(firebase --version | awk '{print $NF}')"
+      echo "Firebase CLI version: $(/tmp/firebase --version | awk '{print $NF}')"
 
       mv hugo.tar.gz /tmp
       tar -C /tmp -xzf /tmp/hugo.tar.gz
