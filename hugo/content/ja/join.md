@@ -69,7 +69,7 @@ IAESTE は、学生委員の活動によって支えられています。学部�
 現在、主に関東地区学生委員会 (TLSC = Tokyo Local Students' Committee) がこれらの活動を行っています。
 
 TLSC の活動詳細はこちらをご覧ください。
-- https://www.iaestetlsc.tokyo.jp/
+- https://tlsc.iaeste.or.jp/
 
 ### ボランティア
 
