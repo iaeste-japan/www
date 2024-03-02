@@ -21,7 +21,7 @@ Address for postal items: `1-1-1 Hitotsubashi, Chiyoda-ku, Tokyo 100-0003, withi
 ### Tokyo Local Students’ Committee (TLSC)
 
 For information on the activities of the Tokyo Local Students' Committee (TLSC), please visit the IAESTE TLSC (Tokyo Local Students' Committee) website.
-- https://www.iaestetlsc.tokyo.jp/
+- https://tlsc.iaeste.or.jp/
 
 ### IAESTE Ombudsperson
 
