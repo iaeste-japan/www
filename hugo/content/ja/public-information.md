@@ -7,13 +7,13 @@ featured_image: ""
 
 ## 公式メディア
 
-| Item                 | Value                                   |
-| -------------------- | --------------------------------------- |
-| Domain Name          | `iaeste.or.jp`                          |
-| X (Formerly Twitter) | https://x.com/IAESTEJP_TOKYO            |
-| Instagram            | https://www.instagram.com/iaeste_japan/ |
-| Facebook             | https://www.facebook.com/iaeste.japan/  |
-| GitHub               | https://github.com/iaeste-japan/        |
+|                          |                                         |
+| ------------------------ | --------------------------------------- |
+| **Domain Name**          | `iaeste.or.jp`                          |
+| **X (Formerly Twitter)** | https://x.com/IAESTEJP_TOKYO            |
+| **Instagram**            | https://www.instagram.com/iaeste_japan/ |
+| **Facebook**             | https://www.facebook.com/iaeste.japan/  |
+| **GitHub**               | https://github.com/iaeste-japan/        |
 
 ## 定款 / 役員名簿
 
