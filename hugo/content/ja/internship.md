@@ -4,8 +4,9 @@ url: "internship/"
 featured_image: ""
 ---
 
-- [説明会について](information-session.md)
+- [オファータイプについて](offers.md)
 - [研修までの流れ](how-it-works.md)
-- [FAQs](faqs/_index.md)
+- [インターンシップ説明会](information-session.md)
 - [募集要項・必要書類](required-docs.md)
+- [FAQs](faqs/_index.md)
 - [研修実績](reports.md)
