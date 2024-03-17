@@ -27,7 +27,7 @@ featured_image: ""
 ### IAESTE オンブズパーソン
 
 IAESTE オンブズパーソンは、インターン生やプログラムへの応募者からの苦情を受け付け、調査・処理し、紛争の調停役を務めます。
-- [IAESTE オンブズパーソンへの連絡先 / Contact IAESTE Ombudsperson](https://iaeste.org/feedback-and-complaints/)
+- [IAESTE オンブズパーソンへの連絡先](https://iaeste.org/feedback-and-complaints/)
 
 ### IAESTE Japan Alumni
 
