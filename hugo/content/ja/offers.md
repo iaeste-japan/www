@@ -1,5 +1,5 @@
 ---
-title: "オファータイプについて"
+title: "オファーについて"
 url: "internship/offers/"
 featured_image: ""
 ---
