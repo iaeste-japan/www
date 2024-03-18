@@ -1,5 +1,5 @@
 ---
-title: "交換実績/研修報告書"
+title: "交換実績 / 研修報告書"
 url: "internship/reports/"
 featured_image: ""
 ---
