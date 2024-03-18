@@ -1,9 +1,9 @@
 ---
-title: "オファータイプについて"
+title: "オファーについて"
 url: "internship/offers/"
 featured_image: ""
 ---
-このページでは、`Exchange Internship` と `Global Internship`　のそれぞれのオファーについてご説明します。
+このページでは、`Exchange Internship` と `Global Internship` のそれぞれのオファーについてご説明します。
 
 まず初めに、このページ内で登場する用語を紹介します。
 
