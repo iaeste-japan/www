@@ -17,10 +17,15 @@ featured_image: ""
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
 | [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform) | Google Forms | 2023-10-05 |
-| [募集要項](/files/internship/required-docs/application-guidelines-fy2024-ja-v20231017.pdf) | pdf | 2023-10-17 |
+| [募集要項 (4月募集用)](/files/internship/required-docs/application-guidelines-April-fy2024-ja-v20240318.pdf) | pdf | 2024-03-21 |
+| [募集要項 (9月募集用)](/files/internship/required-docs/application-guidelines-fy2024-ja-v20231017.pdf) | pdf | 2023-10-17 |
 | [研修の手引き](/files/internship/required-docs/internship-dispatch-guidance-fy2024-ja-v20230828.pdf) | pdf | 2023-09-11 |
 | [申請書](/files/internship/required-docs/application-form-fy2024-ja-v20230828.xlsx)          | xlsx | 2023-09-11 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | docx | 2023-04-07 |
 | [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | docx | 2022-08-16 |
 | [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | docx | 2023-09-11 |
 | [派遣辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)              | docx | 2023-07-20 |
+
+1. 4月募集と9月募集では、研修可能時期や選択できるインターンシップの種類、必要な英語試験のスコアなどが異なることにご注意下さい。
+
+詳細は [研修を始めるまで](how-it-works.md) をご参照ください。
