@@ -1,5 +1,5 @@
 ---
-title: "IAESTE Japanについて"
+title: "IAESTE Japan について"
 url: "org/"
 aliases: ["/about/organization/"]
 featured_image: ""
