@@ -31,7 +31,7 @@ featured_image: ""
 | **TOEFL iBT** | 62 以上  |
 | **TOEFL ITP** | 503 以上 |
 | **IELTS**     | 5.5 以上 |
-| **ケンブリッジ英語力検定試験** | FCE 以上 |
+| **ケンブリッジ英語検定** | FCE 以上 |
 | **実用英語技能検定** | 準1級以上 |
 | **TOEIC Listening/Reading** | 600 以上 |
 | **TOEIC Speaking/Writing** | 240 以上 |
@@ -42,14 +42,14 @@ featured_image: ""
 Exchange Platform に随時掲載されるオファーのうち、希望するものを IAESTE Japan に連絡することでアサインされます。
 
 求められる英語能力は以下の通りです。<br>
-ただし海外 IAESTE では TOEFL, IELTS, ケンブリッジ英語力検定試験のスコアで英語能力を評価する場合が多く、TOEIC のスコアはオーストリアでのインターンシップでは無効です。
+ただし海外 IAESTE では TOEFL, IELTS, ケンブリッジ英語検定のスコアで英語能力を評価する場合が多く、TOEIC のスコアはオーストリアでのインターンシップでは無効です。
 
 | 試験 | 必要なスコア |
 | --- | ----- |
 | **TOEFL iBT** | 88 以上  |
 | **TOEFL ITP** | 570 以上 |
 | **IELTS**     | 6.5 以上 |
-| **ケンブリッジ英語力検定試験** | C1 (CAE) 以上 |
+| **ケンブリッジ英語検定** | C1 (CAE) 以上 |
 | **実用英語技能検定** | 準1級以上 |
 | **TOEIC Listening/Reading** | 800 以上 |
 | **TOEIC Speaking/Writing** | 300 以上 |
