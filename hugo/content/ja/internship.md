@@ -9,4 +9,4 @@ featured_image: ""
 - [インターンシップ説明会](information-session.md)
 - [募集要項 / 必要書類](required-docs.md)
 - [FAQs](faqs/_index.md)
-- [交換実績/研修報告書](reports.md)
+- [交換実績 / 研修報告書](reports.md)
