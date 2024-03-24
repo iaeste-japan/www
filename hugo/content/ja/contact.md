@@ -1,5 +1,5 @@
 ---
-title: "お問い合わせ / 連絡先"
+title: "お問い合わせ"
 url: "contact/"
 featured_image: ""
 ---
@@ -12,7 +12,7 @@ featured_image: ""
 | TEL.               | 03-6267-4550 <br>原則として、お問い合わせはメールにてお願いいたします。 |
 | FAX.               | 03-6267-4555 |
 
-1. IAESTE Japan 事務局は総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、 IAESTE Japan の総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のアドレスにお問い合わせをお願いいたします。
+1. IAESTE Japan 事務局は総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、 IAESTE Japan の総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のメールアドレスにお問い合わせをお願いいたします。
     - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
 
 ### 郵送について
@@ -21,7 +21,7 @@ featured_image: ""
 
 ### 関東地区学生委員会 (TLSC = Tokyo Local Students’ Committee)
 
-関東地区学生委員の活動については、 IAESTE TLSC (Tokyo Local Students’ Committee) の web サイトをご参照ください。
+関東地区学生委員の活動については、 IAESTE TLSC (Tokyo Local Students’ Committee) の website をご参照ください。
 - https://tlsc.iaeste.or.jp/
 
 ### IAESTE オンブズパーソン
