@@ -46,11 +46,11 @@ steps:
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
-        /tmp/firebase --project ${PROJECT_ID} hosting:channel:delete $_CHANNEL_ID --force
-        /tmp/firebase --project ${PROJECT_ID} hosting:channel:create $_CHANNEL_ID
+        /tmp/firebase --project ${PROJECT_ID} hosting:channel:delete $_CHANNEL_ID --force --no-authorized-domains
+        /tmp/firebase --project ${PROJECT_ID} hosting:channel:create $_CHANNEL_ID --no-authorized-domains
         /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL $_CHANNEL_URL/ --buildFuture
         cd /workspace/
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy $_CHANNEL_ID --expires $_EXPIRE_TIME --no-authorized-domains
       fi
 substitutions:
   _HUGO_VERSION: 0.124.1
