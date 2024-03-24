@@ -5,14 +5,16 @@ featured_image: ""
 ---
 このページでは、`Exchange Internship` と `Global Internship` のそれぞれのオファーについてご説明します。
 
-まず初めに、このページ内で登場する用語を紹介します。
+## 用語説明
+
+まず初めに、このページ内で使われる用語についてご説明します。
 
 | 項目                    | 内容   |
 | ---------------------- | ----- |
 | **受入機関**            | 学生にインターンシップの機会を提供する企業や大学など |
 | **オファー**             | 所定のフォーマットに受入機関が受入れる学生の専門分野・必要スキル、支給される滞在費や宿舎などを記入したもの |
 | **派遣候補生**          | 募集応募後、 IAESTE Japan 担当教授の面談を修了した学生は派遣候補生に認定される。学籍がある限り派遣候補生としての権利は有効 |
-| **IAESTE A.s.b.l.**   | ルクセンブルクに登録された非営利団体で、 IAESTE の国際的な統括組織。 A.s.b.l. は `Associacion sans but lucratif` の略 |
+| **IAESTE A.s.b.l.**   | ルクセンブルク大公国に登録された非営利団体で、 IAESTE の国際的な統括組織。 A.s.b.l. は `Associacion sans but lucratif` の略 |
 | **Exchange Platform** | IAESTE A.s.b.l. が運営するオファー公開・応募システム。利用するには最初に登録が必要 |
 
 ## オファータイプについて
@@ -33,8 +35,8 @@ featured_image: ""
 | **IELTS**     | 5.5 以上 |
 | **ケンブリッジ英語検定** | FCE 以上 |
 | **実用英語技能検定** | 準1級以上 |
-| **TOEIC Listening/Reading** | 600 以上 |
-| **TOEIC Speaking/Writing** | 240 以上 |
+| **TOEIC Listening and Reading** | 600 以上 |
+| **TOEIC Speaking and Writing** | 240 以上 |
 
 ### Global Internship とは
 
@@ -51,8 +53,8 @@ Exchange Platform に随時掲載されるオファーのうち、希望する�
 | **IELTS**     | 6.5 以上 |
 | **ケンブリッジ英語検定** | C1 (CAE) 以上 |
 | **実用英語技能検定** | 準1級以上 |
-| **TOEIC Listening/Reading** | 800 以上 |
-| **TOEIC Speaking/Writing** | 300 以上 |
+| **TOEIC Listening and Reading** | 800 以上 |
+| **TOEIC Speaking and Writing** | 300 以上 |
 
 ## オファータイプ別の特徴
 
@@ -63,7 +65,7 @@ Exchange Platform に随時掲載されるオファーのうち、希望する�
 
 ## IAESTE A.s.b.l. に公開されるオファー
 
-IAESTE A.s.b.l. のwebサイトには各加盟国が公開するオファーが紹介されており、各オファーの概略を知ることが出来ます。
+IAESTE A.s.b.l. の website には各加盟国が公開するオファーが紹介されており、各オファーの概略を知ることが出来ます。
 
 ご興味のある方は、是非覗いてみてください。<br>
 *時期によって公開されるオファーの数や内容が変化します。
