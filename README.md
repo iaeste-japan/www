@@ -41,6 +41,7 @@ www.iaeste.or.jp/
 ├── internships/
 │   ├── offers/
 │   ├── how-it-works/
+│   ├── fee-and-costs/
 │   ├── information-session/
 │   ├── faqs/
 │   ├── required-docs/
