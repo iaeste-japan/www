@@ -14,7 +14,7 @@ featured_image: ""
 注意点
 1. 9月募集と4月募集では、研修可能時期や選択できるオファーが異なることにご注意下さい。
 2. Exchange Internship と Global Internship の違いは [オファーについて](offers.md) をご覧ください。
-3. Exchange Platform の詳細は [Exchange Platform](offers.md#exchange-platform-略称-ep) をご覧ください。
+3. Exchange Platform の詳細は [IAESTE A.s.b.l. に公開されるオファー](offers.md#exchange-platform) をご覧ください。
 
 申し込みに当たっては、 必要書類をダウンロードし、記入後、 PDF ファイルをメールに添付して事務局までお送りください。<br>
 書類の郵送は不要です。申請書添付の英語能力証明書は後日送付も可能です。書類送付時に入手予定日を明記してください。
