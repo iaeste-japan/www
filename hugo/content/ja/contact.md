@@ -21,7 +21,7 @@ featured_image: ""
 
 ### 関東地区学生委員会 (TLSC = Tokyo Local Students’ Committee)
 
-関東地区学生委員の活動については、 IAESTE TLSC (Tokyo Local Students’ Committee) の web サイトをご参照ください。
+関東地区学生委員の活動については、 IAESTE TLSC (Tokyo Local Students’ Committee) の website をご参照ください。
 - https://tlsc.iaeste.or.jp/
 
 ### IAESTE オンブズパーソン

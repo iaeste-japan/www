@@ -6,6 +6,7 @@ featured_image: ""
 
 - [オファーについて](offers.md)
 - [研修までの流れ](how-it-works.md)
+- [プログラム参加料と各種費用](program-fees-and-other-costs.md)
 - [インターンシップ説明会](information-session.md)
 - [募集要項 / 必要書類](required-docs.md)
 - [FAQs](faqs/_index.md)
