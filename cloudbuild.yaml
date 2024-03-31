@@ -47,7 +47,7 @@ steps:
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:delete $_CHANNEL_ID --force
-        sleep 10
+        echo "Finish Deleting a Channel"
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:create $_CHANNEL_ID
         /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL $_CHANNEL_URL/ --buildFuture
         cd /workspace/
