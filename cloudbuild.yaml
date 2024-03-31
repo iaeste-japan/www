@@ -54,3 +54,5 @@ steps:
       fi
 substitutions:
   _HUGO_VERSION: 0.124.1
+options:
+  logging: CLOUD_LOGGING_ONLY
