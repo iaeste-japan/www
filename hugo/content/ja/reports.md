@@ -31,6 +31,7 @@ IAESTE Japan 全体での研修生交換実績です。
 
 | 年度   | 専門分野      | 派遣国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
+| FY2023 | 化学 | アメリカ合衆国 | [PDF](/files/internship/reports/training-report-fy2023-us-tateno.pdf) |
 | FY2023 | 機械工学 | タイ王国 | [PDF](/files/internship/reports/training-report-fy2023-th-serata.pdf) |
 | FY2023| 環境工学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2023-pl-anonymous2.pdf) |
 | FY2023 | 生物圏環境工学| ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2023-pl-anonymous1.pdf) |
