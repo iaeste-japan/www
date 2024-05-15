@@ -14,7 +14,8 @@ The information provided in the entry form will be used by IAESTE Japan to confi
 
 1. Please note that the available internship periods and offers differ between the September and April recruitements.
 2. For the difference between Exchange Internship and Global Internship, please refer to [What is Offer?](offers.md).
-3. For more information on the Exchange Platform, please see [the offers published on IAESTE A.s.b.l.](offers.md#offers-on-the-iaeste-asbl-website).
+3. For more information on the Exchange Platform, please see [the offers published on IAESTE A.s.b.l.](offers.md#offers-on-the-iaeste-asbl-website).<br>
+Please note that administrative procedures and inquiries can only be answered from 9:30-17:30 on weekdays. Please note that the office will not be operating at any other time.
 
 To apply, please download the required documents, fill them out, and send them to our office as a PDF file attached to an e-mail.<br>
 No documents need to be sent by mail. The Certificate of English Proficiency that accompanies the Application form can be sent at a later date. Please indicate the expected date of receipt when you send the documents.
