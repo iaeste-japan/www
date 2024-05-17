@@ -10,6 +10,7 @@ IAESTE Japan 全体での研修生交換実績です。
 
 | 年度 | 実績 |
 | --- | ---- |
+| FY2023 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2023.pdf) |
 | FY2022 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
 | FY2021 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2021.pdf) |
 | FY2020 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2020.pdf) |
@@ -27,10 +28,11 @@ IAESTE Japan 全体での研修生交換実績です。
 
 ### 研修報告書 (個人毎)
 
-海外で研修を行ってきた方々の研修報告書です。報告書には、研修内容、研修先での生活、研修後の感想や研修実施上のアドバイスなどが記載されています。
+海外で研修を行ってきた方々の研修報告書です。報告書には、研修内容、研修先での生活、研修後の感想や研修実施上のアドバイスなどが記載されています。なお、HP掲載に同意を得た報告書のみを掲載している関係上、掲載された報告書の数は派遣国数、派遣件数を反映しておりません。
 
 | 年度   | 専門分野      | 派遣国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
+| FY2023 |   | ベルギー王国 | [PDF](/files/internship/reports/training-report-fy2023-be-inada.pdf) |
 | FY2023 | 化学 | アメリカ合衆国 | [PDF](/files/internship/reports/training-report-fy2023-us-tateno.pdf) |
 | FY2023 | 機械工学 | タイ王国 | [PDF](/files/internship/reports/training-report-fy2023-th-serata.pdf) |
 | FY2023| 環境工学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2023-pl-anonymous2.pdf) |
