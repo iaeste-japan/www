@@ -38,4 +38,4 @@ Half of the program participation fee will be refunded if the internship is done
 | Travel Expenses | You are to purchase your airline tickets and other expenses. |
 | Accommodation | The internship host usually provides sufficient funds for your living expenses. You may be required to pay for your own expenses to participate in local IAESTE-sponsored events. |
 | Overseas Accident Insurance | You are responsible for your own insurance, including arrangements. Insurance is mandatory. |
-| VISA Application Fee | You will be responsible for this fee. Assistance to VISA acquisition will be provided. |
+| VISA Application Fee | You will be responsible for this fee. The local IAESTE will assist you with the VISA application process. |
