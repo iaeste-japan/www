@@ -25,7 +25,8 @@ featured_image: ""
 
 | 年度 (西暦) | 年度 (年号) | ドキュメント |
 | ------ | ------- | ---------------------------------------- |
-| FY2023 | 令和5年度 | [事業計画書](/files/org/D01_Plan_FY2023_R05.pdf) / [収支予算書](/files/org/D02_Budget_FY2023_R05.pdf) |
+| FY2024 | 令和6年度 | [事業計画書](/files/org/D01_Plan_FY2024_R06.pdf) / [収支予算書](/files/org/D02_Budget_FY2024_R06.pdf) |
+| FY2023 | 令和5年度 | [事業計画書](/files/org/D01_Plan_FY2023_R05.pdf) / [収支予算書](/files/org/D02_Budget_FY2023_R05.pdf) / [事業報告](/files/org/D03_Report_FY2023_R05.pdf) / [貸借対照表](/files/org/D04_BS_FY2023_R05.pdf) / [正味財産増減計算書](/files/org/D05_NetAssets_FY2023_R05.pdf) / [財産目録](/files/org/D06_Inventory_FY2023_R05.pdf) / [監査報告書](/files/org/D07_Audit_FY2023_R05.pdf) |
 | FY2022 | 令和4年度 | [事業計画書](/files/org/D01_Plan_FY2022_R04.pdf) / [収支予算書](/files/org/D02_Budget_FY2022_R04.pdf) / [事業報告](/files/org/D03_Report_FY2022_R04.pdf) / [貸借対照表](/files/org/D04_BS_FY2022_R04.pdf) / [正味財産増減計算書](/files/org/D05_NetAssets_FY2022_R04.pdf) / [財産目録](/files/org/D06_Inventory_FY2022_R04.pdf) / [監査報告書](/files/org/D07_Audit_FY2022_R04.pdf) |
 | FY2021 | 令和3年度 | [事業計画書](/files/org/D01_Plan_FY2021_R03.pdf) / [収支予算書](/files/org/D02_Budget_FY2021_R03.pdf) / [事業報告](/files/org/D03_Report_FY2021_R03.pdf) / [貸借対照表](/files/org/D04_BS_FY2021_R03.pdf) / [正味財産増減計算書](/files/org/D05_NetAssets_FY2021_R03.pdf) / [財産目録](/files/org/D06_Inventory_FY2021_R03.pdf) / [監査報告書](/files/org/D07_Audit_FY2021_R03.pdf) |
 | FY2020 | 令和2年度 | [事業計画書](/files/org/D01_Plan_FY2020_R02.pdf) / [収支予算書](/files/org/D02_Budget_FY2020_R02.pdf) / [事業報告](/files/org/D03_Report_FY2020_R02.pdf) / [貸借対照表](/files/org/D04_BS_FY2020_R02.pdf) / [正味財産増減計算書](/files/org/D05_NetAssets_FY2020_R02.pdf) / [財産目録](/files/org/D06_Inventory_FY2020_R02.pdf) / [監査報告書](/files/org/D07_Audit_FY2020_R02.pdf) |
