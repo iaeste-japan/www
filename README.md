@@ -4,16 +4,16 @@
 
 website のリポジトリは https://www.iaeste.or.jp/ のソースコードを管理します。
 
-## 2. Release to production and staging environment
+## 2. Release to production and dogfood environment
 
 下表の左列に記載されたブランチが更新されると、各環境 website の更新が自動的におこなわれます。
 
-`development`, `staging` のプレビュー環境は公開していません。
+`development`, `dogfood` のプレビュー環境は公開していません。
 
 | Branch name   | Environment      | URL                       |
 | ------------- | ---------------- | ------------------------- |
 | `development` | development      | Private                   |
-| `staging`     | staging          | Private                   |
+| `dogfood`     | dogfood          | Private                   |
 | `production`  | production       | https://www.iaeste.or.jp/ |
 
 ## 3. Branch rule
@@ -25,7 +25,7 @@ website のリポジトリは https://www.iaeste.or.jp/ のソースコードを
 | Branch name   | People who can submit pull requests | Note                                                                   |
 | ------------- | ----------------------------------- | ---------------------------------------------------------------------- |
 | `development` | All developers                      | base branch。基本は、この `development` ブランチに Pull Request を送ってください。 |
-| `staging`     | Administrators only                 | 本番前の最終確認用。管理者以外の Pull Request は禁止です。                      |
+| `dogfood`     | Administrators only                 | 本番前の最終確認用。管理者以外の Pull Request は禁止です。                      |
 | `production`  | Administrators only                 | 管理者以外の Pull Request は禁止です。                                      |
 
 ## 4. Plan the webpage structure
