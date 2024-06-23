@@ -48,12 +48,20 @@ steps:
       if [[ "$_CHANNEL_ID" == "production" ]]; then
         export HUGO_ENV="production"
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
+
+        # Clean up theme-ananke sample
+        rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
+
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:delete ${_CHANNEL_ID} --force
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:create ${_CHANNEL_ID}
         /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_CHANNEL_URL}/ --buildFuture
+
+        # Clean up theme-ananke sample
+        rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
+
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${_CHANNEL_ID} --expires ${_EXPIRE_TIME}
       fi
