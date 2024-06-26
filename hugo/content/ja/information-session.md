@@ -4,15 +4,15 @@ url: "internship/information-session/"
 aliases: ["/students/from_jp/info_meeting/"]
 featured_image: ""
 ---
-2023年度は各大学内での開催が困難なため、東京大学本郷キャンパスにて説明会を対面で行い、同時に Zoom Meetings を用いてオンラインでの説明会も行います。
+2024年度はZoom Meetings を用いてオンライン上でインターンシップに向けた説明会を行います。
 
 <div align="center">
 
 | No. | 日時                           | 会場 |
 | --- | ----------------------------- | ---- |
-| 1   | 2023年06月03日(土) 10:00-12:00 | 東京大学本郷キャンパス & Zoom Meetings (同時開催) |
-| 2   | 2023年07月01日(土) 14:00-16:00 | 東京大学本郷キャンパス & Zoom Meetings (同時開催) |
-| 3   | 2023年09月02日(土) 14:00-16:00 | 東京大学本郷キャンパス & Zoom Meetings (同時開催) |
+| 1   | 2024年05月18日(土) 10:00-12:00 | Zoom Meetings  |
+| 2   | 2024年06月08日(土) 10:00-12:00 | Zoom Meetings  |
+| 3   | 2024年07月06日(土) 10:00-12:00 | Zoom Meetings  |
 
 </div>
 
@@ -26,12 +26,12 @@ featured_image: ""
 
 - IAESTE インターンシップの説明
 - 申し込みから研修終了後までの流れについて
-- 質疑応答
 - 本プログラム経験者による体験談
+- 質疑応答
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明の資料ですので、詳細についてはお問い合わせください。
 
-- [説明会資料2023](/files/internship/information-session/briefing-slides-2023-v20230712.pdf)
+- [説明会資料2024](/files/internship/information-session/briefing-slides-2023-v20230712.pdf)
 
 ### 参加方法
 
