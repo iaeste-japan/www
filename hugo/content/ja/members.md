@@ -31,7 +31,7 @@ featured_image: ""
 |---|---|---|
 |[アズビル株式会社](https://www.azbil.com/)|[アルプスアルパイン株式会社](https://www.alpsalpine.com/j/)|[株式会社アルメックVPI](https://www.almec.co.jp/)|
 |[大阪工業大学](https://www.oit.ac.jp/)|[沖電気工業株式会社](https://www.oki.com/)|[九州大学](https://www.kyushu-u.ac.jp/ja/)|
-|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|[一般財団法人軽量計画研究所](https://www.ibs.or.jp/)|[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)|
+|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|[一般財団法人計量計画研究所](https://www.ibs.or.jp/)|[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)|
 |[東急電鉄株式会社](https://www.tokyu.co.jp/railway/)|[東京大学](https://www.u-tokyo.ac.jp/ja/)|[東京都立大学](https://www.tmu.ac.jp/)|
 |[東京理科大学](https://www.tus.ac.jp/)|[東北大学](https://www.tohoku.ac.jp/japanese/)|[豊田工業大学](https://www.toyota-ti.ac.jp/)|
 [株式会社日立製作所](https://www.hitachi.co.jp/)|[プレティア・テクノロジーズ株式会社](https://corporate.pretiaar.com/)|[株式会社メルカリ](https://about.mercari.com/)|
