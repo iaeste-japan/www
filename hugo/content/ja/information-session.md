@@ -4,7 +4,7 @@ url: "internship/information-session/"
 aliases: ["/students/from_jp/info_meeting/"]
 featured_image: ""
 ---
-2024年度はZoom Meetings を用いてオンライン上でインターンシップに向けた説明会を行います。
+2024年度は Zoom Meetings を用いてオンライン上でインターンシップに向けた説明会を行います。
 
 <div align="center">
 
