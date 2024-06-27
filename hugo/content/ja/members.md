@@ -17,7 +17,7 @@ featured_image: ""
 
 ### 大学会員
 
-[大阪大学](https://www.osaka-u.ac.jp/ja/)、[岡山大学](https://www.okayama-u.ac.jp/)、[京都大学](https://www.kyoto-u.ac.jp/ja)、[慶応義塾大学](https://www.keio.ac.jp/ja/)、[東京大学](https://www.u-tokyo.ac.jp/ja/)、[東京工業大学](https://www.titech.ac.jp/)、[東京都市大学](https://www.tcu.ac.jp/)、[東京都立大学](https://www.tmu.ac.jp/)、[東京農工大学](https://www.tuat.ac.jp/)、[東京理科大学](https://www.tus.ac.jp/)、[同志社大学](https://www.doshisha.ac.jp/)、[東北大学](https://www.tohoku.ac.jp/japanese/)、[室蘭工業大学](https://muroran-it.ac.jp/)、[横浜国立大学](https://www.ynu.ac.jp/)、[立命館大学](https://www.ritsumei.ac.jp/)、[早稲田大学](https://www.waseda.jp/top/)
+[大阪大学](https://www.osaka-u.ac.jp/ja/)、[岡山大学](https://www.okayama-u.ac.jp/)、[九州大学](https://www.kyushu-u.ac.jp/ja/),[京都大学](https://www.kyoto-u.ac.jp/ja)、[慶応義塾大学](https://www.keio.ac.jp/ja/)、[東京大学](https://www.u-tokyo.ac.jp/ja/)、[東京工業大学](https://www.titech.ac.jp/)、[東京都市大学](https://www.tcu.ac.jp/)、[東京都立大学](https://www.tmu.ac.jp/)、[東京農工大学](https://www.tuat.ac.jp/)、[東京理科大学](https://www.tus.ac.jp/)、[同志社大学](https://www.doshisha.ac.jp/)、[東北大学](https://www.tohoku.ac.jp/japanese/)、[室蘭工業大学](https://muroran-it.ac.jp/)、[横浜国立大学](https://www.ynu.ac.jp/)、[立命館大学](https://www.ritsumei.ac.jp/)、[早稲田大学](https://www.waseda.jp/top/)
 
 ### 個人会員
 
@@ -31,7 +31,7 @@ featured_image: ""
 |---|---|---|
 |[アズビル株式会社](https://www.azbil.com/)|[アルプスアルパイン株式会社](https://www.alpsalpine.com/j/)|[株式会社アルメックVPI](https://www.almec.co.jp/)|
 |[大阪工業大学](https://www.oit.ac.jp/)|[沖電気工業株式会社](https://www.oki.com/)|[九州大学](https://www.kyushu-u.ac.jp/ja/)|
-|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|[一般財団法人軽量計画研究所](https://www.ibs.or.jp/)|[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)|
+|[株式会社KDDI総合研究所](https://www.kddi-research.jp/)|[一般財団法人計量計画研究所](https://www.ibs.or.jp/)|[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)|
 |[東急電鉄株式会社](https://www.tokyu.co.jp/railway/)|[東京大学](https://www.u-tokyo.ac.jp/ja/)|[東京都立大学](https://www.tmu.ac.jp/)|
 |[東京理科大学](https://www.tus.ac.jp/)|[東北大学](https://www.tohoku.ac.jp/japanese/)|[豊田工業大学](https://www.toyota-ti.ac.jp/)|
 [株式会社日立製作所](https://www.hitachi.co.jp/)|[プレティア・テクノロジーズ株式会社](https://corporate.pretiaar.com/)|[株式会社メルカリ](https://about.mercari.com/)|
