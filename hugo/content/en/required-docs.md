@@ -6,15 +6,18 @@ featured_image: ""
 
 ## About Entry
 
-For application procedures and other information, please first review the Application Guidelines and the Internship Program Dispatch Guidance. Next, please register to use the Exchange Platform(*3) and fill out the entry form.
+{{< alert type="caution" title="Caution" >}}
 
-The information provided in the entry form will be used by IAESTE Japan to confirm your registration on the Exchange Platform.
-
-Points to Note
 1. Please note that the available internship periods and offers differ between the September and April recruitements.
 2. For the difference between Exchange Internship and Global Internship, please refer to [What is Offer?](offers.md).
 3. For more information on the Exchange Platform, please see [the offers published on IAESTE A.s.b.l.](offers.md#offers-on-the-iaeste-asbl-website).
 4. Administrative procedures and questions will be handled during the hours indicated on the [Contact](contact.md) page. Please note that the IAESTE Japan office will not be able to respond outside of our office hours.
+
+{{< /alert >}}
+
+For application procedures and other information, please first review the Application Guidelines and the Internship Program Dispatch Guidance. Next, please register to use the Exchange Platform(*3) and fill out the entry form.
+
+The information provided in the entry form will be used by IAESTE Japan to confirm your registration on the Exchange Platform.
 
 To apply, please download the required documents, fill them out, and send them to our office as a PDF file attached to an e-mail.<br>
 No documents need to be sent by mail. The Certificate of English Proficiency that accompanies the Application form can be sent at a later date. Please indicate the expected date of receipt when you send the documents.
@@ -22,7 +25,9 @@ No documents need to be sent by mail. The Certificate of English Proficiency tha
 ## Document List
 
 {{< alert type="caution" title="Caution" >}}
+
 Documents marked with an asterisk (*) will be substantially revised on August 1, 2024. <br>Please use the current file as useful information and download it again after the revision.
+
 {{< /alert >}}
 
 | Document Name | Format | Update Date (yyyy-mm-dd) |
