@@ -7,7 +7,7 @@ featured_image: ""
 
 {{< alert type="important" title="重要" >}}
 
-1. IAESTE Japan の総務・経理事務に関する問い合わせは以下のメールアドレスへお問い合わせください。<br>IAESTE Japan は株式会社毎日学術フォーラムと総務・経理事務に関する業務委託契約を締結しています。
+1. IAESTE Japan の総務・経理事務に関するお問い合わせは、下記メールアドレスまでお願いいたします。<br>IAESTE Japan は株式会社毎日学術フォーラムと総務・経理事務に関する業務委託契約を締結しています。
     - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
 
 {{< /alert >}}
