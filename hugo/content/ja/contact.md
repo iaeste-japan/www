@@ -5,15 +5,19 @@ featured_image: ""
 ---
 ### メール等のお問い合わせ
 
+{{< alert type="important" title="重要" >}}
+
+1. IAESTE Japan の総務・経理事務に関するお問い合わせは、下記メールアドレスまでお願いいたします。<br>IAESTE Japan は株式会社毎日学術フォーラムと総務・経理事務に関する業務委託契約を締結しています。
+    - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
+
+{{< /alert >}}
+
 | 項目 | 内容 |
 | ---- | ---- |
 | 受付時間            | 10:00 – 17:00<br>(土・日・祝日・年末年始・夏期休暇等の休日を除く) |
 | email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp) |
-| TEL.               | 03-6267-4550 <br>原則として、お問い合わせはメールにてお願いいたします。 |
+| TEL.               | 03-6267-4550 <br>原則、お問い合わせはメールにてお願いいたします。 |
 | FAX.               | 03-6267-4555 |
-
-1. IAESTE Japan 事務局は総務・経理事務に関して、株式会社毎日学術フォーラムと業務委託契約を締結しています。従って、 IAESTE Japan の総務・経理事務に関しては株式会社毎日学術フォーラムが使用している以下のメールアドレスにお問い合わせをお願いいたします。
-    - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
 
 ### 郵送について
 
