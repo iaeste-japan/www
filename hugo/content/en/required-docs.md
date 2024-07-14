@@ -1,5 +1,5 @@
 ---
-title: "Application Guidelines and Required Documents for Overseas Internships"
+title: "Application Guidelines and Required Documents"
 url: "internship/required-docs/"
 featured_image: ""
 ---
@@ -26,16 +26,16 @@ No documents need to be sent by mail. The Certificate of English Proficiency tha
 
 {{< alert type="caution" title="Caution" >}}
 
-Documents marked with an asterisk (*) will be substantially revised on August 1, 2024. <br>Please use the current file as useful information and download it again after the revision.
+Documents marked with an asterisk (*) were revised on August 1, 2024, so please download the file again. <br> However, the revision was intended for terminology changes and clarity improvements and the main content has not changed.
 
 {{< /alert >}}
 
 | Document Name | Format | Update Date (yyyy-mm-dd) |
 |---------------|--------|--------------------------|
-| [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform)            | Google Forms | 2023-10-05 |
-| (*)[Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2024-en-v20230828.pdf)   | .pdf | 2023-09-11 |
-| (*)[Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2024-april-en-v20240414.pdf) | .pdf | 2024-04-14 |
-| (*)[Internship Program Dispatch Guidance](/files/internship/required-docs/internship-dispatch-guidance-fy2024-en-v20230828.pdf)         | .pdf | 2023-09-11 |
-| (*)[Application Form](/files/internship/required-docs/application-form-fy2024-en-v20230828.xlsx) | .xlsx | 2023-09-11 |
+| [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScWaJ1EYKfRpTBYwee2vvsxOh8duBMvJVJdpTVMnOWZByCDmw/viewform)            | Google Forms | 2023-10-05 |
+| (*)[Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2025-en-v20240801.pdf)   | .pdf | 2024-08-01 |
+| (*)[Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2025-april-en-v20240801.pdf) | .pdf | 2024-08-01 |
+| (*)[Intern manual](/files/internship/required-docs/intern-manual-fy2025-en-v20240801.pdf)         | .pdf | 2024-08-01 |
+| (*)[Application Form](/files/internship/required-docs/application-form-fy2025-en-v20240801.xlsx) | .xlsx | 2024-08-01 |
 | [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx)   | .docx | 2023-04-07 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)                            | .docx | 2022-08-16 |
