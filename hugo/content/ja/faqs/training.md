@@ -3,6 +3,7 @@ featured_image: ""
 toc: true
 categories: [faqs]
 title: "研修に関する質問"
+aliases: ["questions-about-training/"]
 weight: 40
 ---
 

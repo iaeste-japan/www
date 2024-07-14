@@ -3,6 +3,7 @@ featured_image: ""
 toc: true
 categories: [faqs]
 title: "マッチングに関する質問"
+aliases: ["questions-about-matching/"]
 weight: 30
 ---
 

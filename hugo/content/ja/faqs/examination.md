@@ -3,6 +3,7 @@ featured_image: ""
 toc: true
 categories: [faqs]
 title: "選考試験に関する質問"
+aliases: ["questions-about-examination/"]
 weight: 20
 ---
 
