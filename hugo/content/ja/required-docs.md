@@ -27,7 +27,7 @@ featured_image: ""
 
 {{< alert type="caution" title="注意" >}}
 
-アスタリスク (*) の記載がある書類は2024年8月1日に改定しましたので、改めてファイルをダウンロードして頂くようをお願いします。<br>ただし、用語変更と明瞭さ向上のためのもの、主な内容に変更はありません
+アスタリスク (*) の記載がある書類は2024年8月1日に改定しましたので、改めてファイルをダウンロードして頂くようお願いします。<br>ただし、用語変更と明瞭さ向上のためのもので、主な内容に変更はありません
 
 {{< /alert >}}
 
@@ -37,7 +37,7 @@ featured_image: ""
 | (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
 | (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20240801.pdf) | .pdf | 2024-08-01 |
 | (*)[研修生マニュアル](/files/internship/required-docs/intern-mannual-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
-| (*)[申請書](/files/internship/required-docs/application-form-fy2025-ja-v20240801.xlsx)          | .xlsx | 2024-08-01 |
+| (*)[申請書](/files/internship/required-docs/application-form-fy2025-v20240801.xlsx)          | .xlsx | 2024-08-01 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | .docx | 2023-04-07 |
 | [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | .docx | 2022-08-16 |
 | [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | .docx | 2023-09-11 |

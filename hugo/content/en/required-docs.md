@@ -36,6 +36,6 @@ Documents marked with an asterisk (*) were revised on August 1, 2024, so please 
 | (*)[Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2025-en-v20240801.pdf)   | .pdf | 2024-08-01 |
 | (*)[Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2025-april-en-v20240801.pdf) | .pdf | 2024-08-01 |
 | (*)[Intern manual](/files/internship/required-docs/intern-manual-fy2025-en-v20240801.pdf)         | .pdf | 2024-08-01 |
-| (*)[Application Form](/files/internship/required-docs/application-form-fy2025-en-v20240801.xlsx) | .xlsx | 2024-08-01 |
+| (*)[Application Form](/files/internship/required-docs/application-form-fy2025-v20240801.xlsx) | .xlsx | 2024-08-01 |
 | [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx)   | .docx | 2023-04-07 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)                            | .docx | 2022-08-16 |
