@@ -1,5 +1,5 @@
 ---
-title: "海外インターンシップ募集要項 / 必要書類"
+title: "海外インターンシップ応募要項 / 必要書類"
 url: "internship/required-docs/"
 featured_image: ""
 ---
@@ -27,18 +27,18 @@ featured_image: ""
 
 {{< alert type="caution" title="注意" >}}
 
-アスタリスク (*) の記載がある書類は2024年8月1日に大幅な改定を予定しています。<br>現行ファイルは参考とし、改定後に改めてダウンロードをお願いします。
+アスタリスク (*) の記載がある書類は2024年8月1日に改定しましたので、改めてファイルをダウンロードして頂くようお願いします。<br>ただし、用語変更と明瞭さ向上のためのもので、主な内容に変更はありません
 
 {{< /alert >}}
 
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
-| [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGxklObPK3CPZNiYktDHGFyZEB8YV2Iw0AIViYIsO4Q4Vmfw/viewform) | Google Forms | 2023-10-05 |
-| (*)[9月募集要項](/files/internship/required-docs/application-guidelines-fy2024-ja-v20231017.pdf) | .pdf | 2023-10-17 |
-| (*)[4月募集要項](/files/internship/required-docs/application-guidelines-fy2024-april-ja-v20240403.pdf) | .pdf | 2024-04-03 |
-| (*)[研修の手引き](/files/internship/required-docs/internship-dispatch-guidance-fy2024-ja-v20230828.pdf) | .pdf | 2023-09-11 |
-| (*)[申請書](/files/internship/required-docs/application-form-fy2024-ja-v20230828.xlsx)          | .xlsx | 2023-09-11 |
+| [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLScWaJ1EYKfRpTBYwee2vvsxOh8duBMvJVJdpTVMnOWZByCDmw/viewform) | Google Forms | 2023-10-05 |
+| (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
+| (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20240801.pdf) | .pdf | 2024-08-01 |
+| (*)[研修生マニュアル](/files/internship/required-docs/intern-mannual-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
+| (*)[申請書](/files/internship/required-docs/application-form-fy2025-v20240801.xlsx)          | .xlsx | 2024-08-01 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | .docx | 2023-04-07 |
 | [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | .docx | 2022-08-16 |
 | [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | .docx | 2023-09-11 |
-| [派遣辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)              | .docx | 2023-07-20 |
+| [辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)              | .docx | 2023-07-20 |
