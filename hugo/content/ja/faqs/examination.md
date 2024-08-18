@@ -3,6 +3,7 @@ featured_image: ""
 toc: true
 categories: [faqs]
 title: "選考試験に関する質問"
+aliases: ["questions-about-examination/"]
 weight: 20
 ---
 
@@ -12,7 +13,7 @@ weight: 20
 
 会員校の場合、選考試験応募手数料と選考試験合格者後にオファーマッチングを受けるためのプログラム参加料が安くなります。
 
-詳しい詳細は [各種費用](../how-it-works.md#各種費用) をご覧ください。
+詳しい詳細は [研修に関わる各種費用](../fee-and-costs.md) をご覧ください。
 
 ## 選考試験の合格率はどのぐらいですか?
 
