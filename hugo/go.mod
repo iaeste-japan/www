@@ -1,5 +1,5 @@
 module github.com/iaeste-japan/www
 
-go 1.20
+go 1.22
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240503174335-33fbda0e9d3e // indirect
