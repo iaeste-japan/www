@@ -26,7 +26,8 @@ No documents need to be sent by mail. The Certificate of English Proficiency tha
 
 {{< alert type="caution" title="Caution" >}}
 
-Documents marked with an asterisk (*) were revised on August 1, 2024, so please download the file again. <br> However, the revision was intended for terminology changes and clarity improvements and the main content has not changed.
+Documents marked with an asterisk (*) were revised on August 31, 2024, with changes to the classification of specializations in documents. <br> 
+Please use the updated documents when applying.
 
 {{< /alert >}}
 
