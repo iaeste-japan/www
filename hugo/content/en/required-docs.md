@@ -26,7 +26,7 @@ No documents need to be sent by mail. The Certificate of English Proficiency tha
 
 {{< alert type="caution" title="Caution" >}}
 
-Documents marked with an asterisk (*) were revised on August 31, 2024, with changes to the classification of specializations in documents. <br> 
+Documents marked with an asterisk (*) were revised on September 1, 2024, with changes to the classification of specializations in documents. <br> 
 Please use the updated documents when applying.
 
 {{< /alert >}}
@@ -34,9 +34,9 @@ Please use the updated documents when applying.
 | Document Name | Format | Update Date (yyyy-mm-dd) |
 |---------------|--------|--------------------------|
 | [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScWaJ1EYKfRpTBYwee2vvsxOh8duBMvJVJdpTVMnOWZByCDmw/viewform)            | Google Forms | 2023-10-05 |
-| (*)[Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2025-september-en-v20240901.pdf)   | .pdf | 2024-08-31 |
-| (*)[Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2025-april-en-v20240901.pdf) | .pdf | 2024-08-31 |
+| (*)[Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2025-september-en-v20240901.pdf)   | .pdf | 2024-09-01 |
+| (*)[Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2025-april-en-v20240901.pdf) | .pdf | 2024-09-01 |
 | [Intern manual](/files/internship/required-docs/intern-manual-fy2025-en-v20240801.pdf)         | .pdf | 2024-08-01 |
-| (*)[Application Form](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx) | .xlsx | 2024-08-31 |
+| (*)[Application Form](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx) | .xlsx | 2024-09-01 |
 | [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx)   | .docx | 2023-04-07 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)                            | .docx | 2022-08-16 |
