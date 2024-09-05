@@ -15,7 +15,7 @@ featured_image: ""
 
 {{< /alert >}}
 
-For application procedures and other information, please first review the Application Guidelines and the Internship Program Dispatch Guidance. Next, please register to use the Exchange Platform(*3) and fill out the entry form.
+For application procedures and other information, please first review the Application Guidelines and the Intern Mannual. Next, please register to use the Exchange Platform(*3) and fill out the entry form.
 
 The information provided in the entry form will be used by IAESTE Japan to confirm your registration on the Exchange Platform.
 
