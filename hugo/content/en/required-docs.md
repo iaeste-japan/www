@@ -6,14 +6,11 @@ featured_image: ""
 
 ## About Entry
 
-{{< alert type="caution" title="Caution" >}}
-
-1. Please note that the available internship periods and offers differ between the September and April recruitements.
-2. For the difference between Exchange Internship and Global Internship, please refer to [What is Offer?](offers.md).
-3. For more information on the Exchange Platform, please see [the offers published on IAESTE A.s.b.l.](offers.md#offers-on-the-iaeste-asbl-website).
-4. Administrative procedures and questions will be handled during the hours indicated on the [Contact](contact.md) page. Please note that the IAESTE Japan office will not be able to respond outside of our office hours.
-
-{{< /alert >}}
+> [!CAUTION]
+> 1. Please note that the available internship periods and offers differ between the September and April recruitements.
+> 2. For the difference between Exchange Internship and Global Internship, please refer to [What is Offer?](offers.md).
+> 3. For more information on the Exchange Platform, please see [the offers published on IAESTE A.s.b.l.](offers.md#offers-on-the-iaeste-asbl-website).
+> 4. Administrative procedures and questions will be handled during the hours indicated on the [Contact](contact.md) page. Please note that the IAESTE Japan office will not be able to respond outside of our office hours.
 
 For application procedures and other information, please first review the Application Guidelines and the Intern Manual. Next, please register to use the Exchange Platform(*3) and fill out the entry form.
 
@@ -24,12 +21,9 @@ No documents need to be sent by mail. The Certificate of English Proficiency tha
 
 ## Document List
 
-{{< alert type="caution" title="Caution" >}}
-
-Documents marked with an asterisk (*) were revised on September 1, 2024, with changes to the classification of specializations in documents. <br> 
-Please use the updated documents when applying.
-
-{{< /alert >}}
+> [!CAUTION]
+> Documents marked with an asterisk (*) were revised on September 1, 2024, and changes were made to the specialty table listed in the document.<br>
+> Please use the latest documents for the application process.
 
 | Document Name | Format | Update Date (yyyy-mm-dd) |
 |---------------|--------|--------------------------|
