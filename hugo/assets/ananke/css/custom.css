@@ -75,74 +75,67 @@ table tr th:empty {
     align-items: center;
 }
 
-/* Alert　Tag */
-.alert {
-  position: relative;
-  text-align: left;
-  padding: 10px 15px;
-  min-height: 30px;
-  margin: 1.5em 0;
-  border: none;
-  border-left: 3px solid;
-  word-break: break-word;
+/* General blockquote styles */
+blockquote {
+    padding: 1rem;
+    margin: 1rem 0;
+    border-left: 5px solid;
+    border-radius: 0.25rem;
+    background-color: #f9f9f9;
+    color: inherit; /* Inherit default text color for other elements */
 }
 
-.alert div:first-child {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 15px;
+blockquote p.alert-heading {
+    font-weight: bold;
+    margin-top: 0;
+    color: inherit; /* Inherit alert type color for heading */
 }
 
-.alert-title {
-  text-align: left;
+blockquote p {
+    color: inherit; /* Inherit default text color */
 }
 
-.alert p {
-  margin: 0 0 0;
+blockquote.alert-note {
+    border-color: #0969da; /* Blue border for Note alert */
+    background-color: #e8f0fe; /* Light blue background for Note */
 }
 
-.alert.note {
-  border-color: #0969da;
-  background-color: var(--background-secondary);
+blockquote.alert-note p.alert-heading {
+    color: #004080; /* Specific color for Note heading */
 }
 
-.alert.note .alert-title {
-  color: #0969da;
+blockquote.alert-tip {
+    border-color: #1a7f37; /* Green border for Tip alert */
+    background-color: #e6f4ea; /* Light green background for Tip */
 }
 
-.alert.important {
-  border-color: #8250df;
-  background-color: var(--background-secondary);
+blockquote.alert-tip p.alert-heading {
+    color: #0b4b23; /* Specific color for Tip heading */
 }
 
-.alert.important .alert-title {
-  color: #8250df;
+blockquote.alert-important {
+    border-color: #8250df; /* Purple border for Important alert */
+    background-color: #f3e8ff; /* Light purple background for Important */
 }
 
-.alert.warning {
-  border-color: #bf8700;
-  background-color: var(--background-secondary);
+blockquote.alert-important p.alert-heading {
+    color: #4b0082; /* Specific color for Important heading */
 }
 
-.alert.warning .alert-title {
-  color: #bf8700;
+blockquote.alert-warning {
+    border-color: #bf8700; /* Orange border for Warning alert */
+    background-color: #fff4e5; /* Light orange background for Warning */
 }
 
-.alert.tip {
-  border-color: #1a7f37;
-  background-color: var(--background-secondary);
+blockquote.alert-warning p.alert-heading {
+    color: #7f5000; /* Specific color for Warning heading */
 }
 
-.alert.tip .alert-title {
-  color: #1a7f37;
+blockquote.alert-caution {
+    border-color: #cf222e; /* Red border for Caution alert */
+    background-color: #ffe5e5; /* Light red background for Caution */
 }
 
-.alert.caution {
-  border-color: #cf222e;
-  background-color: var(--background-secondary);
-}
-
-.alert.caution .alert-title {
-  color: #cf222e;
+blockquote.alert-caution p.alert-heading {
+    color: #8b0000; /* Specific color for Caution heading */
 }
