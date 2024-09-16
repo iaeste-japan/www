@@ -78,7 +78,7 @@ table tr th:empty {
 /* General blockquote styles */
 blockquote {
     padding: 1rem;
-    margin: 1rem 0;
+    margin: 1rem 0 1rem 2rem; /* Default indent for blockquotes */
     border-left: 5px solid;
     border-radius: 0.25rem;
     background-color: #f9f9f9;
@@ -95,6 +95,12 @@ blockquote p {
     color: inherit; /* Inherit default text color */
 }
 
+/* No indent for blockquotes with alert class */
+blockquote.alert {
+    margin-left: 0; /* Removes left indent for alert blockquotes */
+}
+
+/* Specific alert types */
 blockquote.alert-note {
     border-color: #0969da; /* Blue border for Note alert */
     background-color: #e8f0fe; /* Light blue background for Note */
@@ -139,3 +145,4 @@ blockquote.alert-caution {
 blockquote.alert-caution p.alert-heading {
     color: #8b0000; /* Specific color for Caution heading */
 }
+
