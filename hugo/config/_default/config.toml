@@ -1,0 +1,81 @@
+# This is the main configuration file. Environment-specific configurations are stored in the /config directory.
+title                  = "IAESTE Japan"
+baseURL                = "https://www.iaeste.or.jp/"
+languageCode           = "ja"
+theme                  = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+
+DefaultContentLanguage = "ja"
+timeZone               = "Asia/Tokyo"
+enableRobotsTXT        = false
+hasCJKLanguage         = true
+publishDir             = "../public"
+
+[pagination]
+pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[languages]
+[languages.ja]
+weight = 1
+contentDir = "content/ja"
+[languages.en]
+weight = 2
+contentDir = "content/en"
+
+[services]
+[services.googleAnalytics]
+ID = ""
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+date_format = "2006-01-02"
+text_color = ""
+author = ""
+favicon = "favicon.ico"
+site_logo = "/common/long_iaestejapan.png"
+description = ""
+# Choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-dark-blue"
+recent_posts_number = 3
+mainSections = ["news"]
+custom_css = ["custom.css"]
+
+[params.ananke.social.share]
+networks = [
+  "x-twitter",
+  "instagram",
+  "facebook"
+]
+
+[params.ananke.social.follow]
+networks = [
+  "x-twitter",
+  "instagram",
+  "facebook"
+]
+
+[params.ananke.social]
+[params.ananke.social.x-twitter]
+username = "iaestejp_tokyo"
+
+[params.ananke.social.instagram]
+username = "iaeste_japan"
+
+[params.ananke.social.facebook]
+username = "iaeste.japan"
+# profilelink = "https://www.facebook.com/iaeste.japan/"
