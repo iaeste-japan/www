@@ -1,12 +1,14 @@
 [[main]]
-  name = "News"
-  pageRef = "news"
-  weight = 10
+name = 'News'
+pageRef = 'news'
+weight = 10
+
 [[main]]
-  name = "Internship"
-  pageRef = "internship"
-  weight = 50
+name = 'Internship'
+pageRef = 'internship'
+weight = 50
+
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 100
+name = 'Contact'
+pageRef = 'contact'
+weight = 100
