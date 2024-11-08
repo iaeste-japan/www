@@ -13,7 +13,7 @@ IAESTE は、 The International Association for the Exchange of Students for Tec
 
 |                    |              |
 | ------------------ | ------------ |
-| インターンシップ受入国   | 80 カ国以上   |
+| インターンシップ受入国   | 81 カ国以上   |
 | インターンシップ受入機関 | 3,000 以上   |
 | インターンシップ参加学生 | 3,500 人以上 |
 
