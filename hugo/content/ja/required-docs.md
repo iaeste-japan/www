@@ -4,7 +4,7 @@ url: "internship/required-docs/"
 featured_image: ""
 ---
 
-## エントリーについて
+## 申し込みについて
 
 > [!CAUTION]
 > 1. 9月募集と4月募集では、研修可能時期や選択できるオファーが異なることにご注意下さい。

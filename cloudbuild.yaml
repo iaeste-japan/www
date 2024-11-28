@@ -67,7 +67,7 @@ steps:
       fi
     waitFor: ["fetch-hugo-binary"]
 substitutions:
-  _HUGO_VERSION: 0.136.5
+  _HUGO_VERSION: 0.139.2
 options:
   logging: CLOUD_LOGGING_ONLY
 timeout: "300s"
