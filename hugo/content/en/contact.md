@@ -13,12 +13,12 @@ featured_image: ""
 | Item | Content |
 | ---- | ------- |
 | Email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp) |
-| Reception time     | 10:00 AM – 5:00 PM (JST)<br>(excluding Saturdays, Sundays, public holidays, New Year holidays, and summer holidays) |
+| Reception hours     | 9:30 – 17:30 (JST)<br>(excluding Saturdays, Sundays, public holidays, New Year holidays, and summer holidays) |
 
 
 ### Postal Address
 
-Address for postal items: `1-1-1 Hitotsubashi, Chiyoda-ku, Tokyo 100-0003, within the General Incorporated Association Japan International Student Technology Training Association Office, Palace Side Building, Mainichi Academic Form Inc.`
+Address for postal items: `IAESTE Japan, c/o MAINICHI ACADEMIC FORUM Inc., Palaceside Bld., 1-1-1 Hitotsubashi, Chiyoda-ku, Tokyo 100-0003`
 
 ### Tokyo Local Students’ Committee (TLSC)
 
