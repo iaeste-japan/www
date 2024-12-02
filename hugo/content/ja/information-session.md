@@ -31,7 +31,7 @@ featured_image: ""
 
 説明会で使用する資料は以下からご参照ください。但し、口頭説明の資料ですので、詳細についてはお問い合わせください。
 
-- [説明会資料2024](/files/internship/information-session/briefing-slides-2024-v20240618.pdf)
+- [説明会資料2024](/files/internship/information-session/briefing-slides-2024-v20240901.pdf)
 
 ### 参加方法
 
