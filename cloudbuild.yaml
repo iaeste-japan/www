@@ -58,9 +58,9 @@ steps:
       else
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:delete ${SHORT_SHA} --force
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:create ${SHORT_SHA}
-        _SHORT_SHA_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open ${SHORT_SHA} | grep "https://" | awk '{print $3}')
-        echo "_SHORT_SHA_URL = ${_SHORT_SHA_URL}"
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_SHORT_SHA_URL}/ --buildFuture
+        _PREVIEW_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open ${SHORT_SHA} | grep "https://" | awk '{print $3}')
+        echo "_PREVIEW_URL = ${_PREVIEW_URL}"
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_PREVIEW_URL}/ --buildFuture
 
         # Clean up theme-ananke sample
         rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
