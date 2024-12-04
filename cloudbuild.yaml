@@ -21,7 +21,8 @@ steps:
     env:
     - "PROJECT_ID=${PROJECT_ID}"
     - "BUILD_ID=${BUILD_ID}"
-    - "_CHANNEL_ID=${_CHANNEL_ID}"
+    - "SHORT_SHA=${SHORT_SHA}"
+    - "_BUILD_ENV=${_BUILD_ENV}"
     - "_EXPIRE_TIME=${_EXPIRE_TIME}"
     script: |
       #!/usr/bin/env bash
@@ -45,7 +46,7 @@ steps:
 
       # Build with Hugo
       cd /workspace/hugo
-      if [[ "$_CHANNEL_ID" == "production" ]]; then
+      if [[ "$_BUILD_ENV" == "production" ]]; then
         export HUGO_ENV="production"
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
 
@@ -55,15 +56,17 @@ steps:
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
       else
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:delete ${_CHANNEL_ID} --force
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:create ${_CHANNEL_ID}
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_CHANNEL_URL}/ --buildFuture
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:delete ${SHORT_SHA} --force
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:create ${SHORT_SHA}
+        _PREVIEW_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open ${SHORT_SHA} | grep "https://" | awk '{print $3}')
+        echo "_PREVIEW_URL = ${_PREVIEW_URL}"
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_PREVIEW_URL}/ --buildFuture
 
         # Clean up theme-ananke sample
         rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
 
         cd /workspace/
-        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${_CHANNEL_ID} --expires ${_EXPIRE_TIME}
+        /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${SHORT_SHA} --expires ${_EXPIRE_TIME}
       fi
     waitFor: ["fetch-hugo-binary"]
 substitutions:
