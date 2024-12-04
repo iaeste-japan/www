@@ -22,7 +22,7 @@ steps:
     - "PROJECT_ID=${PROJECT_ID}"
     - "BUILD_ID=${BUILD_ID}"
     - "SHORT_SHA=${SHORT_SHA}"
-    - "_CHANNEL_ID=${_CHANNEL_ID}"
+    - "_BUILD_ENV=${_BUILD_ENV}"
     - "_EXPIRE_TIME=${_EXPIRE_TIME}"
     script: |
       #!/usr/bin/env bash
@@ -46,7 +46,7 @@ steps:
 
       # Build with Hugo
       cd /workspace/hugo
-      if [[ "$_CHANNEL_ID" == "production" ]]; then
+      if [[ "$_BUILD_ENV" == "production" ]]; then
         export HUGO_ENV="production"
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
 
