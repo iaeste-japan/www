@@ -19,8 +19,6 @@ steps:
   - name: "golang:1"
     id: "extract-and-deploy"
     env:
-    - "PROJECT_ID=${PROJECT_ID}"
-    - "BUILD_ID=${BUILD_ID}"
     - "_CHANNEL_ID=${SHORT_SHA}"
     - "_BUILD_ENV=${_BUILD_ENV}"
     - "_EXPIRE_TIME=${_EXPIRE_TIME}"
@@ -72,5 +70,6 @@ steps:
 substitutions:
   _HUGO_VERSION: 0.139.3
 options:
+  automapSubstitutions: true
   logging: CLOUD_LOGGING_ONLY
 timeout: "300s"
