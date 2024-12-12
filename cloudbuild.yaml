@@ -19,9 +19,8 @@ steps:
   - name: "golang:1"
     id: "extract-and-deploy"
     env:
-    - "PROJECT_ID=${PROJECT_ID}"
-    - "BUILD_ID=${BUILD_ID}"
-    - "_CHANNEL_ID=${_CHANNEL_ID}"
+    - "_CHANNEL_ID=${SHORT_SHA}"
+    - "_BUILD_ENV=${_BUILD_ENV}"
     - "_EXPIRE_TIME=${_EXPIRE_TIME}"
     script: |
       #!/usr/bin/env bash
@@ -45,7 +44,7 @@ steps:
 
       # Build with Hugo
       cd /workspace/hugo
-      if [[ "$_CHANNEL_ID" == "production" ]]; then
+      if [[ "$_BUILD_ENV" == "production" ]]; then
         export HUGO_ENV="production"
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
 
@@ -57,7 +56,9 @@ steps:
       else
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:delete ${_CHANNEL_ID} --force
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:create ${_CHANNEL_ID}
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_CHANNEL_URL}/ --buildFuture
+        _PREVIEW_URL=$(/tmp/firebase --project ${PROJECT_ID} hosting:channel:open ${_CHANNEL_ID} | grep "https://" | awk '{print $3}')
+        echo "_PREVIEW_URL = ${_PREVIEW_URL}"
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_PREVIEW_URL}/ --buildFuture
 
         # Clean up theme-ananke sample
         rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
@@ -67,7 +68,8 @@ steps:
       fi
     waitFor: ["fetch-hugo-binary"]
 substitutions:
-  _HUGO_VERSION: 0.139.2
+  _HUGO_VERSION: 0.139.3
 options:
+  automapSubstitutions: true
   logging: CLOUD_LOGGING_ONLY
 timeout: "300s"
