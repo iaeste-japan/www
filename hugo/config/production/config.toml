@@ -1,4 +1,4 @@
 enableRobotsTXT = true
-[services]
-  [services.googleAnalytics]
-    ID = "G-16VJ0X1ZQ7"
+
+[services.googleAnalytics]
+ID = "G-16VJ0X1ZQ7"

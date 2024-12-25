@@ -4,26 +4,29 @@ baseURL                = "https://www.iaeste.or.jp/"
 languageCode           = "ja"
 theme                  = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
-DefaultContentLanguage = "ja"
-timeZone               = "Asia/Tokyo"
+defaultContentLanguage = "ja"
 enableRobotsTXT        = false
+timeZone               = "Asia/Tokyo"
 hasCJKLanguage         = true
 publishDir             = "../public"
+
+[services.googleAnalytics]
+id = ''
 
 [pagination]
 pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 
-[languages]
 [languages.ja]
-weight = 1
 contentDir = "content/ja"
-[languages.en]
-weight = 2
-contentDir = "content/en"
+languageCode = 'ja-JP'
+weight = 1
+title = "IAESTE Japan"
 
-[services]
-[services.googleAnalytics]
-ID = ""
+[languages.en]
+contentDir = "content/en"
+languageCode = 'en-US'
+weight = 2
+title = "IAESTE Japan"
 
 [markup]
 [markup.goldmark]
