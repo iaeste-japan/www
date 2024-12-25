@@ -101,6 +101,6 @@ A.s.b.l.は `Associacion sans but lucrat` の略です。
 ⇒ [IAESTE intern stories](https://iaeste.org/student-testimonials/)
 
 ---
- ### 日本企業での研修を志望する方へ
- 産学協働イノベーション人材育成協議会（C-ENGINE）は大学院生に日本企業の研究現場での研究インターンシップを提供しています。<BR>
- 詳細は [C-ENGIN のHP](https://www.c-engine.org/) をご参照ください。
+### 日本企業での研修を志望する方へ
+産学協働イノベーション人材育成協議会(C-ENGINE)は大学院生に日本企業の研究現場での研究インターンシップを提供しています。<br>
+詳細は [C-ENGIN のHP](https://www.c-engine.org/) をご参照ください。
