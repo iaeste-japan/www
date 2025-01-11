@@ -68,7 +68,7 @@ steps:
       fi
     waitFor: ["fetch-hugo-binary"]
 substitutions:
-  _HUGO_VERSION: 0.140.1
+  _HUGO_VERSION: 0.140.2
 options:
   automapSubstitutions: true
   logging: CLOUD_LOGGING_ONLY
