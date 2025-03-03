@@ -28,7 +28,7 @@ featured_image: ""
 
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
-| [エントリーフォーム](https://docs.google.com/forms/d/e/1FAIpQLScWaJ1EYKfRpTBYwee2vvsxOh8duBMvJVJdpTVMnOWZByCDmw/viewform) | Google Forms | 2023-10-05 |
+| [エントリーフォーム](entry.md) | - | - |
 | (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-september-ja-v20240901.pdf) | .pdf | 2024-09-01 |
 | (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20240901.pdf) | .pdf | 2024-09-01 |
 | [研修生マニュアル](/files/internship/required-docs/intern-manual-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |

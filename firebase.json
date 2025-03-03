@@ -16,8 +16,8 @@
           },
           {
             "key": "Content-Security-Policy",
-            "value": "default-src 'none'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; script-src 'self' https://*.googletagmanager.com 'sha256-kDQACHJylYx0jk/4+gZ7XagB7laqxSXSDCxpbjuYf3o='; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; style-src 'self' 'unsafe-inline'; form-action 'self';"
-          },
+            "value": "default-src 'none'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; script-src 'self' https://*.googletagmanager.com 'sha256-kDQACHJylYx0jk/4+gZ7XagB7laqxSXSDCxpbjuYf3o='; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; style-src 'self' 'unsafe-inline'; form-action 'self'; frame-src 'self' https://docs.google.com;"
+           },
           {
             "key": "X-Frame-Options",
             "value": "deny"
