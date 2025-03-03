@@ -27,7 +27,7 @@ No documents need to be sent by mail. The Certificate of English Proficiency tha
 
 | Document Name | Format | Update Date (yyyy-mm-dd) |
 |---------------|--------|--------------------------|
-| [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScWaJ1EYKfRpTBYwee2vvsxOh8duBMvJVJdpTVMnOWZByCDmw/viewform)            | Google Forms | 2023-10-05 |
+| [Entry form](entry.md) | - | - |
 | (*)[Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2025-september-en-v20240901.pdf)   | .pdf | 2024-09-01 |
 | (*)[Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2025-april-en-v20240901.pdf) | .pdf | 2024-09-01 |
 | [Intern manual](/files/internship/required-docs/intern-manual-fy2025-en-v20240801.pdf)         | .pdf | 2024-08-01 |
