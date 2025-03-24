@@ -13,7 +13,7 @@ featured_image: ""
 > 4. 事務手続き・ご質問への回答は [お問い合わせ](contact.md) に記載の受付時間で対応します。受付時間外は対応できませんのでご了承ください。
 
 申し込み手続きなどについては、まず応募要項と研修生マニュアルをご覧ください。<br>
-次に、 Exchange Platform (*3) の利用登録とエントリーフォームへ必要事項をご記入ください。
+次に、 Exchange Platform の利用登録とエントリーフォームへ必要事項をご記入ください。
 
 エントリーフォーム に記入した情報は Exchange Platform への登録を IAESTE Japan が確認するために利用します。
 
@@ -23,14 +23,14 @@ featured_image: ""
 ## ドキュメント一覧
 
 > [!CAUTION]
-> アスタリスク (*) の記載がある書類は2024年9月1日に改定し、書類に記載されている専門分野表に変更を加えました。<br>
+> アスタリスク (*) の記載がある書類の専門分野表は2024年に変更されています。<br>
 > 申し込み手続きには最新の書類を利用していただくようお願いします。
 
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
 | [エントリーフォーム](entry.md) | - | - |
 | (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-september-ja-v20240901.pdf) | .pdf | 2024-09-01 |
-| (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20240901.pdf) | .pdf | 2024-09-01 |
+| (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20250327.pdf) | .pdf | 2025-03-27 |
 | [研修生マニュアル](/files/internship/required-docs/intern-manual-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
 | (*)[申請書](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx)          | .xlsx | 2024-09-01 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | .docx | 2023-04-07 |
