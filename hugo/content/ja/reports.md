@@ -32,7 +32,18 @@ IAESTE Japan 全体での研修生交換実績です。
 
 | 年度   | 専門分野      | 派遣国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
-| FY2023 |   | ベルギー王国 | [PDF](/files/internship/reports/training-report-fy2023-be-inada.pdf) |
+| FY2024 | 電気工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2024-at-suzuki.pdf) |
+| FY2024 | 生命機能科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-anonymous.pdf) |
+| FY2024 | 応用化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-kanno.pdf) |
+| FY2024 | 医工学 | チェコ共和国      | [PDF](/files/internship/reports/training-report-fy2024-cz-takashima.pdf) |
+| FY2024 | 生命理工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2024-de-anonymous.pdf) |
+| FY2024 | 環境エネルギー工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2024-de-tsujii.pdf) |
+| FY2024 | 機械工学 | スペイン | [PDF](/files/internship/reports/training-report-fy2024-es-anonymous.pdf) |
+| FY2024 | 理学部 | マケドニア | [PDF](/files/internship/reports/training-report-fy2024-mk-miyazawa.pdf) |
+| FY2024 | 生命理工学 | マカオ | [PDF](/files/internship/reports/training-report-fy2024-mo-kishimoto.pdf) |
+| FY2024 | システム制御 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2024-pl-anonymous.pdf) |
+| FY2024 | システムデザイン | スロバキア | [PDF](/files/internship/reports/training-report-fy2024-sl-itamura.pdf) |
+| FY2023 | 総合理工学 | ベルギー王国 | [PDF](/files/internship/reports/training-report-fy2023-be-inada.pdf) |
 | FY2023 | 化学 | アメリカ合衆国 | [PDF](/files/internship/reports/training-report-fy2023-us-tateno.pdf) |
 | FY2023 | 機械工学 | タイ王国 | [PDF](/files/internship/reports/training-report-fy2023-th-serata.pdf) |
 | FY2023| 環境工学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2023-pl-anonymous2.pdf) |
