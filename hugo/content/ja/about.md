@@ -27,7 +27,7 @@ IAESTE は、 The International Association for the Exchange of Students for Tec
 
 海外へ研修に行く研修生の募集、日本へ研修に来る研修生のための歓迎プログラム実施など、国内における IAESTE 活動は、学生ボランティアと会員大学が中心となって実施されています。
 当協会（IAESTE Japan）の最近の活動については以下のリーフレットをご覧ください.
-- [IAESTE Japanリーフレット](/files/about/leaflet-IAESTE-Japan-v2025.pdf) 
+- [IAESTE Japan リーフレット](/files/about/leaflet-ja-v20250327.pdf) 
 
 ![iaeste-world-map](/images/iaeste-world-map.png)
 
