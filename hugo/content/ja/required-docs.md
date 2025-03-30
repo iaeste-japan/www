@@ -1,5 +1,5 @@
 ---
-title: "海外インターンシップ応募要項 / 必要書類"
+title: "応募要項 / 必要書類"
 url: "internship/required-docs/"
 featured_image: ""
 ---
