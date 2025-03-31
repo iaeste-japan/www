@@ -5,17 +5,17 @@ Please describe what has been changed and describe the following.
 
 -->
 
-# Changes/変更内容
+### Changes/変更内容
 
 - aaaa
 - bbbb
 - cccc
 
-# Reason or background for the change/変更した理由や背景
+### Reason or background for the change/変更した理由や背景
 
 - aaaa
 
-# Desired release date and time/リリース希望日時
+### Desired release date and time/リリース希望日時
 
 <!---
 Example/例
