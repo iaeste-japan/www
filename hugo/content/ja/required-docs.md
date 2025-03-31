@@ -8,9 +8,9 @@ featured_image: ""
 
 > [!CAUTION]
 > 1. 9月募集と4月募集では、研修可能時期や選択できるオファーが異なることにご注意下さい。
-> 2. Exchange Internship と Global Internship の違いは、 [オファーについて](offers.md) をご覧ください。
-> 3. Exchange Platform の詳細は、[IAESTE A.s.b.l. に公開されるオファー](offers.md#exchange-platform) をご覧ください。
-> 4. 事務手続き・ご質問への回答は、[お問い合わせ](contact.md) に記載の受付時間で対応します。受付時間外は対応できませんのでご了承ください。
+> 2. Exchange Internship と Global Internship の違いは、[オファーについて](offers.md)をご覧ください。
+> 3. Exchange Platform の詳細は、[IAESTE A.s.b.l. に公開されるオファー](offers.md#exchange-platform)をご覧ください。
+> 4. 事務手続き・ご質問への回答は、[お問い合わせ](contact.md)に記載の受付時間で対応します。受付時間外は対応できませんのでご了承ください。
 
 申し込み手続きなどについては、まず応募要項と研修生マニュアルをご覧ください。<br>
 次に、 Exchange Platform の利用登録とエントリーフォームへ必要事項をご記入ください。
