@@ -8,9 +8,9 @@ featured_image: ""
 
 > [!CAUTION]
 > 1. 9月募集と4月募集では、研修可能時期や選択できるオファーが異なることにご注意下さい。
-> 2. Exchange Internship と Global Internship の違いは [オファーについて](offers.md) をご覧ください。
-> 3. Exchange Platform の詳細は [IAESTE A.s.b.l. に公開されるオファー](offers.md#exchange-platform) をご覧ください。
-> 4. 事務手続き・ご質問への回答は [お問い合わせ](contact.md) に記載の受付時間で対応します。受付時間外は対応できませんのでご了承ください。
+> 2. Exchange Internship と Global Internship の違いは、[オファーについて](offers.md)をご覧ください。
+> 3. Exchange Platform の詳細は、[IAESTE A.s.b.l. に公開されるオファー](offers.md#exchange-platform)をご覧ください。
+> 4. 事務手続き・ご質問への回答は、[お問い合わせ](contact.md)に記載の受付時間で対応します。受付時間外は対応できませんのでご了承ください。
 
 申し込み手続きなどについては、まず応募要項と研修生マニュアルをご覧ください。<br>
 次に、 Exchange Platform の利用登録とエントリーフォームへ必要事項をご記入ください。
@@ -29,8 +29,8 @@ featured_image: ""
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
 | [エントリーフォーム](entry.md) | - | - |
-| (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-september-ja-v20240901.pdf) | .pdf | 2024-09-01 |
-| (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20250329.pdf) | .pdf | 2025-03-29 |
+| (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-september-ja-v20250403.pdf) | .pdf | 2025-04-03 |
+| (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20250403.pdf) | .pdf | 2025-04-03 |
 | [研修生マニュアル](/files/internship/required-docs/intern-manual-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
 | (*)[申請書](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx)          | .xlsx | 2024-09-01 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | .docx | 2023-04-07 |
