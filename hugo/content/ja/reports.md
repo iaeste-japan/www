@@ -10,27 +10,29 @@ IAESTE Japan 全体での研修生交換実績です。
 
 | 年度 | 実績 |
 | --- | ---- |
-| FY2023 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2023.pdf) |
-| FY2022 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
-| FY2021 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2021.pdf) |
-| FY2020 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2020.pdf) |
-| FY2019 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2019.pdf) |
-| FY2018 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2018.pdf) |
-| FY2017 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2017.pdf) |
-| FY2016 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2016.pdf) |
-| FY2015 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2015.pdf) |
-| FY2014 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2014.pdf) |
-| FY2013 | [交換 (派遣/受入) ](/files/internship/reports/exchange-results-fy2013.pdf) |
+| FY2024 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2024.pdf) |
+| FY2023 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2023.pdf) |
+| FY2022 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
+| FY2021 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2021.pdf) |
+| FY2020 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2020.pdf) |
+| FY2019 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2019.pdf) |
+| FY2018 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2018.pdf) |
+| FY2017 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2017.pdf) |
+| FY2016 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2016.pdf) |
+| FY2015 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2015.pdf) |
+| FY2014 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2014.pdf) |
+| FY2013 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2013.pdf) |
 
 ---
 
-## 派遣生研修報告書
+## 送出研修生の報告書
 
 ### 研修報告書 (個人毎)
 
-海外で研修を行ってきた方々の研修報告書です。報告書には、研修内容、研修先での生活、研修後の感想や研修実施上のアドバイスなどが記載されています。なお、HP掲載に同意を得た報告書のみを掲載している関係上、掲載された報告書の数は派遣国数、派遣件数を反映しておりません。
+海外で研修を行ってきた方々の研修報告書です。報告書には、研修内容、研修先での生活、研修後の感想や研修実施上のアドバイスなどが記載されています。
+なお、HP掲載に同意を得た報告書のみを掲載している関係上、掲載された報告書の数は送出国数や送出した研修生の人数を反映するものではありません。
 
-| 年度   | 専門分野      | 派遣国           | 研修報告書 |
+| 年度   | 専門分野      | 送出国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
 | FY2024 | 電気工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2024-at-suzuki.pdf) |
 | FY2024 | 生命機能科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-anonymous.pdf) |
@@ -81,7 +83,7 @@ IAESTE Japan 全体での研修生交換実績です。
 
 ### てくのぴりあん
 
-年度毎に派遣生研修報告をまとめた報告書です。
+年度毎に研修報告書をまとめた年報です。
 
 | 年度    | タイトル |
 | ------ | ------------------------------------------------------------------------------------- |
