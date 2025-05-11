@@ -23,6 +23,10 @@ IAESTE は、 The International Association for the Exchange of Students for Tec
     *いずれも2019年実績
 </div>
 
+最近の活動については IAESTEの年報 (IAESTE Digest) をご覧ください。
+- [IAESTE Digest 2025 (Web版)](https://www.yumpu.com/en/document/view/70247593/iaeste-digest-2025) 
+- [IAESTE Digest 2025 (プリント用PDFファイル)](/files/about/iaeste-digest-2025.pdf)
+
 日本では、1964年 (昭和39年) に任意団体として発足した、国際学生技術研修協会が活動を開始し、1982年 (昭和57年) からは社団法人日本国際学生技術研修協会、2012年 (平成24年) 以降は一般社団法人日本国際学生技術研修協会として、各国との間で累計 7,000 人以上の学生を交換してきました。
 
 海外へ研修に行く研修生の募集、日本へ研修に来る研修生のための歓迎プログラム実施など、国内における IAESTE 活動は、学生ボランティアと会員大学が中心となって実施されています。<br>
