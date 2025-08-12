@@ -20,7 +20,7 @@ featured_image: ""
 |ドキュメント | 備考 |
 | ------- | -------- |
 | [定款](/files/org/ArticlesOfOrg_20230528.pdf)   | 令和5年 (2023年) 5月28日現在 |
-| [役員名簿](/files/org/BoardMembers_20240531.pdf) | 令和6年 (2025年) 5月31日現在 |
+| [役員名簿](/files/org/BoardMembers_20250531.pdf) | 令和6年 (2025年) 5月31日現在 |
 | [令和6年度事業報告及び令和7年度事業計画書](/files/org/Annual_report_and_plan_20250610.pdf) | 令和7年 (2025年) 6月10日発行 |
 
 ## 事業報告 / 計算書類等
