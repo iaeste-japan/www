@@ -1,13 +1,13 @@
 ---
 title: "IAESTE とは"
-description: "IAESTE は1948年の設立以来、累計 37 万人以上の学生に、 Science, Technology, Engineering, Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。"
+description: "IAESTE は1948年の設立以来、累計 37 万人以上の学生に、 Science, Technology, Engineering, and Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。"
 url: "about"
 aliases: ["/about/history/"]
 featured_image: ""
 ---
 IAESTE は、 The International Association for the Exchange of Students for Technical Experience, Association sans but lucratif を正式名称とする非営利法人です。 (通称 IAESTE A.s.b.l.)
 
-1948年の設立以来、累計 37 万人以上の学生に Science, Technology, Engineering, Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。
+1948年の設立以来、累計 37 万人以上の学生に Science, Technology, Engineering, and Mathematics (STEM) 等の分野のインターンシップ機会を提供することにより、人財育成・国際理解・国際親善に貢献しています。
 
 <div align="center">
 
@@ -27,7 +27,7 @@ IAESTE は、 The International Association for the Exchange of Students for Tec
 - [IAESTE Digest 2025 (Web版)](https://www.yumpu.com/en/document/view/70247593/iaeste-digest-2025) 
 - [IAESTE Digest 2025 (プリント用PDFファイル)](/files/about/iaeste-digest-2025.pdf)
 
-日本では、1964年 (昭和39年) に任意団体として発足した、国際学生技術研修協会が活動を開始し、1982年 (昭和57年) からは社団法人日本国際学生技術研修協会、2012年 (平成24年) 以降は一般社団法人日本国際学生技術研修協会として、各国との間で累計 7,000 人以上の学生を交換してきました。
+日本では、1964年 (昭和39年) に任意団体として発足した国際学生技術研修協会が活動を開始し、1982年 (昭和57年) からは社団法人日本国際学生技術研修協会、2012年 (平成24年) 以降は一般社団法人日本国際学生技術研修協会として、各国との間で累計 7,000 人以上の学生を交換してきました。
 
 海外へ研修に行く研修生の募集、日本へ研修に来る研修生のための歓迎プログラム実施など、国内における IAESTE 活動は、学生ボランティアと会員大学が中心となって実施されています。<br>
 当協会（IAESTE Japan）の最近の活動については以下のリーフレットをご覧ください。
@@ -50,7 +50,7 @@ IAESTE は、 The International Association for the Exchange of Students for Tec
 ## IAESTE インターンシップの特長
 
 - 自分の持つスキル・知識を活用し、受入先の従業員のひとりとして現実の仕事に従事します。その期間は内容に応じて 8 週 ~ 1 年の幅があります。
-- 世界 80 ヵ国で実施される、主に STEM (Science, Technology, Engineering, Mathematics) を中心とした分から選択でき、リモート形式も含む新しい働き方も選択できます。
+- 世界 80 ヵ国で実施される、主に STEM (Science, Technology, Engineering, and Mathematics) を中心とした分から選択でき、リモート形式も含む新しい働き方も選択できます。
 - 将来のキャリア充実に結び付く就業体験になります。
 - 現地での滞在費 (宿泊費、食費等) が支給されます。
 - 旅行では得られない、現地での生活を通じての深く幅広い異文化体験が可能です。
