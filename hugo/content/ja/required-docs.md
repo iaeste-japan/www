@@ -18,22 +18,23 @@ featured_image: ""
 エントリーフォーム に記入した情報は Exchange Platform への登録を IAESTE Japan が確認するために利用します。
 
 申し込みに当たっては、 必要書類をダウンロードし、記入後、 PDF ファイルをメールに添付して事務局までお送りください。<br>
-書類の郵送は不要です。申請書添付の英語能力証明書は後日送付も可能です。書類送付時に入手予定日を明記してください。
+書類の郵送は不要です。
 
 ## ドキュメント一覧
 
 > [!CAUTION]
-> アスタリスク (*) の記載がある書類の専門分野表は2024年に変更されています。<br>
-> 申し込み手続きには最新の書類を利用していただくようお願いします。
+> 応募要項などは随時アップデートされています。<br>
+> お申し込みには最新の書類を利用していただくようお願いします。
 
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
 | [エントリーフォーム](entry.md) | - | - |
-| (*)[応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-september-ja-v20250403.pdf) | .pdf | 2025-04-03 |
-| (*)[応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20250403.pdf) | .pdf | 2025-04-03 |
+| [応募要項（9月）](/files/internship/required-docs/application-guidelines-fy2025-september-ja-v20250901.pdf) | .pdf | 2025-09-01 |
+| [応募要項（4月）](/files/internship/required-docs/application-guidelines-fy2025-april-ja-v20250403.pdf) | .pdf | 2025-04-03 |
 | [研修生マニュアル](/files/internship/required-docs/intern-manual-fy2025-ja-v20240801.pdf) | .pdf | 2024-08-01 |
-| (*)[申請書](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx)          | .xlsx | 2024-09-01 |
+| [申請書](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx)          | .xlsx | 2024-09-01 |
 | [志望理由書](/files/internship/required-docs/statement-of-purpose-v20230407.docx)             | .docx | 2023-04-07 |
 | [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | .docx | 2022-08-16 |
 | [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | .docx | 2023-09-11 |
-| [辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)              | .docx | 2023-07-20 |
+
+　研修を辞退する場合に提出：[辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)  
