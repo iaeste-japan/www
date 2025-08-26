@@ -30,7 +30,7 @@ No documents need to be sent by mail.
 | [Entry form](entry.md) | - | - |
 | [Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2026-september-en-v20250901.pdf)   | .pdf | 2025-09-01 |
 | [Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2025-april-en-v20250403.pdf) | .pdf | 2025-04-03 |
-| [Intern manual](/files/internship/required-docs/intern-manual-fy2025-en-v20240801.pdf)         | .pdf | 2024-08-01 |
+| [Intern manual](/files/internship/required-docs/intern-manual-en-v20250901.pdf)         | .pdf | 2025-09-01 |
 | [Application Form](/files/internship/required-docs/application-form-fy2025-v20240901.xlsx) | .xlsx | 2024-09-01 |
 | [Statement of Purpose](/files/internship/required-docs/statement-of-purpose-v20230407.docx)   | .docx | 2023-04-07 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)                            | .docx | 2022-08-16 |
