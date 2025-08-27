@@ -27,6 +27,7 @@ To mark a draft pull request as ready for review, see below.
 下書きの pull request をレビューの準備完了としてマークするには以下を参照してください。  
 [Changing the stage of a pull request/プルリクエストのステージの変更](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request)
 
+![Ready for Review](./ready-for-review-button.png)
 
 ### Changes/変更内容
 
