@@ -1,7 +1,7 @@
 <!---
 
-何を変更したのか、以下について記載してください。
 Please describe what has been changed and describe the following.
+何を変更したのか、以下について記載してください。
 
 -->
 
@@ -30,7 +30,11 @@ OR/または
 
 ### Create Pull Request/プルリクエストの作成
 
-プルリクエストは `Create Draft Pull Request` を選択すると下書きとして保存できます。
+Please submit your request when it is complete.
 リクエスト内容が完成してから提出してください。
+
+> [!tip]
+> Pull requests can be saved as a draft by selecting `Create Draft Pull Request`.
+> プルリクエストは `Create Draft Pull Request` を選択すると下書きとして保存できます。
 
 ![PullRequest](./image.png)
