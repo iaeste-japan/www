@@ -14,8 +14,6 @@ featured_image: ""
 
 For application procedures and other information, please first review the Application Guidelines and the Intern Manual. Next, please register to use the Exchange Platform(*3) and fill out the entry form.
 
-The information provided in the entry form will be used by IAESTE Japan to confirm your registration on the Exchange Platform.
-
 To apply, please download the required documents, fill them out, and send them to our office as a PDF file attached to an e-mail.<br>
 No documents need to be sent by mail.
 
