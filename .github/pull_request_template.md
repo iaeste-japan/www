@@ -21,13 +21,13 @@ Pull requests can be saved as a draft by selecting `Create Draft Pull Request`.
 プルリクエストは `Create Draft Pull Request` を選択すると下書きとして保存できます。  
 [Creating a pull request/pull request の作成](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-![Create Draft Pull Request](./create-draft-pull-request.png)
+![Create Draft Pull Request](https://github.blog/jp/wp-content/uploads/sites/2/2019/02/52671177-5d0e0100-2ee8-11e9-8645-bdd923b7d93b.gif?w=1024&resize=1024%2C512)
 
 To mark a draft pull request as ready for review, see below.  
 下書きの pull request をレビューの準備完了としてマークするには以下を参照してください。  
 [Changing the stage of a pull request/プルリクエストのステージの変更](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request)
 
-![Ready for Review](./ready-for-review-button.png)
+![Ready for Review](https://docs.github.com/assets/cb-62675/images/help/pull_requests/ready-for-review-button.png)
 
 ### Changes/変更内容
 
