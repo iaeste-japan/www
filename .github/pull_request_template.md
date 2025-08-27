@@ -32,4 +32,5 @@ OR/または
 
 プルリクエストは `Create Draft Pull Request` を選択すると下書きとして保存できます。
 リクエスト内容が完成してから提出してください。
+
 ![PullRequest](./image.png)
