@@ -1,4 +1,7 @@
+# IAESTE Japan security.txt
+# Note: We do NOT operate a bug bounty program or offer monetary rewards.
 Contact: mailto:webmaster@iaeste.or.jp
 Contact: https://www.iaeste.or.jp/contact/
 Preferred-Languages: en, ja
 Canonical: https://www.iaeste.or.jp/.well-known/security.txt
+Expires: 2026-12-31T23:59:00Z
