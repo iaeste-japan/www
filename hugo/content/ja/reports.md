@@ -10,6 +10,7 @@ IAESTE Japan 全体での研修生交換実績です。
 
 | 年度 | 実績 |
 | --- | ---- |
+| FY2025 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2025.pdf) |
 | FY2024 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2024.pdf) |
 | FY2023 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2023.pdf) |
 | FY2022 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
@@ -34,6 +35,14 @@ IAESTE Japan 全体での研修生交換実績です。
 
 | 年度   | 専門分野      | 送出国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
+| FY2025 | 物理物質科学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2025-at-ichikawa.pdf) |
+| FY2025 | 保健学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous.pdf) |
+| FY2025 | 高分子化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-yamashita.pdf) |
+| FY2025 | 情報科学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2025-de-izawa.pdf) |
+| FY2025 | 高分子化学 | 北マケドニア共和国 | [PDF](/files/internship/reports/training-report-fy2025-mk-anonymous.pdf) |
+| FY2025 | 都市社会工学 | マカオ特別行政区 | [PDF](/files/internship/reports/training-report-fy2025-mo-fukuda.pdf) |
+| FY2025 | 都市環境学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2025-pl-anonymous.pdf) |
+| FY2025 | 生産システム工学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2025-pl-katou.pdf) |
 | FY2024 | 電気工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2024-at-suzuki.pdf) |
 | FY2024 | 生命機能科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-anonymous.pdf) |
 | FY2024 | 応用化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-kanno.pdf) |
@@ -41,8 +50,8 @@ IAESTE Japan 全体での研修生交換実績です。
 | FY2024 | 生命理工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2024-de-anonymous.pdf) |
 | FY2024 | 環境エネルギー工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2024-de-tsujii.pdf) |
 | FY2024 | 機械工学 | スペイン | [PDF](/files/internship/reports/training-report-fy2024-es-anonymous.pdf) |
-| FY2024 | 理学部 | マケドニア | [PDF](/files/internship/reports/training-report-fy2024-mk-miyazawa.pdf) |
-| FY2024 | 生命理工学 | マカオ | [PDF](/files/internship/reports/training-report-fy2024-mo-kishimoto.pdf) |
+| FY2024 | 理学部 | 北マケドニア共和国 | [PDF](/files/internship/reports/training-report-fy2024-mk-miyazawa.pdf) |
+| FY2024 | 生命理工学 | マカオ特別行政区 | [PDF](/files/internship/reports/training-report-fy2024-mo-kishimoto.pdf) |
 | FY2024 | システム制御 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2024-pl-anonymous.pdf) |
 | FY2024 | システムデザイン | スロバキア | [PDF](/files/internship/reports/training-report-fy2024-sl-itamura.pdf) |
 | FY2023 | 総合理工学 | ベルギー王国 | [PDF](/files/internship/reports/training-report-fy2023-be-inada.pdf) |
