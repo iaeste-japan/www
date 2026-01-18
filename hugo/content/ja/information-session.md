@@ -12,7 +12,7 @@ featured_image: ""
 | 日時                           | 開催方法 |
 | ----------------------------- | ---- |
 | 2026年02月25日(土)  | オンライン|
-| 2026年03月　日時は未定です | オンライン |
+| 2026年03月（日時は未定）| オンライン |
 
 ４月以降も順次開催します。
 <br>以上の日程で開催するほか、各大学を会場とする説明会も行う予定です。[IAESTE Japan の Instagram](https://www.instagram.com/iaeste_japan/)、大学の掲示板などをチェックしてください。
@@ -30,7 +30,7 @@ featured_image: ""
 4. 質疑応答
    
 項目1.2の説明の様子をYouTubeの [IAESTE プログラム解説](https://www.youtube.com/watch?v=dlacpdRs2gU) でご覧ください。
-<br>説明資料のパワーポイントファイルは、[ここ](/files/internship/information-session/briefing-slides-2025-v20250929.pdf) からダウンロード出来ます。
+<br>説明資料は、[ここ](/files/internship/information-session/briefing-slides-2025-v20250929.pdf) からダウンロード出来ます。
 
 ### 参加方法
 
