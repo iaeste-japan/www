@@ -6,7 +6,7 @@ featured_image: ""
 ### メール等のお問い合わせ
 
 > [!IMPORTANT]
-> *1. 総務・経理事務については、 [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp) （（株）毎日学術フォーラム）にお問い合わせください。<br> IAESTE Japan は同社に総務・経理業務を委託しています。
+> 総務・経理事務については、 [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp) （（株）毎日学術フォーラム）にお問い合わせください。<br> IAESTE Japan は同社に総務・経理業務を委託しています。
 
 | 項目 | 内容 |
 | ---- | ---- |
