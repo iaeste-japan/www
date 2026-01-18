@@ -7,14 +7,12 @@ featured_image: ""
 ### Contact via Email
 
 > [!IMPORTANT]
-> 1. For inquiries regarding IAESTE Japan's general affairs and accounting matters, please contact us at the e-mail address below.<br>IAESTE Japan has contracted with Mainichi Academic Forum Inc. for general affairs and accounting services.
->     - [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp)
+> For inquiries regarding general affairs and accounting matters, please contact us at [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp) (Mainichi Academic Forum Inc.).　<br>IAESTE Japan has entrusted its general affairs and accounting operations to the company.
 
 | Item | Content |
 | ---- | ------- |
 | Email address (*1) | [office@iaeste.or.jp](mailto:office@iaeste.or.jp) |
-| Reception hours     | 9:30 – 17:30 (JST)<br>(excluding Saturdays, Sundays, public holidays, New Year holidays, and summer holidays) |
-
+| Reception hours     | 10:00 – 17:30 (JST)<br>(excluding Saturdays, Sundays, public holidays, New Year holidays, and summer holidays) |
 
 ### Postal Address
 
