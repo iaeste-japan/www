@@ -7,7 +7,7 @@ featured_image: ""
 ### Contact via Email
 
 > [!IMPORTANT]
-> *1. For inquiries regarding general affairs and accounting matters, please contact us at [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp) (Mainichi Academic Forum Inc.).　<br>IAESTE Japan has entrusted its general affairs and accounting operations to the company.
+> For inquiries regarding general affairs and accounting matters, please contact us at [maf-iaeste@mynavi.jp](mailto:maf-iaeste@mynavi.jp) (Mainichi Academic Forum Inc.).　<br>IAESTE Japan has entrusted its general affairs and accounting operations to the company.
 
 | Item | Content |
 | ---- | ------- |
