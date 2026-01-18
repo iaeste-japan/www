@@ -29,7 +29,7 @@ featured_image: ""
 3. インターンシップ経験者による体験談
 4. 質疑応答
    
-項目1.2の説明の様子をYouTubeの[プレゼンテーションの動画](https://www.instagram.com/iaeste_japan/)でご覧ください。
+項目1.2の説明の様子をYouTubeの[IAESTE プログラム解説](https://www.youtube.com/watch?v=dlacpdRs2gU)でご覧ください。
 <br>説明資料のパワーポイントファイルは、[ここ](/files/internship/information-session/briefing-slides-2025-v20250929.pdf)からダウンロード出来ます。
 
 ### 参加方法
