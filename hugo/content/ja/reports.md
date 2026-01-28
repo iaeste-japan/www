@@ -37,7 +37,7 @@ IAESTE Japan 全体での研修生交換実績です。
 | ------ | ----------- | --------------- | -------- |
 | FY2025 | 物理物質科学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2025-at-ichikawa.pdf) |
 | FY2025 | 保健学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous.pdf) |
-| FY2025 | 高分子化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-yamashita.pdf) |
+| FY2025 | 高分子化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous-2.pdf) |
 | FY2025 | 情報科学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2025-de-izawa.pdf) |
 | FY2025 | 高分子化学 | 北マケドニア共和国 | [PDF](/files/internship/reports/training-report-fy2025-mk-anonymous.pdf) |
 | FY2025 | 都市社会工学 | マカオ特別行政区 | [PDF](/files/internship/reports/training-report-fy2025-mo-fukuda.pdf) |
