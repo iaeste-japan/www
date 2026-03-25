@@ -6,7 +6,7 @@ featured_image: ""
 ---
 
 <div align="right">
-  令和7年 (2025年) 5月31日現在
+  令和8年 (2026年) 3月15日現在
 </div>
 
 ## 正会員 (大学会員及び個人会員)
@@ -17,7 +17,7 @@ featured_image: ""
 
 ### 大学会員
 
-[大阪大学](https://www.osaka-u.ac.jp/ja/)、[岡山大学](https://www.okayama-u.ac.jp/)、[京都大学](https://www.kyoto-u.ac.jp/ja)、[慶応義塾大学](https://www.keio.ac.jp/ja/)、[東京大学](https://www.u-tokyo.ac.jp/ja/)、[東京科学大学（旧：東京工業大学）](https://www.isct.ac.jp/ja/)、[東京都市大学](https://www.tcu.ac.jp/)、[東京都立大学](https://www.tmu.ac.jp/)、[東京農工大学](https://www.tuat.ac.jp/)、[東京理科大学](https://www.tus.ac.jp/)、[同志社大学](https://www.doshisha.ac.jp/)、[東北大学](https://www.tohoku.ac.jp/japanese/)、[室蘭工業大学](https://muroran-it.ac.jp/)、[横浜国立大学](https://www.ynu.ac.jp/)、[立命館大学](https://www.ritsumei.ac.jp/)、[早稲田大学](https://www.waseda.jp/top/)
+[大阪大学](https://www.osaka-u.ac.jp/ja/)、[岡山大学](https://www.okayama-u.ac.jp/)、[京都大学](https://www.kyoto-u.ac.jp/ja)、[慶応義塾大学](https://www.keio.ac.jp/ja/)、[東京大学](https://www.u-tokyo.ac.jp/ja/)、[東京科学大学](https://www.isct.ac.jp/ja/)、[東京都立大学](https://www.tmu.ac.jp/)、[東京農工大学](https://www.tuat.ac.jp/)、[東京理科大学](https://www.tus.ac.jp/)、[同志社大学](https://www.doshisha.ac.jp/)、[東北大学](https://www.tohoku.ac.jp/japanese/)、[室蘭工業大学](https://muroran-it.ac.jp/)、[横浜国立大学](https://www.ynu.ac.jp/)、[立命館大学](https://www.ritsumei.ac.jp/)、[早稲田大学](https://www.waseda.jp/top/)
 
 ### 個人会員
 
