@@ -17,7 +17,7 @@ To apply, first download the Application Manual and complete the Application For
 ## Document List
 
 > [!CAUTION]
-Please note that this page was updated in April 2026, and some application procedures and documents have been revised.
+> Please note that this page was updated in April 2026, and some application procedures and documents have been revised.
  
 | Document Name | Format | Update Date (yyyy-mm-dd) |
 |---------------|--------|--------------------------|
