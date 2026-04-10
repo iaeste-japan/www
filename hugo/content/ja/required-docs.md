@@ -18,10 +18,11 @@ featured_image: ""
 
 > [!CAUTION]
 > 2026年4月にこのページを更新し、申し込み方法と関係書類を改定しましたのでご注意ください。
+> なお、現行の「応募要項（9月の応募用）」は2026年9月の応募に合わせて改定を予定しています。
 
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
-| [応募マニュアル](/files/internship/required-docs/application-manual-ja-v20260401.pdf) | .pdf | 2026-04-01 |
+| [応募マニュアル](/files/internship/required-docs/application-manual-ja-v20260414.pdf) | .pdf | 2026-04-01 |
 | [応募フォーム](https://forms.gle/NW2CQPMwGeUh524NA) | - | 2026-04-01 |
 | [応募要項（9月の応募用）](/files/internship/required-docs/application-guidelines-fy2026-september-ja-v20250901.pdf) | .pdf | 2025-09-01 |
 | [応募要項（4月の応募用）](/files/internship/required-docs/application-guidelines-fy2026-april-ja-v20260401.pdf) | .pdf | 2026-04-01 |
