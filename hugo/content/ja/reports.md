@@ -39,10 +39,12 @@ IAESTE Japan 全体での研修生交換実績です。
 | FY2025 | 保健学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous.pdf) |
 | FY2025 | 高分子化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous-2.pdf) |
 | FY2025 | 情報科学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2025-de-izawa.pdf) |
+| FY2025 | 生物科学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2025-de-kobayashi.pdf) |
 | FY2025 | 高分子化学 | 北マケドニア共和国 | [PDF](/files/internship/reports/training-report-fy2025-mk-anonymous.pdf) |
 | FY2025 | 都市社会工学 | マカオ特別行政区 | [PDF](/files/internship/reports/training-report-fy2025-mo-fukuda.pdf) |
 | FY2025 | 都市環境学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2025-pl-anonymous.pdf) |
 | FY2025 | 生産システム工学 | ポーランド共和国 | [PDF](/files/internship/reports/training-report-fy2025-pl-katou.pdf) |
+| FY2025 | 建築学 | ルーマニア | [PDF](/files/internship/reports/training-report-fy2025-ro-anonymous.pdf) |
 | FY2024 | 電気工学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2024-at-suzuki.pdf) |
 | FY2024 | 生命機能科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-anonymous.pdf) |
 | FY2024 | 応用化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2024-cz-kanno.pdf) |
