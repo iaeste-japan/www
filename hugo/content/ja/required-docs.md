@@ -22,7 +22,7 @@ featured_image: ""
 
 | ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
 | --------- | -------- | ------------------ |
-| [応募マニュアル](/files/internship/required-docs/application-manual-ja-v20260414.pdf) | .pdf | 2026-04-14 |
+| [応募マニュアル](/files/internship/required-docs/application-manual-ja-v20260420.pdf) | .pdf | 2026-04-22 |
 | [応募フォーム](https://forms.gle/NW2CQPMwGeUh524NA) | - | 2026-04-01 |
 | [応募要項（9月の応募用）](/files/internship/required-docs/application-guidelines-fy2026-september-ja-v20250901.pdf) | .pdf | 2025-09-01 |
 | [応募要項（4月の応募用）](/files/internship/required-docs/application-guidelines-fy2026-april-ja-v20260401.pdf) | .pdf | 2026-04-01 |
