@@ -22,7 +22,7 @@ To apply, first download the Application Manual and complete the Application For
  
 | Document Name | Format | Update Date (yyyy-mm-dd) |
 |---------------|--------|--------------------------|
-| [Application Manual](/files/internship/required-docs/application-manual-en-v20260414.pdf)| .pdf | 2026-04-14 |
+| [Application Manual](/files/internship/required-docs/application-manual-en-v20260420.pdf)| .pdf | 2026-04-21 |
 | [Applicatiion Form](https://forms.gle/NW2CQPMwGeUh524NA) | - | 2026-04-01 |
 | [Application Guidelines for September Recruitment](/files/internship/required-docs/application-guidelines-fy2026-september-en-v20250901.pdf)   | .pdf | 2025-09-01 |
 | [Application Guidelines for April Recruitment](/files/internship/required-docs/application-guidelines-fy2026-april-en-v20260401.pdf) | .pdf | 2026-04-01 |
