@@ -9,7 +9,7 @@ This page explains the amount to be paid to IAESTE Japan, as well as the travel 
 ## Amount to Be Paid to IAESTE Japan
 
 You need to pay the application fee and the internship administration fee. Please see below for details.<br>
-(Effective for applications submitted on or after September 2026)
+This applies to applications submitted on or after September 1, 2026.
 
 ### Application Fee
 
