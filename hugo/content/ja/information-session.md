@@ -43,6 +43,6 @@ featured_image: ""
 4. 質疑応答
    
 1.2のプレゼンテーションの動画をYouTube [IAESTE プログラム解説](https://youtu.be/2p1VfZQG_Ug) でご覧ください。
-<br>プレゼンテーションのプレゼンテーション資料は、[ここ](/files/internship/information-session/briefing-slides-2026-v20260511.pdf) からダウンロード出来ます。
+<br>プレゼンテーション資料は、[ここ](/files/internship/information-session/briefing-slides-2026-v20260511.pdf) からダウンロード出来ます。
 
 
