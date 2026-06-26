@@ -5,8 +5,8 @@ aliases: ["/students/from_jp/info_meeting/"]
 featured_image: ""
 ---
 研修についての説明会を関東地区学生委員会 (TLSC = Tokyo Local Students’ Committee) が開催しています。
-<br>説明会の詳細や参加方法は [IAESTE Japan の Instagram](https://www.instagram.com/iaeste.japan) をご覧ください。
-<br>また、お問い合わせは [IAESTE Japan の Instagram](https://www.instagram.com/iaeste_japan) から DM をお送りください。
+<br>説明会の詳細や参加方法は [IAESTE Japan の Instagram](https://www.instagram.com/iaeste.japan/) をご覧ください。
+<br>また、お問い合わせは [IAESTE Japan の Instagram](https://www.instagram.com/iaeste.japan/) から DM をお送りください。
 <br>
 ### 2026年度説明会 （6月以降の開催予定）
 
