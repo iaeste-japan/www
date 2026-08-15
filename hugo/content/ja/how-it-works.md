@@ -31,7 +31,7 @@ featured_image: ""
 
 Exchange Internship, Global Internship の詳細は [オファーについて](offers.md) をご参照ください。
 
-応募要項や応募に必要な書類 は [応募要項 / 必要書類](required-docs.md) をご参照ください。
+応募要項や応募に必要な書類 は [応募方法 / 必要書類](required-docs.md) をご参照ください。
 
 ### 9月募集の場合
 
