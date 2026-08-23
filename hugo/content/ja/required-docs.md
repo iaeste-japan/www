@@ -1,5 +1,5 @@
 ---
-title: "応募要項 / 必要書類"
+title: "応募方法 / 必要書類"
 url: "internship/required-docs/"
 featured_image: ""
 ---
@@ -8,26 +8,24 @@ featured_image: ""
 
 > [!CAUTION]
 > 1. 研修には Exchange Internship と Global Internship の2種類があります。その違いは、[オファーについて](offers.md) をご覧ください。<br>
-> 2. 9月募集と4月募集では、研修可能時期や選択できるオファーの種類が異なることにご注意下さい。<br>
-> 3. 現行のオファーの一部は、[ここに](https://iaeste.org/internships/) 公開されています。<br>
-> 4. お問い合わせは、[Contact](contact.md) に記載の受付時間にて対応します。この時間外は対応できませんのでご了承ください。
-
-申し込みには最初に応募マニュアルをダウンロードし、それに従って応募フォームに入力してください。
+> 2. 9月募集と4月募集では、研修可能時期や選択できるオファーの種類が異なります。<br>
+>[研修を始めるまで](how-it-works.md)をご参照ください。
+> 3. 現在公開されているオファーは、[ここに](https://iaeste.org/internships/) 公開されています。<br>
+> 4. お問い合わせは、[Contact](contact.md) に記載の受付時間にて、このページ内の書類に記載されていない内容について対応いたします。
 
 ## ドキュメント一覧
 
-> [!CAUTION]
-> 2026年4月にこのページを更新し、申し込み方法と関係書類を改定しましたのでご注意ください。
-> なお、現行の「応募要項（9月の応募用）」は2026年9月の応募に合わせて改定を予定しています。
+1. 応募する際は「応募マニュアル」に従って [応募ポータル](https://application-portal.iaeste.or.jp) から申し込んでください。<br>
+2. 「IAESTEハンドブック」はIAESTEと海外研修の概要や特徴、対象専門分野などを応募に必要な情報を掲載しています。応募時に必ず参照してください。
 
-| ドキュメント名 | フォーマット | 更新日 (yyyy-MM-dd) |
+| ドキュメント名 | ファイル形式 | 更新日 |
 | --------- | -------- | ------------------ |
-| [応募マニュアル](/files/internship/required-docs/application-manual-ja-v20260420.pdf) | .pdf | 2026-04-21 |
-| [応募フォーム](https://forms.gle/NW2CQPMwGeUh524NA) | - | 2026-04-01 |
-| [応募要項（9月の応募用）](/files/internship/required-docs/application-guidelines-fy2026-september-ja-v20250901.pdf) | .pdf | 2025-09-01 |
-| [応募要項（4月の応募用）](/files/internship/required-docs/application-guidelines-fy2026-april-ja-v20260401.pdf) | .pdf | 2026-04-01 |
-| [研修候補生マニュアル](/files/internship/required-docs/internship-candidate-manual-ja-v20260401.pdf) | .pdf | 2026-04-01 |
-| [誓約書](/files/internship/required-docs/pledge-ja-v20220816.docx)                           | .docx | 2022-08-16 |
-| [研修報告書フォーマット](/files/internship/required-docs/internship-report-format-v20230828.docx) | .docx | 2023-09-11 |
+| [応募マニュアル（9月の応募用）](/files/internship/required-docs/application-manual-september-ja-v20260901.pdf) | .pdf | 2026-09-01 |
+| 応募マニュアル（4月の応募用） | .pdf | (未定） |
+| [IAESTE ハンドブック](/files/internship/required-docs/iaeste-handbook-ja-v20260901.pdf) | .pdf | 2026-09-01 |
+| [インターンシップ準備マニュアル](/files/internship/required-docs/internship-preparation-manual-ja-v20260901.pdf) | .pdf | 2026-09-01 |
+| [志望理由書テンプレート](/files/internship/required-docs/motivation-statement-v20260901.docx) | .docx | 2026-09-01 |
+| [誓約書テンプレート](/files/internship/required-docs/pledge-ja-v20220816.docx)| .docx | 2022-08-16 |
+| [研修報告書テンプレート](/files/internship/required-docs/internship-report-format-v20230828.docx) | .docx | 2023-09-11 |
 
 　研修を辞退する場合に提出：[辞退届](/files/internship/required-docs/withdrawal-notice-ja-v20230720.doc)  
