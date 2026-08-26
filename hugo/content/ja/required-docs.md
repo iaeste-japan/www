@@ -7,15 +7,15 @@ featured_image: ""
 ## 申し込みについて
 
 > [!CAUTION]
-> 1. 研修には Exchange Internship と Global Internship の2種類があります。その違いは、[オファーについて](offers.md) をご覧ください。<br>
-> 2. 9月募集と4月募集では、研修可能時期や選択できるオファーの種類が異なります。<br>
+> 1. 研修には Exchange Internship と Global Internship の2種類があります。その違いは、[オファーについて](offers.md) をご覧ください。
+> 2. 9月募集と4月募集では、研修可能時期や選択できるオファーの種類が異なります。
 >[研修を始めるまで](how-it-works.md)をご参照ください。
-> 3. 現在公開されているオファーは、[ここに](https://iaeste.org/internships/) 公開されています。<br>
+> 3. 現在公開されているオファーは、[ここに](https://iaeste.org/internships/) 公開されています。
 > 4. お問い合わせは、[Contact](contact.md) に記載の受付時間にて、このページ内の書類に記載されていない内容について対応いたします。
 
 ## ドキュメント一覧
 
-1. 応募する際は「応募マニュアル」に従って [応募ポータル](https://application-portal.iaeste.or.jp) から申し込んでください。<br>
+1. 応募する際は「応募マニュアル」に従って [応募ポータル](https://application-portal.iaeste.or.jp) から申し込んでください。
 2. 「IAESTEハンドブック」はIAESTEと海外研修の概要や特徴、対象専門分野などを応募に必要な情報を掲載しています。応募時に必ず参照してください。
 
 | ドキュメント名 | ファイル形式 | 更新日 |
