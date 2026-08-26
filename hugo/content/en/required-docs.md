@@ -7,9 +7,9 @@ featured image: ""
 ## About Entry
 
 > [!CAUTION]
-> 1. There are two types of internships: Exchange Internship and Global Internship. For the differences, please refer to [What is Offer?](offers.md).<br>
-> 2. Please note that the available internship periods and types of offers differ between the September recruitment and the April recruitment.<br>
-> 3. For information on the current offers, please see [the offers published](https://iaeste.org/internships/).<br>
+> 1. There are two types of internships: Exchange Internship and Global Internship. For the differences, please refer to [What is Offer?](offers.md).
+> 2. Please note that the available internship periods and types of offers differ between the September recruitment and the April recruitment.
+> 3. For information on the current offers, please see [the offers published](https://iaeste.org/internships/).
 > 4. Please see the [Contact](contact.md) page for our office hours. During our office hours, we are available to respond to inquiries about matters not covered in the documents on this page. 
 
 ## Document List
