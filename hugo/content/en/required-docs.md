@@ -15,7 +15,7 @@ featured_image: ""
 ## Document List
 
 1. Please apply through the [Application Portal](https://application-portal.iaeste.or.jp) by following the instructions in the Application Manual.
-2. The IAESTE Handbook provides essential information for applicants, including an overview of IAESTE and its international internship program, its key features, and the eligible fields of study. Please be sure to refer to it when applying.
+2. The IAESTE Handbook provides essential information for applicants, including an overview of IAESTE and its international internship program, its key features, and an example of internship offers. Please be sure to refer to it when applying.
  
 | Document Name | Format | Update Date |
 |---------------|--------|--------------------------|
