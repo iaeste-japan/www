@@ -54,7 +54,7 @@ Scores must have been obtained on or after March 2025.<br>
 
 *1: Because the TOEFL iBT score reporting system changed in January 2026, applicants may use TOEFL iBT scores obtained before the change for the time being. However, as some internship hosts may require the new TOEFL iBT score, we strongly recommend obtaining a new score before your Nomination Documents are submitted.
 
-### Notes on English Proficiency after Application.<br>
+### Notes on English Proficiency after Application.
 1. Many IAESTE member countries primarily evaluate applicants based on TOEFL, IELTS, or Cambridge English Qualifications. In some European countries, TOEIC scores may not be accepted. Proof of speaking and writing proficiency may also be required.
 2. The minimum scores listed above are required for application. However, practical English communication skills are essential, as some host organizations conduct interviews before making their selection.
 3. Some host countries require proof of Speaking and Writing proficiency. If you only have a TOEIC Listening & Reading score, IAESTE Japan may ask you to complete an additional interview or submit results from another English test. You will be contacted if this applies to you.
@@ -72,5 +72,4 @@ The number and content of offers to be published will vary depending on the time
 All offers are registered on IAESTE's `Exchange Platform`. By logging into the Exchange Platform, you will be able to view the offers available for application at the time of viewing, etc.
 
 Go to `Apply Now` under `Internship Information available at IAESTE A.b.s.l.` above to create an account.
-IAESTE Japan will verify the information you have entered to create your account.<br>
-Once your account has been registered on the Exchange Platform, please refer to the Student Guide available on the Exchange Platform.
+IAESTE Japan will verify the information you have entered to create your account. Once your account has been registered on the Exchange Platform, please refer to the Student Guide available on the Exchange Platform.
