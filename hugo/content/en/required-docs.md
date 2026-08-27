@@ -1,7 +1,7 @@
 ---
 title: "Application Process and Required Documents"
 url: "internship/required-docs/"
-featured image: ""
+featured_image: ""
 ---
 
 ## About Entry
