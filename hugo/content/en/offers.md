@@ -46,7 +46,7 @@ Scores must have been obtained on or after March 2025.<br>
 | Examination | Exchange Internship | Global Internship |
 | --- | :-----: | :-----: |
 | **TOEFL iBT** (from Jan. 2026) | 4 | 4.5 |
-| **TOEFL ITP** (before Jan. 2026) | 72(*1) | 86(*1) |
+| **TOEFL iBT** (before Jan. 2026) | 72(*1) | 86(*1) |
 | **IELTS** | 5.5 | 6.5 |
 | **Cambridge English Qualifications** | B2 First | C1 Advanced |
 | **STEP Eiken** | Grade Pre-1 | Grade Pre-1 |
@@ -57,7 +57,7 @@ Scores must have been obtained on or after March 2025.<br>
 ### Notes on English Proficiency after Application.<br>
 1. Many IAESTE member countries primarily evaluate applicants based on TOEFL, IELTS, or Cambridge English Qualifications. In some European countries, TOEIC scores may not be accepted. Proof of speaking and writing proficiency may also be required.
 2. The minimum scores listed above are required for application. However, practical English communication skills are essential, as some host organizations conduct interviews before making their selection.
-4. Some host countries require proof of Speaking and Writing proficiency. If you only have a TOEIC Listening & Reading score, IAESTE Japan may ask you to complete an additional interview or submit results from another English test. You will be contacted if this applies to you.
+3. Some host countries require proof of Speaking and Writing proficiency. If you only have a TOEIC Listening & Reading score, IAESTE Japan may ask you to complete an additional interview or submit results from another English test. You will be contacted if this applies to you.
 
 ## Offers on the IAESTE A.s.b.l. Website
 
