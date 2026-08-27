@@ -43,7 +43,7 @@ You will be assigned to one of the offers posted on the Exchange Platform from t
 The minimum English score requirement depends on the offer type you selected at the time of application.<br>
 Scores must have been obtained on or after March 2025.<br>
 
-| Examination | Exchange Internship | Exchange Internship |
+| Examination | Exchange Internship | Global Internship |
 | --- | :-----: | :-----: |
 | **TOEFL iBT** (from Jan. 2026) | 4 | 4.5 |
 | **TOEFL ITP** (before Jan. 2026) | 72(*1) | 86(*1) |
