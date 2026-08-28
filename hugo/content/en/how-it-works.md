@@ -32,7 +32,7 @@ Yet, the timing and duration of the internship will depend on the conditions of 
 
 For details on Exchange Internship and Global Internship, please refer to [What is offer?](offers.md).
 
-Please refer to [Application Guidelines and Required Documents](required-docs.md) for the application guidelines and documents required.
+Please refer to [Application Process and Required Documents](required-docs.md) for information on application.
 
 ### September Recruitment
 
