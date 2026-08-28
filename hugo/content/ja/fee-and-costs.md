@@ -5,7 +5,6 @@ featured_image: ""
 ---
 
 このページでは IAESTE Japan への納入額と、研修に関わる渡航費、滞在費等をご説明します。<br>
-（2026年9月の応募から適用）
 
 ## IAESTE Japan への納入額
 
@@ -39,4 +38,4 @@ featured_image: ""
 ## 研修が実施されなかった場合の返金について
 
 結果的に研修が実施されなかった場合は研修事務手数料を返金する場合があります。
-[研修生マニュアル](/files/internship/required-docs/internship-dispatch-guidance-fy2025-ja-v20240801.pdf)をご参照ください。
+[インターンシップ準備マニュアル](/files/internship/required-docs/internship-preparation-manual-ja-v20260901.pdf)をご参照ください。
