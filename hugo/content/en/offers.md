@@ -12,10 +12,10 @@ The table below explains the terms used within this page.
 
 | Item | Content |
 | ---------------------- | ----- |
-| Internship Host  | A company or university that offers internship opportunities to students. |
+| Internship Host | A company or university that offers internship opportunities to students. |
 | Offer | A predetermined format in which the internship host states the student's field of expertise and required skills to be accepted by the internship host, as well as the accommodation and housing to be provided |
-| Intern Candidate  | After application, the student must complete an interview with the professor in charge of IAESTE Japan and be approved as an Intern Candidate. The right as an Internship Candidate is valid as long as you have a student registration. |
-| IAESTE A.s.b.l. | A non-profit organization registered in Luxembourg and the international umbrella organization for IAESTE. A.s.b.l. stands for `Association sans but lucratif`.|
+| Intern Candidate | After application, the student must complete an interview with the professor in charge of IAESTE Japan and be approved as an Intern Candidate. The right as an Internship Candidate is valid as long as you have a student registration. |
+| IAESTE A.s.b.l. | A non-profit organization registered in Luxembourg and the international umbrella organization for IAESTE. A.s.b.l. stands for `Association sans but lucratif`. |
 | Exchange Platform | A system for opening and submitting offers operated by IAESTE A.s.b.l.. You need to register first to use the system. |
 
 ## About offer types
@@ -24,7 +24,7 @@ There are two types of offers: `Exchange Internship` and `Global Internship`, ea
 
 ### What is Exchange Internship?
 
-This is an internship in which the sending country matches one student with an offer exchanged on a `1:1 basis' with another country.
+This is an internship in which the sending country matches one student with an offer exchanged on a 1:1 basis with another country.
 
 ### What is Global Internship?
 
@@ -66,7 +66,7 @@ The IAESTE A.s.b.l. website introduces the offers made public by each member cou
 If you are interested, please take a look.    
 The number and content of offers to be published will vary depending on the time of year.
 
-[Internship information available at IAESTE A.b.s.l.](https://iaeste.org/internships/)
+[Internship information available at IAESTE A.s.b.l.](https://iaeste.org/internships/)
 
 ## Exchange Platform
 
