@@ -22,7 +22,7 @@ featured_image: ""
 オファーには `Exchange Internship` と `Global Internship` の2種類があり、それぞれ異なる特徴があります。
 
 ### Exchange Internship とは
-他国と 1 対 1 の原則で交換したオファーに対し、1つのオファーに対して一人の学生をマッチングして行うインターンシップです。
+他国と 1 対 1 の原則でオファーを交換し、1つのオファーに対して一人の学生をマッチングして行うインターンシップです。
 
 ### Global Internship とは
 複数の国が `1つのオファー` に `最大2名の学生を推薦` し、その中から受入国・受入機関が学生を選定するインターンシップです。<br>
@@ -69,7 +69,7 @@ IAESTE A.s.b.l. の website には各加盟国が公開するオファーが紹�
 ## Exchange Platform
 
 全てのオファーは、IAESTE の `Exchange Platform` に登録されます。 Exchange Platform にログインすることで、閲覧時点で応募可能なオファーの閲覧などが可能です。  
-上記の `IAESTE A.b.s.l. で公開されるインターンシップ情報` から `Apply Now` へ進み、アカウントを作成してください。
+上記の `IAESTE A.s.b.l. で公開されるインターンシップ情報` から `Apply Now` へ進み、アカウントを作成してください。
 あなたが入力した情報を IAESTE Japan が確認することで、アカウントが作成されます。
 
 Exchange Platform にアカウントが登録された後は、 Exchange Platform に掲載の学生用ガイドをご参照ください。
