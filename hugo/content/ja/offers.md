@@ -14,17 +14,17 @@ featured_image: ""
 | **受入機関** | 学生にインターンシップの機会を提供する企業や大学など |
 | **オファー** | 所定のフォーマットに受入機関が受入れる学生の専門分野・必要スキル、支給される滞在費や宿舎などを記入したもの |
 | **研修候補生** | 募集応募後、 IAESTE Japan 担当教授の面談を修了した学生は研修候補生に認定される。学籍がある限り研修候補生としての権利は有効 |
-| **IAESTE A.s.b.l.** | ルクセンブルク大公国に登録された非営利団体で、 IAESTE の国際的な統括組織。 A.s.b.l. は `Associacion sans but lucratif` の略 |
+| **IAESTE A.s.b.l.** | ルクセンブルク大公国に登録された非営利団体で、 IAESTE の国際的な統括組織。 A.s.b.l. は `Association sans but lucratif` の略 |
 | **Exchange Platform** | IAESTE A.s.b.l. が運営するオファー公開・応募システム。利用するには最初に登録が必要 |
 
 ## オファータイプについて
 
 オファーには `Exchange Internship` と `Global Internship` の2種類があり、それぞれ異なる特徴があります。
 
-### Exchange Internship とは 
-他国と `1 対 1 の原則` で交換したオファーに対し、1つのオファーに対して一人の学生をマッチングして行うインターンシップです。
+### Exchange Internship とは
+他国と 1 対 1 の原則で交換したオファーに対し、1つのオファーに対して一人の学生をマッチングして行うインターンシップです。
 
-### Global Internship とは 
+### Global Internship とは
 複数の国が `1つのオファー` に `最大2名の学生を推薦` し、その中から受入国・受入機関が学生を選定するインターンシップです。<br>
 Exchange Platform に随時掲載されるオファーのうち、希望するものを IAESTE Japan に連絡することでアサインされます。
 
@@ -41,7 +41,7 @@ Exchange Platform に随時掲載されるオファーのうち、希望する�
 
 スコアは、2025年3月以降に取得したものであることが必要です。
 
-|  試験 | Exchange Internship | Global Internship |
+| 試験 | Exchange Internship | Global Internship |
 | ---------- | :-----: | :------: |
 | **TOEFL iBT（2026年1月～）** | 4 | 4.5 |
 | **TOEFL iBT（～2026年1月）** | 72(*1) | 86(*1) |
@@ -64,7 +64,7 @@ IAESTE A.s.b.l. の website には各加盟国が公開するオファーが紹�
 ご興味のある方は、是非覗いてみてください。  
 なお、時期によって公開されるオファーの数や内容が変化します。
 
-[IAESTE A.b.s.l. で公開されるインターンシップ情報](https://iaeste.org/internships/)
+[IAESTE A.s.b.l. で公開されるインターンシップ情報](https://iaeste.org/internships/)
 
 ## Exchange Platform
 
