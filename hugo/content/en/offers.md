@@ -71,7 +71,7 @@ The number and content of offers to be published will vary depending on the time
 ## Exchange Platform
 
 All offers are registered on IAESTE's `Exchange Platform`. By logging into the Exchange Platform, you will be able to view the offers available for application at the time of viewing, etc.  
-Go to `Apply Now` under `Internship Information available at IAESTE A.b.s.l.` above to create an account.
+Go to `Apply Now` under `Internship Information available at IAESTE A.s.b.l.` above to create an account.
 IAESTE Japan will verify the information you have entered to create your account. 
 
 Once your account has been registered on the Exchange Platform, please refer to the Student Guide available on the Exchange Platform.
