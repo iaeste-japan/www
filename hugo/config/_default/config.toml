@@ -1,8 +1,8 @@
 # This is the main configuration file. Environment-specific configurations are stored in the /config directory.
 title                  = "IAESTE Japan"
 baseURL                = "https://www.iaeste.or.jp/"
-languageCode           = "ja"
-theme                  = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+locale                 = "ja"
+theme                  = ["github.com/gohugo-ananke/ananke/v2"]
 
 defaultContentLanguage = "ja"
 enableRobotsTXT        = false
@@ -18,13 +18,13 @@ pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a h
 
 [languages.ja]
 contentDir = "content/ja"
-languageCode = 'ja-JP'
+locale = 'ja-JP'
 weight = 1
 title = "IAESTE Japan"
 
 [languages.en]
 contentDir = "content/en"
-languageCode = 'en-US'
+locale = 'en-US'
 weight = 2
 title = "IAESTE Japan"
 
@@ -56,7 +56,11 @@ description = ""
 background_color_class = "bg-dark-blue"
 recent_posts_number = 3
 mainSections = ["news"]
+
+[params.ananke]
 custom_css = ["custom.css"]
+copy_code = false
+show_categories = false
 
 [params.ananke.social.share]
 networks = [
@@ -82,3 +86,10 @@ username = "iaeste_japan"
 [params.ananke.social.facebook]
 username = "iaeste.japan"
 # profilelink = "https://www.facebook.com/iaeste.japan/"
+
+# Keep Ananke's share links limited to news pages, as before the theme upgrade.
+[[cascade]]
+[cascade.params]
+disable_share = true
+[cascade.target]
+kind = "page"

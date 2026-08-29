@@ -7,6 +7,11 @@ table {
   overflow: auto;
 }
 
+/* Keep long-form pages wide without replacing Ananke's page template. */
+body.is-page article {
+    max-width: 64rem;
+}
+
 td,
 th {
   padding: 0;
@@ -145,4 +150,3 @@ blockquote.alert-caution {
 blockquote.alert-caution p.alert-heading {
     color: #8b0000; /* Specific color for Caution heading */
 }
-
