@@ -3,7 +3,7 @@ title: "Work. Experience. Discover."
 description: "The International Association for Exchange of Students for Technical Experience"
 theme_version: "2.9.1"
 cascade:
-  featured_image: "/images/eyecatch.jpg"
+  featured_image: "/images/eyecatch.webp"
 ---
 
 IAESTEは、The International Association for Exchange of Students for Technical Experience, Association sans but lucratifを正式名称とする非営利法人です。
