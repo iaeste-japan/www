@@ -3,6 +3,8 @@ steps:
     id: "fetch-firebase-binary"
     args:
       - "--silent"
+      - "--show-error"
+      - "--fail"
       - "--location"
       - "--output"
       - "/workspace/firebase"
@@ -11,10 +13,12 @@ steps:
     id: "fetch-hugo-binary"
     args:
       - "--silent"
+      - "--show-error"
+      - "--fail"
       - "--location"
       - "--output"
       - "/workspace/hugo.tar.gz"
-      - "https://github.com/gohugoio/hugo/releases/download/v${_HUGO_VERSION}/hugo_extended_${_HUGO_VERSION}_Linux-64bit.tar.gz"
+      - "https://github.com/gohugoio/hugo/releases/download/v${_HUGO_VERSION}/hugo_${_HUGO_VERSION}_Linux-64bit.tar.gz"
     waitFor: ["fetch-firebase-binary"]
   - name: "golang:1"
     id: "extract-and-deploy"
@@ -49,7 +53,7 @@ steps:
         /tmp/hugo --cleanDestinationDir --gc --minify --environment production
 
         # Clean up theme-ananke sample
-        rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
+        rm -f /workspace/public/images/gohugo-default-sample-hero-image.jpg
 
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive deploy --only hosting -m "Build ${BUILD_ID}"
@@ -61,14 +65,14 @@ steps:
         /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL ${_PREVIEW_URL}/ --buildFuture
 
         # Clean up theme-ananke sample
-        rm /workspace/public/images/gohugo-default-sample-hero-image.jpg
+        rm -f /workspace/public/images/gohugo-default-sample-hero-image.jpg
 
         cd /workspace/
         /tmp/firebase --project ${PROJECT_ID} --non-interactive hosting:channel:deploy ${_CHANNEL_ID} --expires ${_EXPIRE_TIME}
       fi
     waitFor: ["fetch-hugo-binary"]
 substitutions:
-  _HUGO_VERSION: 0.145.0
+  _HUGO_VERSION: 0.165.0
 options:
   automapSubstitutions: true
   logging: CLOUD_LOGGING_ONLY

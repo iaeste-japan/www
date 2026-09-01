@@ -2,7 +2,7 @@
 title: "Work. Experience. Discover."
 description: "The International Association for Exchange of Students for Technical Experience"
 cascade:
-  featured_image: "/images/eyecatch.jpg"
+  featured_image: "/images/eyecatch.webp"
 ---
 
 IAESTE, officially known as The International Association for Exchange of Students for Technical Experience, Association sans but lucratif, is a non-profit organization.
