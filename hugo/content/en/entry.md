@@ -2,7 +2,7 @@
 title: "Entry form"
 url: "entry/"
 featured_image: ""
-noindex_nofollow: true
+private: true
 ---
 
 > [!IMPORTANT]
