@@ -47,7 +47,7 @@ IAESTE を通じて外国人学生を受け入れることで、日本の将来�
 この IAESTE の経験を活用し、研修生を受入れる企業・大学を `事業協力会員` と呼んでおります。事業協力会員一覧は [会員情報](members.md)をご覧ください。
 
 受入れご検討の資料として、リーフレットをご用意しておりますのでご参照ください。  
- [IAESTE Internship Program](/files/employers/leatfet_internship_program-v20260902.pdf) 
+ [IAESTE Internship Program](/files/employers/leaflet_internship_program-v20260902.pdf) 
 
 ### インターンシップ生受入に関わる費用
 
