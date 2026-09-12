@@ -14,8 +14,9 @@ featured_image: ""
 
 ## Document List
 
-1. Please apply through the [Application Portal](https://application-portal.iaeste.or.jp) by following the instructions in the Application Manual.
-2. The IAESTE Handbook provides essential information for applicants, including an overview of IAESTE and its international internship program, its key features, and an example of internship offers. Please be sure to refer to it when applying.
+1. Please use the [Application Portal](https://application-portal.iaeste.or.jp) to apply. However, as the September 2026 application period has ended, the portal is currently available only for viewing existing accounts.
+2. For information about the application, please refer to the Application Manual for September Recruitment. The manual explains not only how to apply but also the process leading up to the start of the internship. Details of the April recruitment will be provided in the Application Manual for April Recruitment, which will be published at a later date.
+3. The IAESTE Handbook provides essential information for applicants, including an overview of IAESTE and its international internship program, its key features, and an example of internship offers. Please be sure to refer to it when applying.
  
 | Document Name | Format | Update Date |
 |---------------|--------|--------------------------|
