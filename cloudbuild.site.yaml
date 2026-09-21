@@ -1,0 +1,93 @@
+steps:
+  - name: "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_AR_REPOSITORY}/hugo-builder:${_HUGO_BUILDER_TAG}"
+    id: "prepare-firebase-channel"
+    waitFor: ["-"]
+    entrypoint: "bash"
+    env:
+      - "BUILD_ENV=${_BUILD_ENV}"
+      - "CHANNEL_ID=${SHORT_SHA}"
+      - "EXPIRE_TIME=${_EXPIRE_TIME}"
+    args:
+      - "-c"
+      - |
+        set -Eeuo pipefail
+        cd /workspace
+
+        if [[ "$${BUILD_ENV}" == "production" ]]; then
+          exit 0
+        fi
+
+        firebase --version
+        firebase --project "$${PROJECT_ID}" --non-interactive \
+          hosting:channel:delete "$${CHANNEL_ID}" --force || true
+        firebase --project "$${PROJECT_ID}" --non-interactive \
+          hosting:channel:create "$${CHANNEL_ID}"
+
+        preview_url="$$(firebase --project "$${PROJECT_ID}" --non-interactive \
+          hosting:channel:open "$${CHANNEL_ID}" \
+          | awk '{for (i = 1; i <= NF; i++) if ($$i ~ /^https:\/\//) { print $$i; exit }}')"
+        if [[ -z "$${preview_url}" ]]; then
+          echo "Firebase did not return a preview URL" >&2
+          exit 1
+        fi
+        printf 'PREVIEW_URL=%q\n' "$${preview_url}" > /workspace/preview.env
+        echo "Preview URL: $${preview_url}"
+
+  - name: "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_AR_REPOSITORY}/hugo-builder:${_HUGO_BUILDER_TAG}"
+    id: "build-hugo"
+    waitFor: ["prepare-firebase-channel"]
+    entrypoint: "bash"
+    env:
+      - "BUILD_ENV=${_BUILD_ENV}"
+    args:
+      - "-c"
+      - |
+        set -Eeuo pipefail
+        hugo version
+
+        mkdir -p /workspace/public
+        find /workspace/public -mindepth 1 -maxdepth 1 -exec rm -rf -- {} +
+
+        cd /workspace/hugo
+        if [[ "$${BUILD_ENV}" == "production" ]]; then
+          export HUGO_ENV="production"
+          hugo --cleanDestinationDir --gc --minify --environment production
+        else
+          source /workspace/preview.env
+          hugo --cleanDestinationDir --gc --minify \
+            --environment development --baseURL "$${PREVIEW_URL%/}/" --buildFuture
+        fi
+
+        rm -f /workspace/public/images/gohugo-default-sample-hero-image.jpg
+
+  - name: "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_AR_REPOSITORY}/hugo-builder:${_HUGO_BUILDER_TAG}"
+    id: "deploy-firebase"
+    waitFor: ["build-hugo"]
+    entrypoint: "bash"
+    env:
+      - "BUILD_ENV=${_BUILD_ENV}"
+      - "CHANNEL_ID=${SHORT_SHA}"
+      - "EXPIRE_TIME=${_EXPIRE_TIME}"
+    args:
+      - "-c"
+      - |
+        set -Eeuo pipefail
+
+        firebase --version
+        cd /workspace
+        if [[ "$${BUILD_ENV}" == "production" ]]; then
+          firebase --project "$${PROJECT_ID}" --non-interactive deploy \
+            --only hosting -m "Build $${BUILD_ID}"
+        else
+          firebase --project "$${PROJECT_ID}" --non-interactive \
+            hosting:channel:deploy "$${CHANNEL_ID}" --expires "$${EXPIRE_TIME}"
+        fi
+
+substitutions:
+  _REGION: "asia-northeast1"
+  _AR_REPOSITORY: "cloud-builders"
+  _HUGO_BUILDER_TAG: "go1-node-slim-hugo-0.166.0-firebase-latest-20260921"
+options:
+  automapSubstitutions: true
+  logging: CLOUD_LOGGING_ONLY
+timeout: "300s"

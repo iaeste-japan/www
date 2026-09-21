@@ -1,0 +1,33 @@
+steps:
+  - name: "gcr.io/cloud-builders/docker"
+    id: "build-hugo-builder"
+    waitFor: ["-"]
+    args:
+      - "build"
+      - "--pull"
+      - "--tag"
+      - "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_AR_REPOSITORY}/hugo-builder:${_HUGO_BUILDER_TAG}"
+      - "--build-arg"
+      - "HUGO_VERSION=${_HUGO_VERSION}"
+      - "--build-arg"
+      - "HUGO_SHA256=${_HUGO_SHA256}"
+      - "-f"
+      - "builders/hugo/Dockerfile"
+      - "."
+
+  - name: "gcr.io/cloud-builders/docker"
+    id: "push-hugo-builder"
+    waitFor: ["build-hugo-builder"]
+    args:
+      - "push"
+      - "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_AR_REPOSITORY}/hugo-builder:${_HUGO_BUILDER_TAG}"
+
+substitutions:
+  _REGION: "asia-northeast1"
+  _AR_REPOSITORY: "cloud-builders"
+  _HUGO_VERSION: "0.166.0"
+  _HUGO_SHA256: "45228f5a52eb118b0ca168068f01d7df0447314a24056f1d29667ed9fc368308"
+  _HUGO_BUILDER_TAG: "go1-node-slim-hugo-0.166.0-firebase-latest-20260921"
+options:
+  logging: CLOUD_LOGGING_ONLY
+timeout: "1200s"
