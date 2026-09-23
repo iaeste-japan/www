@@ -29,7 +29,7 @@ RUN apt-get update \
     && curl --fail --location --silent --show-error \
       --output /tmp/hugo.tar.gz \
       "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz" \
-    && printf '%s  %s\\n' "${HUGO_SHA256}" /tmp/hugo.tar.gz | sha256sum --check --strict - \
+    && printf '%s  %s\n' "${HUGO_SHA256}" /tmp/hugo.tar.gz | sha256sum --check --strict - \
     && tar -xzf /tmp/hugo.tar.gz -C /usr/local/bin hugo \
     && rm /tmp/hugo.tar.gz \
     && npm install --global --no-audit --no-fund firebase-tools@latest \
