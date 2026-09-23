@@ -18,12 +18,12 @@ steps:
         fi
 
         firebase --version
-        firebase --project "$${PROJECT_ID}" --non-interactive \
+        firebase --project "${PROJECT_ID}" --non-interactive \
           hosting:channel:delete "$${CHANNEL_ID}" --force || true
-        firebase --project "$${PROJECT_ID}" --non-interactive \
+        firebase --project "${PROJECT_ID}" --non-interactive \
           hosting:channel:create "$${CHANNEL_ID}"
 
-        preview_url="$$(firebase --project "$${PROJECT_ID}" --non-interactive \
+        preview_url="$$(firebase --project "${PROJECT_ID}" --non-interactive \
           hosting:channel:open "$${CHANNEL_ID}" \
           | awk '{for (i = 1; i <= NF; i++) if ($$i ~ /^https:\/\//) { print $$i; exit }}')"
         if [[ -z "$${preview_url}" ]]; then
@@ -76,10 +76,10 @@ steps:
         firebase --version
         cd /workspace
         if [[ "$${BUILD_ENV}" == "production" ]]; then
-          firebase --project "$${PROJECT_ID}" --non-interactive deploy \
-            --only hosting -m "Build $${BUILD_ID}"
+          firebase --project "${PROJECT_ID}" --non-interactive deploy \
+            --only hosting -m "Build ${BUILD_ID}"
         else
-          firebase --project "$${PROJECT_ID}" --non-interactive \
+          firebase --project "${PROJECT_ID}" --non-interactive \
             hosting:channel:deploy "$${CHANNEL_ID}" --expires "$${EXPIRE_TIME}"
         fi
 
