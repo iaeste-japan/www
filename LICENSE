@@ -1,21 +1,9 @@
-MIT License
+# 権利および利用許諾
 
-Copyright (c) 2023 IAESTE Japan
+このリポジトリには、IAESTE Japan ウェブサイトのソースコード、文章、画像、ロゴ、PDF 等が含まれます。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+このリポジトリを公開していることは、各素材を自由に再利用できることを意味しません。個別のライセンスまたは許諾の表示がある場合を除き、IAESTE Japan は、自らが権利を有する素材について、複製、改変、再配布、その他の利用を許諾していません。これらの利用には、権利者から個別に許諾を得てください。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+第三者が権利を有する素材には、それぞれのライセンスまたは許諾条件が適用されます。この通知は、それらの条件を変更するものではありません。利用中の Ananke テーマには、テーマ提供元のライセンスが適用されます。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+この通知は、過去のリビジョンに付された MIT ライセンスに基づき既に与えられた権利を遡って取り消すものではありません。また、GitHub の利用規約または適用法により認められる行為を制限するものではありません。
