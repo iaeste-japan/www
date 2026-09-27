@@ -8,7 +8,7 @@ steps:
       - "--location"
       - "--output"
       - "/workspace/firebase"
-      - "https://firebase.tools/bin/linux/latest"
+      - "https://firebase.tools/bin/linux/${_FIREBASE_TOOLS_VERSION}"
   - name: "gcr.io/cloud-builders/curl:latest"
     id: "fetch-hugo-binary"
     args:
@@ -73,6 +73,8 @@ steps:
     waitFor: ["fetch-hugo-binary"]
 substitutions:
   _HUGO_VERSION: 0.166.0
+  # Use "latest" to test the newest Firebase CLI, or "vX.Y.Z" to pin a release.
+  _FIREBASE_TOOLS_VERSION: "v15.30.2"
 options:
   automapSubstitutions: true
   logging: CLOUD_LOGGING_ONLY
