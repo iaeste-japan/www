@@ -1,0 +1,140 @@
+steps:
+  - name: "curlimages/curl-base:8.22.0"
+    id: "fetch-hugo-binary"
+    args:
+      - "--silent"
+      - "--show-error"
+      - "--fail"
+      - "--location"
+      - "--output"
+      - "/workspace/hugo.tar.gz"
+      - "https://github.com/gohugoio/hugo/releases/download/v${_HUGO_VERSION}/hugo_${_HUGO_VERSION}_Linux-64bit.tar.gz"
+
+  - name: "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
+    id: "prepare-firebase-hosting"
+    entrypoint: "bash"
+    env:
+      - "_CHANNEL_ID=${SHORT_SHA}"
+      - "_BUILD_ENV=${_BUILD_ENV}"
+      - "_EXPIRE_TIME=${_EXPIRE_TIME}"
+      - "PROJECT_ID=${PROJECT_ID}"
+    args:
+      - "-ceu"
+      - |
+        firebase --version
+
+        if [[ "$${_BUILD_ENV}" != "production" ]]; then
+          if _CHANNEL_OUTPUT="$(
+            firebase \
+              --project "$${PROJECT_ID}" \
+              --non-interactive \
+              hosting:channel:open "$${_CHANNEL_ID}" \
+              2>&1
+          )"; then
+            echo "Using existing preview channel $${_CHANNEL_ID}."
+          elif grep -Fq \
+            "Could not find the channel $${_CHANNEL_ID} for site" \
+            <<< "$${_CHANNEL_OUTPUT}"; then
+            echo "Preview channel $${_CHANNEL_ID} does not exist; creating it."
+
+            firebase \
+              --project "$${PROJECT_ID}" \
+              --non-interactive \
+              hosting:channel:create "$${_CHANNEL_ID}" \
+              --expires "$${_EXPIRE_TIME}"
+
+            _CHANNEL_OUTPUT="$(
+              firebase \
+                --project "$${PROJECT_ID}" \
+                --non-interactive \
+                hosting:channel:open "$${_CHANNEL_ID}"
+            )"
+          else
+            printf '%s\n' "$${_CHANNEL_OUTPUT}" >&2
+            exit 1
+          fi
+
+          _PREVIEW_URL="$(
+            printf '%s\n' "$${_CHANNEL_OUTPUT}" |
+              awk '{
+                for (i = 1; i <= NF; i++) {
+                  if ($i ~ /^https:\/\//) {
+                    print $i
+                    exit
+                  }
+                }
+              }'
+          )"
+
+          test -n "$${_PREVIEW_URL}"
+          printf '%s\n' "$${_PREVIEW_URL}" > /workspace/preview-url
+          echo "_PREVIEW_URL = $${_PREVIEW_URL}"
+        fi
+    waitFor: ["-"]
+
+  - name: "golang:1"
+    id: "build-site"
+    env:
+      - "_BUILD_ENV=${_BUILD_ENV}"
+    script: |
+      #!/usr/bin/env bash
+      set -euo pipefail
+
+      # Extract Hugo
+      mv hugo.tar.gz /tmp
+      tar -C /tmp -xzf /tmp/hugo.tar.gz
+
+      # Clean up the public directory
+      cd /workspace/public/
+      files=$(ls)
+      if [[ ! -z "$files" ]]; then
+        rm -r *
+      fi
+
+      # Build with Hugo
+      cd /workspace/hugo
+      if [[ "$_BUILD_ENV" == "production" ]]; then
+        export HUGO_ENV="production"
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment production
+      else
+        _PREVIEW_URL="$(cat /workspace/preview-url)"
+        test -n "$_PREVIEW_URL"
+        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL "${_PREVIEW_URL}/" --buildFuture
+      fi
+
+      # Clean up theme-ananke sample
+      rm -f /workspace/public/images/gohugo-default-sample-hero-image.jpg
+    waitFor:
+      - "fetch-hugo-binary"
+      - "prepare-firebase-hosting"
+
+  - name: "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
+    id: "deploy-site"
+    entrypoint: "bash"
+    env:
+      - "_CHANNEL_ID=${SHORT_SHA}"
+      - "_BUILD_ENV=${_BUILD_ENV}"
+      - "_EXPIRE_TIME=${_EXPIRE_TIME}"
+      - "PROJECT_ID=${PROJECT_ID}"
+      - "BUILD_ID=${BUILD_ID}"
+    args:
+      - "-ceu"
+      - |
+        cd /workspace
+
+        if [[ "$${_BUILD_ENV}" == "production" ]]; then
+          firebase --project "$${PROJECT_ID}" --non-interactive deploy --only hosting -m "Build $${BUILD_ID}"
+        else
+          firebase --project "$${PROJECT_ID}" --non-interactive hosting:channel:deploy "$${_CHANNEL_ID}" --expires "$${_EXPIRE_TIME}" --no-authorized-domains
+        fi
+    waitFor: ["build-site"]
+
+substitutions:
+  _HUGO_VERSION: 0.166.0
+  _FIREBASE_TOOLS_VERSION: "15.30.2"
+
+options:
+  automapSubstitutions: true
+  logging: CLOUD_LOGGING_ONLY
+
+timeout: "300s"
