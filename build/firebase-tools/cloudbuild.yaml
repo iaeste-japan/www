@@ -4,12 +4,12 @@ steps:
     args:
       - "build"
       - "--file"
-      - "builders/firebase-tools/Dockerfile"
+      - "build/firebase-tools/Dockerfile"
       - "--build-arg"
       - "FIREBASE_TOOLS_VERSION=${_FIREBASE_TOOLS_VERSION}"
       - "--tag"
       - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
-      - "builders/firebase-tools"
+      - "build/firebase-tools"
 
   - name: "gcr.io/cloud-builders/docker"
     id: "push-firebase-tools-image"
