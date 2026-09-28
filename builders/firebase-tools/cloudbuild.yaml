@@ -1,0 +1,27 @@
+steps:
+  - name: "gcr.io/cloud-builders/docker"
+    id: "build-firebase-tools-image"
+    args:
+      - "build"
+      - "--file"
+      - "builders/firebase-tools/Dockerfile"
+      - "--build-arg"
+      - "FIREBASE_TOOLS_VERSION=${_FIREBASE_TOOLS_VERSION}"
+      - "--tag"
+      - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
+      - "."
+
+  - name: "gcr.io/cloud-builders/docker"
+    id: "push-firebase-tools-image"
+    args:
+      - "push"
+      - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
+    waitFor: ["build-firebase-tools-image"]
+
+substitutions:
+  _FIREBASE_TOOLS_VERSION: "15.30.2"
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+timeout: "600s"
