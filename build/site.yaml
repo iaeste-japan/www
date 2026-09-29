@@ -131,7 +131,7 @@ steps:
 
 substitutions:
   _HUGO_VERSION: 0.166.0
-  _FIREBASE_TOOLS_VERSION: "15.30.2"
+  _FIREBASE_TOOLS_VERSION: "latest"
 
 options:
   automapSubstitutions: true
