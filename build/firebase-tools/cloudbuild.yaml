@@ -25,7 +25,7 @@ images:
 
 substitutions:
   _NODE_BASE_IMAGE: "node:24-trixie-slim"
-  _NPM_VERSION: "12.1.0"
+  _NPM_VERSION: "latest"
   _FIREBASE_TOOLS_VERSION: "15.30.2"
 
 options:
