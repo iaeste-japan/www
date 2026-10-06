@@ -29,6 +29,7 @@ substitutions:
   _FIREBASE_TOOLS_VERSION: "15.32.0"
 
 options:
+  workerRelease: regular
   logging: CLOUD_LOGGING_ONLY
 
 timeout: "600s"
