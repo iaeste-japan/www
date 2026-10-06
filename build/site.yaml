@@ -134,6 +134,7 @@ substitutions:
   _FIREBASE_TOOLS_VERSION: "latest"
 
 options:
+  workerRelease: regular
   automapSubstitutions: true
   logging: CLOUD_LOGGING_ONLY
 
