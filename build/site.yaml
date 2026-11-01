@@ -1,5 +1,5 @@
 steps:
-  - name: "curlimages/curl-base:8.22.0"
+  - name: "curlimages/curl-base:latest"
     id: "fetch-hugo-binary"
     args:
       - "--silent"
