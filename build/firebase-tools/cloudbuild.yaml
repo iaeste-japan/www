@@ -1,0 +1,35 @@
+steps:
+  - name: "gcr.io/cloud-builders/docker"
+    id: "build-firebase-tools-image"
+    args:
+      - "build"
+      - "--pull"
+      - "--no-cache"
+      - "--file"
+      - "build/firebase-tools/Dockerfile"
+      - "--build-arg"
+      - "NODE_BASE_IMAGE=${_NODE_BASE_IMAGE}"
+      - "--build-arg"
+      - "NPM_VERSION=${_NPM_VERSION}"
+      - "--build-arg"
+      - "FIREBASE_TOOLS_VERSION=${_FIREBASE_TOOLS_VERSION}"
+      - "--tag"
+      - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
+      - "--tag"
+      - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:latest"
+      - "build/firebase-tools"
+
+images:
+  - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:${_FIREBASE_TOOLS_VERSION}"
+  - "asia-northeast1-docker.pkg.dev/${PROJECT_ID}/cloud-builders/firebase-tools:latest"
+
+substitutions:
+  _NODE_BASE_IMAGE: "node:24-trixie-slim"
+  _NPM_VERSION: "latest"
+  _FIREBASE_TOOLS_VERSION: "15.32.0"
+
+options:
+  workerRelease: regular
+  logging: CLOUD_LOGGING_ONLY
+
+timeout: "600s"
