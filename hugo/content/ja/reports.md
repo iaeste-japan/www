@@ -6,35 +6,35 @@ featured_image: ""
 
 ## 研修生交換実績
 
-IAESTE Japan 全体での研修生交換実績です。
+各年度に交換した研修生の人数とその内訳です。
 
-| 年度 | 実績 |
-| --- | ---- |
-| FY2025 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2025.pdf) |
-| FY2024 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2024.pdf) |
-| FY2023 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2023.pdf) |
-| FY2022 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2022.pdf) |
-| FY2021 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2021.pdf) |
-| FY2020 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2020.pdf) |
-| FY2019 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2019.pdf) |
-| FY2018 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2018.pdf) |
-| FY2017 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2017.pdf) |
-| FY2016 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2016.pdf) |
-| FY2015 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2015.pdf) |
-| FY2014 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2014.pdf) |
-| FY2013 | [交換 (送出/受入) ](/files/internship/reports/exchange-results-fy2013.pdf) |
-
----
+| 年度 | 交換実績 | 年度 | 交換実績 |
+| --- | ---- | --- | ---- |
+| FY2026 | [PDF ](/files/internship/reports/exchange-results-fy2026.pdf) | FY2021 | [PDF ](/files/internship/reports/exchange-results-fy2021.pdf) |
+| FY2025 | [PDF ](/files/internship/reports/exchange-results-fy2025.pdf) | FY2020 | [PDF ](/files/internship/reports/exchange-results-fy2020.pdf) |
+| FY2024 | [PDF ](/files/internship/reports/exchange-results-fy2024.pdf) | FY2019 | [PDF ](/files/internship/reports/exchange-results-fy2019.pdf) |
+| FY2023 | [PDF ](/files/internship/reports/exchange-results-fy2023.pdf) | FY2018 | [PDF ](/files/internship/reports/exchange-results-fy2018.pdf) |
+| FY2022 | [PDF ](/files/internship/reports/exchange-results-fy2022.pdf) | FY2017 | [PDF ](/files/internship/reports/exchange-results-fy2017.pdf) |
 
 ## 送出研修生の報告書
 
-### 研修報告書 (個人毎)
+### 研修報告書
 
-海外で研修を行ってきた方々の研修報告書です。報告書には、研修内容、研修先での生活、研修後の感想や研修実施上のアドバイスなどが記載されています。
-なお、HP掲載に同意を得た報告書のみを掲載している関係上、掲載された報告書の数は送出国数や送出した研修生の人数を反映するものではありません。
+貴国後に各研修生が研修内容、研修中の生活の様子を紹介した写真入りの報告書です。アンケートへの回答形式で実際の生活費や研修志望者へのアドバイスなども載っていますので参考にしてください。
+
+なお、掲載しているのは同意を得たものだけであり、その数は送出国の人数を反映しておりません。
 
 | 年度   | 専門分野      | 送出国           | 研修報告書 |
 | ------ | ----------- | --------------- | -------- |
+| FY2026 | 情報科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-okumura.pdf) |
+| FY2026 | 環境工学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-cz-matsuda.pdf) |
+| FY2026 | 機械工学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-cz-watanabe.pdf) |
+| FY2026 | 微生物学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-okumura.pdf) |
+| FY2026 | 情報工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/raining-report-fy2026-de-anonymous.pdf) |
+| FY2026 | 生理学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous-2.pdf) |
+| FY2026 | 地理学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous-3.pdf) |
+| FY2026 | 資源工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous-4.pdf) |
+| FY2025 | 機械工学 | ポーランド共和国 | [PDF](/files/internship/reports/raining-report-fy2026-pl-anonymous.pdf) |
 | FY2025 | 物理物質科学 | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2025-at-ichikawa.pdf) |
 | FY2025 | 保健学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous.pdf) |
 | FY2025 | 高分子化学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2025-cz-anonymous-2.pdf) |
@@ -90,7 +90,6 @@ IAESTE Japan 全体での研修生交換実績です。
 | FY2018 | 土木工学     | ドイツ連邦共和国   | [PDF](/files/internship/reports/training-report-fy2018-de-kishida.pdf) |
 | FY2018 | 機械工学     | チェコ共和国      | [PDF](/files/internship/reports/training-report-fy2018-cz-moritoki.pdf) |
 | FY2018 | バイオインフォマティック | オーストリア共和国 | [PDF](/files/internship/reports/training-report-fy2018-at-yang.pdf) |
-| FY2017 | ロボティクス | アメリカ合衆国     | [PDF](/files/internship/reports/training-report-fy2017-us-kawanishi.pdf) |
 
 ### てくのぴりあん
 
