@@ -6,7 +6,7 @@ featured_image: ""
 
 ## 研修生交換実績
 
-各年度に交換した研修生の人数とその内訳です。
+各年度に交換した研修生の人数とその内訳（国・専門分野別）を示します。
 
 | 年度 | 交換実績 | 年度 | 交換実績 |
 | --- | ---- | --- | ---- |
@@ -20,17 +20,17 @@ featured_image: ""
 
 ### 研修報告書
 
-貴国後に各研修生が研修内容、研修中の生活の様子を紹介した写真入りの報告書です。アンケートへの回答形式で実際の生活費や研修志望者へのアドバイスなども載っていますので参考にしてください。
+研修修了後に研修内容や現地での生活を紹介した写真入りの報告書です。実際の生活費や研修志望者へのアドバイスなども載っていますので参考にしてください。
 
-なお、掲載しているのは同意を得たものだけであり、その数は送出国の人数を反映しておりません。
+なお、掲載しているのは公開に同意を得たものだけなので、その数は送出国の人数を反映するものではありません。
 
 | 年度   | 専門分野      | 送出国           | 研修報告書 |
-| ------ | ----------- | --------------- | -------- |
-| FY2026 | 情報科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-okumura.pdf) |
+| ------ | ----- | ------ | ----- |
+| FY2026 | 情報科学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-cz-suzuki.pdf) |
 | FY2026 | 環境工学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-cz-matsuda.pdf) |
 | FY2026 | 機械工学 | チェコ共和国 | [PDF](/files/internship/reports/training-report-fy2026-cz-watanabe.pdf) |
 | FY2026 | 微生物学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-okumura.pdf) |
-| FY2026 | 情報工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/raining-report-fy2026-de-anonymous.pdf) |
+| FY2026 | 情報工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous.pdf) |
 | FY2026 | 生理学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous-2.pdf) |
 | FY2026 | 地理学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous-3.pdf) |
 | FY2026 | 資源工学 | ドイツ連邦共和国 | [PDF](/files/internship/reports/training-report-fy2026-de-anonymous-4.pdf) |
