@@ -130,7 +130,7 @@ steps:
     waitFor: ["build-site"]
 
 substitutions:
-  _HUGO_VERSION: 0.166.0
+  _HUGO_VERSION: 0.169.0
   _FIREBASE_TOOLS_VERSION: "latest"
 
 options:
