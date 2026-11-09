@@ -76,6 +76,7 @@ steps:
     id: "build-site"
     env:
       - "_BUILD_ENV=${_BUILD_ENV}"
+      - "HUGO_BUILD_CLEANDESTINATIONDIR_ENABLE=true"
     script: |
       #!/usr/bin/env bash
       set -euo pipefail
@@ -95,11 +96,11 @@ steps:
       cd /workspace/hugo
       if [[ "$_BUILD_ENV" == "production" ]]; then
         export HUGO_ENV="production"
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment production
+        /tmp/hugo --gc --minify --environment production
       else
         _PREVIEW_URL="$(cat /workspace/preview-url)"
         test -n "$_PREVIEW_URL"
-        /tmp/hugo --cleanDestinationDir --gc --minify --environment development --baseURL "${_PREVIEW_URL}/" --buildFuture
+        /tmp/hugo --gc --minify --environment development --baseURL "${_PREVIEW_URL}/" --buildFuture
       fi
 
       # Clean up theme-ananke sample
@@ -130,7 +131,7 @@ steps:
     waitFor: ["build-site"]
 
 substitutions:
-  _HUGO_VERSION: 0.166.0
+  _HUGO_VERSION: 0.169.0
   _FIREBASE_TOOLS_VERSION: "latest"
 
 options:
