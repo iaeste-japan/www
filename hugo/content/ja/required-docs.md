@@ -14,7 +14,7 @@ featured_image: ""
 
 ## ドキュメント一覧
 
-1. 次回の応募開始は2027年4月1日を予定しています。募集開始前に[応募ポータル](https://application-portal.iaeste.or.jp) を開設し、募集開始日から応募が可能となります。
+1. 次回の応募開始は2027年4月1日を予定しています。募集開始前に[応募ポータル](https://application-portal.iaeste.or.jp) を開設し、募集開始日から応募が可能となる予定です。
 2. 応募方法については、[応募マニュアル（9月の応募用）](/files/internship/required-docs/application-manual-september-ja-v20260901.pdf)を参考にしてください。4月募集は9月募集と一部内容が異なりますので、4月に応募する際は掲載予定の「応募マニュアル（4月の応募用）」をご確認ください。
 
 
