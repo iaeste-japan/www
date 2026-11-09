@@ -21,21 +21,23 @@ featured_image: ""
 |---------------|--------|--------------------------|
 | [Application Manual for September Recruitment](/files/internship/required-docs/application-manual-september-en-v20260901.pdf)| .pdf | 2026-09-01 |
 | Application Manual for April Recruitment | .pdf | (In Preparation) |
-| [IAESTE Handbook ( refference)](/files/internship/required-docs/iaeste-handbook-en-v20260901.pdf) | .pdf | 2026-09-01 |
+| [IAESTE Handbook (Refference)](/files/internship/required-docs/iaeste-handbook-en-v20260901.pdf) | .pdf | 2026-09-01 |
 | [Internship Preparation Manual](/files/internship/required-docs/internship-preparation-manual-en-v20260901.pdf)| .pdf | 2026-09-01 |
 | [Motivation Statement](/files/internship/required-docs/motivation-statement-v20260901.docx) | .docx | 2026-09-01 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)  | .docx | 2022-08-16 |
 
 ## Minimum English Proficiency Requirements
-When applying, you will be asked to select an offer type (see [What is Offer?](offers.md)). The minimum English test score required depends on the offer type you select.
+When applying, you will be asked to select an offer type (see [What is Offer?](offers.md)). The minimum English test score required depends on the offer type you select. The score must be no more than two years old when the nomination documents are submitted.
 
 | Examination | Exchange Internship | Global Internship |
 | --- | :-----: | :-----: |
-| **TOEFL iBT**  | 4 | 4.5 |
-| **IELTS** | 5.5 | 6.5 |
+| **TOEFL iBT** (from Jan. 2026) | 4 | 4.5 |
+| **TOEFL iBT** (before Jan. 2026) | 72(*1) | 86(*1) |
 | **Cambridge English Qualifications** | B2 First | C1 Advanced |
 | **STEP Eiken** | Grade Pre-1 | Grade Pre-1 |
 | **TOEIC Listening & Reading** | 650 | 785 | 
+
+*1: Because the TOEFL iBT score reporting system changed in January 2026, applicants may use TOEFL iBT scores obtained before the change for the time being. However, as some internship hosts may require the new TOEFL iBT score, we strongly recommend obtaining a new score before your Nomination Documents are submitted.
 
 ### Notes on English Proficiency after Application
 
