@@ -26,7 +26,6 @@ featured_image: ""
 | [Motivation Statement](/files/internship/required-docs/motivation-statement-v20260901.docx) | .docx | 2026-09-01 |
 | [Pledge](/files/internship/required-docs/pledge-en-v20220816.docx)  | .docx | 2022-08-16 |
 
-
 ## Minimum English Proficiency Requirements
 When applying, you will be asked to select an offer type (see [What is Offer?](offers.md)). The minimum English test score required depends on the offer type you select.
 
