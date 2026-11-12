@@ -13,7 +13,7 @@ IAESTEは、The International Association for Exchange of Students for Technical
 **学生の皆さんへ**
 
 研修体験者のレポートを読んで、海外での仕事や生活を追体験してみませんか？
-[このページ](report.md)のリストからレポートをお選びください。
+[このページ](reports.md)のリストからレポートをお選びください。
 
 **企業・大学の方へ**
 
