@@ -7,20 +7,13 @@ cascade:
 
 IAESTE, officially known as The International Association for Exchange of Students for Technical Experience, Association sans but lucratif, is a non-profit organization.
 
-It is commonly referred to as IAESTE A.s.b.l.
 
-Since its establishment in 1948, IAESTE has provided internship opportunities in fields such as Science, Technology, Engineering, Mathematics (STEM), to over 370,000 students worldwide, contributing to talent development, international understanding, and goodwill.
+**For Students**
 
-<div align="center">
+Why not read reports from former interns and get a taste of what it is like to work and live abroad? Choose a report from our [internship reports page (in Japanese)](https://www.iaeste.or.jp/internship/reports/).
 
-|                                       |               |
-| ------------------------------------- | ------------- |
-| Countries hosting internships         | 80 or more    |
-| Institutions hosting internships      | 3,000 or more |
-| Students participating in internships | Over 3,500    |
+**For Companies and Universities**
 
-</div>
+Companies and universities around the world welcome international students for a variety of reasons. Please take a look at our [Information on Hosting International Interns (in Japanese)](https://www.iaeste.or.jp/employers/) and consider becoming a host organization.
 
-<div class="right-align">
-    *All data based on 2019 statistics.
-</div>
+You may also find it helpful to read [reports from international students](https://iaeste.org/student-testimonials?internship_alpha_3%5B%5D=JPN) who completed internships in Japan.
