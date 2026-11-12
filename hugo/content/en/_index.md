@@ -10,7 +10,7 @@ IAESTE, officially known as The International Association for Exchange of Studen
 
 **For Students**
 
-Why not read reports from former interns and get a taste of what it is like to work and live abroad? Choose [reports (in Japanese)](https://github.com/iaeste-japan/www/blob/development/hugo/content/ja/reports.md) from the list on this page.
+Why not read reports from former interns and get a taste of what it is like to work and live abroad? Choose a report from our [internship reports page (in Japanese)](https://www.iaeste.or.jp/internship/reports/).
 
 **For Companies and Universities**
 
